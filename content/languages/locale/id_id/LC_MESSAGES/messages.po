@@ -1,0 +1,7639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 14:18+0200\n"
+"PO-Revision-Date: 2021-08-18 04:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian (Indonesia)\n"
+"Language: id-ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: id_ID\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "(Note: Admin is exception)"
+msgstr "(Catatan: Admin adalah pengecualian)"
+
+msgid "404 Not Found"
+msgstr "404 tidak ditemukan"
+
+msgid ""
+"A test SMS will be sent to this phone number when you test the connection"
+msgstr "SMS tes akan dikirim ke nomor telepon ini saat Anda menguji koneksi"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "About Me"
+msgstr "Tentang Saya"
+
+msgid "Access Key ID"
+msgstr "Access Key ID"
+
+msgid "Access Key Secret"
+msgstr "Access Key Secret"
+
+msgid "Account"
+msgstr "Akun"
+
+msgid "Account Settings"
+msgstr "Pengaturan Akun"
+
+msgid "Action Button"
+msgstr "Tombol Tindakan"
+
+msgid "Action Button Color"
+msgstr "Warna Tombol Aksi"
+
+msgid "Action Button Text"
+msgstr "Teks Tombol Tindakan"
+
+msgid "Action Button URL"
+msgstr "URL Tombol Tindakan"
+
+msgid "Actions"
+msgstr "Aksi"
+
+msgid "Activated"
+msgstr "Diaktifkan"
+
+msgid "Activation Code"
+msgstr "Kode aktivasi"
+
+msgid "Activation Enabled"
+msgstr "Aktivasi Diaktifkan"
+
+msgid "Activation SMS could not be sent"
+msgstr "SMS aktivasi tidak dapat dikirim"
+
+msgid "Activation email could not be sent"
+msgstr "Email aktivasi tidak dapat dikirim"
+
+msgid "Activation key email could not be sent!"
+msgstr "Email kunci aktivasi tidak dapat dikirim!"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Active Session"
+msgstr "Sesi Aktif"
+
+msgid "Adblock Detector"
+msgstr "Adblock Detector"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Add Friend"
+msgstr "Tambahkan Teman"
+
+msgid "Add Friends"
+msgstr "Tambahkan teman"
+
+msgid "Add New"
+msgstr "Tambah baru"
+
+msgid "Add New Ads"
+msgstr "Tambahkan Iklan Baru"
+
+msgid "Add New Announcement"
+msgstr "Tambahkan Pengumuman Baru"
+
+msgid "Add New Article"
+msgstr "Tambahkan Artikel Baru"
+
+msgid "Add New Category"
+msgstr "Tambah Kategori Baru"
+
+msgid "Add New Emoji"
+msgstr "Tambahkan Emoji Baru"
+
+msgid "Add New Field"
+msgstr "Tambahkan Bidang Baru"
+
+msgid "Add New Forum"
+msgstr "Tambahkan Forum Baru"
+
+msgid "Add New Genre"
+msgstr "Tambahkan Genre Baru"
+
+msgid "Add New Language"
+msgstr "Tambahkan Bahasa Baru"
+
+msgid "Add New Movie"
+msgstr "Tambahkan Film Baru"
+
+msgid "Add New Package"
+msgstr "Tambahkan Paket Baru"
+
+msgid "Add New Page"
+msgstr "Tambahkan Halaman Baru"
+
+msgid "Add New Product"
+msgstr "Tambahkan Produk Baru"
+
+msgid "Add New Sticker"
+msgstr "Tambahkan Stiker Baru"
+
+msgid "Add New Theme"
+msgstr "Tambahkan Tema Baru"
+
+msgid "Add New game"
+msgstr "Tambahkan permainan baru"
+
+msgid "Add New widget"
+msgstr "Tambahkan widget baru"
+
+msgid "Add Photos"
+msgstr "Menambahkan foto"
+
+msgid "Add an option"
+msgstr "Tambahkan opsi"
+
+msgid "Add description for your job"
+msgstr "Tambahkan deskripsi untuk pekerjaan Anda"
+
+msgid "Add description for your offer"
+msgstr "Tambahkan deskripsi untuk penawaran Anda"
+
+msgid "Add title for your job"
+msgstr "Tambahkan judul untuk pekerjaan Anda"
+
+msgid "Add title for your offer"
+msgstr "Tambahkan judul untuk penawaran Anda"
+
+msgid "Add to Footer Menu"
+msgstr "Tambahkan ke Menu Footer"
+
+msgid "Added"
+msgstr "Ditambahkan"
+
+msgid "Additional Information"
+msgstr "Informasi tambahan"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Admin Panel"
+msgstr "Admin Dashboard"
+
+msgid "Administrators"
+msgstr "Administrator"
+
+msgid "Admins"
+msgstr "Buddy Admin"
+
+msgid "Ads"
+msgstr "Iklan"
+
+msgid "Ads Description"
+msgstr "Deskripsi Iklan"
+
+msgid "Ads Details"
+msgstr "Detail Iklan"
+
+msgid "Ads Image"
+msgstr "Gambar Iklan"
+
+msgid "Ads Manager"
+msgstr "Manajer Iklan"
+
+msgid "Ads Placement"
+msgstr "Penempatan Iklan"
+
+msgid "Ads Settings"
+msgstr "Pengaturan Iklan"
+
+msgid "Ads Title"
+msgstr "Judul Iklan"
+
+msgid "Ads info have been updated"
+msgstr "Info iklan telah diperbarui"
+
+msgid "Advanced Search"
+msgstr "Pencarian Lanjutan"
+
+msgid "Advertise For"
+msgstr "Beriklan Untuk"
+
+msgid "Advertising"
+msgstr "Buddy Ads"
+
+msgid "Affiliates"
+msgstr "Afiliasi"
+
+msgid "Affiliates Credit"
+msgstr "Kredit Afiliasi"
+
+msgid "Affiliates Enabled"
+msgstr "Afiliasi Diaktifkan"
+
+msgid "Affiliates Settings"
+msgstr "Pengaturan Afiliasi"
+
+msgid "Affiliates System"
+msgstr "Sistem Afiliasi"
+
+msgid "After making the payment you can mark the payment request as paid"
+msgstr ""
+"Setelah melakukan pembayaran, Anda dapat menandai permintaan pembayaran "
+"sebagai dibayar"
+
+msgid "After you turn off the ad blocker, you'll need to refresh your screen"
+msgstr "Setelah Anda mematikan pemblokir iklan, Anda perlu refresh layar Anda"
+
+msgid "Age Restriction"
+msgstr "Batasan Usia"
+
+msgid "Agora App ID"
+msgstr "ID Aplikasi Agora"
+
+msgid "Agora Customer Secret"
+msgstr "Rahasia Pelanggan Agora"
+
+msgid "Album title"
+msgstr "Judul album"
+
+msgid "Albums"
+msgstr "Album"
+
+msgid "Alert Sound"
+msgstr "Suara Peringatan"
+
+msgid "Alipay"
+msgstr "Alipay"
+
+msgid "Alipay Enabled"
+msgstr "Alipay Diaktifkan"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "All Members"
+msgstr "Semua anggota"
+
+msgid "All Users"
+msgstr "Semua pengguna"
+
+msgid "All expired subscribers and their boosted posts and pages resetted"
+msgstr ""
+"Semua pelanggan yang kedaluwarsa dan postingan serta halaman yang di "
+"boosting disetel ulang"
+
+msgid "Allow users to create accounts"
+msgstr "Izinkan pengguna membuat akun"
+
+msgid "Allow users to create accounts Free or via Subscriptions only"
+msgstr ""
+"Izinkan pengguna membuat akun Gratis atau hanya melalui Langganan (Buddy Pro "
+"System)"
+
+msgid "Allow users to create ads"
+msgstr "Izinkan pengguna membuat iklan"
+
+msgid "Allow users to delete their account"
+msgstr "Izinkan pengguna untuk menghapus akun mereka"
+
+msgid "Allowed audio extensions (separated with comma ',)"
+msgstr "Ekstensi audio yang diizinkan (dipisahkan dengan koma ',)"
+
+msgid "Allowed file extensions (separated with comma ',)"
+msgstr "Ekstensi file yang diizinkan (dipisahkan dengan koma ',)"
+
+msgid "Allowed video extensions (separated with comma ',)"
+msgstr "Ekstensi video yang diizinkan (dipisahkan dengan koma ',)"
+
+msgid "Also search in child forums"
+msgstr "Cari juga di child forum"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "Amazon S3 Storage"
+msgstr "Amazon S3 Storage"
+
+msgid "Amount"
+msgstr "Total"
+
+msgid "An error occurred while writing to database. Please try again later"
+msgstr "Terjadi kesalahan saat menulis ke database. Silakan coba lagi nanti"
+
+msgid "Analytics"
+msgstr "Analytic"
+
+msgid "Analytics Settings"
+msgstr "Pengaturan Analytic"
+
+msgid "Android"
+msgstr "Android"
+
+msgid "Angry"
+msgstr "Marah"
+
+msgid "Announcement info have been updated"
+msgstr "Info pengumuman telah diperbarui"
+
+msgid "Announcement name will appear only in the admin panel"
+msgstr "Nama pengumuman hanya akan muncul di panel admin"
+
+msgid "Announcement name will appear only in the admin panel (mandatory)"
+msgstr "Nama pengumuman hanya akan muncul di panel admin (wajib)"
+
+msgid "Announcement title will appear on the announcement block"
+msgstr "Judul pengumuman akan muncul di blok pengumuman"
+
+msgid "Announcements"
+msgstr "Pengumuman"
+
+msgid "Annoyed"
+msgstr "Terganggu"
+
+msgid "Anonymous post"
+msgstr "Postingan anonim"
+
+msgid "Another SMS has been sent"
+msgstr "SMS lain telah terkirim"
+
+msgid "Another email has been sent"
+msgstr "Email lain telah dikirim"
+
+msgid "Any"
+msgstr "Lainnya"
+
+msgid "Anyone can see the event, its users and posts"
+msgstr "Siapa pun dapat melihat acara, penggunanya, dan postingannya"
+
+msgid "Anyone can see the group, its members and their posts"
+msgstr "Siapa pun dapat melihat grup, anggotanya, dan postingannya"
+
+msgid "Appears after"
+msgstr "Muncul setelah"
+
+msgid "Appears on all pages right after the header"
+msgstr "Muncul di semua halaman tepat setelah header"
+
+msgid "Appears on all pages right before the footer"
+msgstr "Muncul di semua halaman tepat sebelum footer"
+
+msgid "Appears on the right panel of directory"
+msgstr "Muncul di panel kanan direktori"
+
+msgid "Appears on the right panel of discover people page"
+msgstr "Muncul di panel kanan halaman temukan orang"
+
+msgid "Appears on the right panel of home page"
+msgstr "Muncul di panel kanan halaman beranda"
+
+msgid "Appears on the right panel of notifications page"
+msgstr "Muncul di panel kanan halaman notifikasi"
+
+msgid "Appears on the right panel of photo page"
+msgstr "Muncul di panel kanan halaman foto"
+
+msgid "Appears on the right panel of post page"
+msgstr "Muncul di panel kanan halaman posting"
+
+msgid "Appears on the right panel of search page"
+msgstr "Muncul di panel kanan halaman pencarian"
+
+msgid "Appears on the sidebar on article page"
+msgstr "Muncul di sidebar pada halaman artikel"
+
+msgid "Appears on the top of products list"
+msgstr "Muncul di bagian atas daftar produk"
+
+msgid "Apply Now"
+msgstr "Lamar Sekarang"
+
+msgid "Approve"
+msgstr "Setuju"
+
+msgid "Approved"
+msgstr "Disetujui"
+
+msgid "Apr"
+msgstr "April"
+
+msgid "Are you sure you want to approve this request?"
+msgstr "Apakah Anda yakin ingin menyetujui permintaan ini?"
+
+msgid "Are you sure you want to block this user?"
+msgstr "Apakah Anda yakin ingin memblokir orang ini?"
+
+msgid "Are you sure you want to decline this request?"
+msgstr "Anda yakin ingin menolak permintaan ini?"
+
+msgid "Are you sure you want to delete this comment?"
+msgstr "Anda yakin ingin menghapus komentar ini?"
+
+msgid "Are you sure you want to delete this conversation?"
+msgstr "Anda yakin ingin menghapus Obrolan ini?"
+
+msgid "Are you sure you want to delete this post?"
+msgstr "Anda yakin ingin menghapus postingan ini?"
+
+msgid "Are you sure you want to delete this?"
+msgstr "apa anda yakin ingin menghapus ini?"
+
+msgid "Are you sure you want to delete your account?"
+msgstr "Apakah Anda yakin ingin menghapus akun Anda?"
+
+msgid "Are you sure you want to do this?"
+msgstr "Apakah Anda yakin ingin melakukan ini?"
+
+msgid "Are you sure you want to remove your cover photo?"
+msgstr "Anda yakin ingin menghapus foto sampul Anda?"
+
+msgid "Are you sure you want to remove your profile picture?"
+msgstr "Anda yakin ingin menghapus foto profil Anda?"
+
+msgid "Are you sure you want to report this?"
+msgstr "Apakah anda yakin ingin melaporkan ini?"
+
+msgid "Are you sure you want to unblock this user?"
+msgstr "Anda yakin ingin membuka blokir orang ini?"
+
+msgid "Are you sure you want to verify this request?"
+msgstr "Yakin ingin memverifikasi permintaan ini?"
+
+msgid "Article  Page"
+msgstr "Halaman Artikel"
+
+msgid "Article Page"
+msgstr "Halaman Artikel"
+
+msgid "Article title must be at least 3 characters long. Please try another"
+msgstr "Judul artikel harus minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Articles"
+msgstr "Arikel"
+
+msgid "Ask a question so people know what your poll is about"
+msgstr "Ajukan pertanyaan agar orang tahu tentang polling Anda"
+
+msgid "Ask something"
+msgstr "Tanyakan sesuatu"
+
+msgid "Ask your question"
+msgstr "Tanyakan pertanyaanmu"
+
+msgid "Attending"
+msgstr "Hadir"
+
+msgid "Audience Country"
+msgstr "Negara Pemirsa"
+
+msgid "Audience Gender"
+msgstr "Audience Jenis Kelamin"
+
+msgid "Audience Relationship"
+msgstr "Status Hubungan Audiens"
+
+msgid "Audio extensions"
+msgstr "Ekstensi audio"
+
+msgid "Audio uploaded successfully"
+msgstr "Audio berhasil diunggah"
+
+msgid "Audios"
+msgstr "Audio"
+
+msgid "Aug"
+msgstr "Agustus"
+
+msgid "Back to Albums"
+msgstr "Kembali ke Album"
+
+msgid "Background Color"
+msgstr "Warna latar belakang"
+
+msgid "Banned"
+msgstr "Dilarang"
+
+msgid "Basic"
+msgstr "Dasar"
+
+msgid "Basic Info"
+msgstr "Basic Info"
+
+msgid ""
+"Before disabling Amazon S3, make sure you download the whole 'uploads' "
+"folder to your server"
+msgstr ""
+"Sebelum menonaktifkan Amazon S3, pastikan Anda mengunduh seluruh folder "
+"'upload' ke server Anda"
+
+msgid ""
+"Before enabling Amazon S3, make sure you upload the whole 'uploads' folder "
+"to your bucket"
+msgstr ""
+"Sebelum mengaktifkan Amazon S3, pastikan Anda mengunggah seluruh folder "
+"'upload' ke bucket Anda"
+
+msgid ""
+"Before you can interact with other users, you need to confirm your email "
+"address"
+msgstr ""
+"Sebelum Anda dapat berinteraksi dengan orang lain, Anda perlu mengonfirmasi "
+"alamat email Anda"
+
+msgid "Bidding"
+msgstr "Menawar"
+
+msgid "Birthdate"
+msgstr "Tanggal Lahir"
+
+msgid "Block"
+msgstr "Blokir"
+
+msgid "Block User"
+msgstr "Blokiran Pengguna"
+
+msgid "Blocking"
+msgstr "Pemblokiran"
+
+msgid "Blogs"
+msgstr "Blog"
+
+msgid "Boost"
+msgstr "Boosting"
+
+msgid "Boost Page"
+msgstr "Boosting Halaman"
+
+msgid "Boost Pages"
+msgstr "Boosting Halaman"
+
+msgid "Boost Pages Enabled"
+msgstr "Boosting Halaman Diaktifkan"
+
+msgid "Boost Post"
+msgstr "Boosting Kiriman"
+
+msgid "Boost Posts"
+msgstr "Boosting Kiriman"
+
+msgid "Boost Posts Enabled"
+msgstr "Boosting Kiriman Diaktifkan"
+
+msgid "Boost up to"
+msgstr "Boosting Sampai "
+
+msgid "Boosted Pages"
+msgstr "Boosting Halaman"
+
+msgid "Boosted Posts"
+msgstr "Boosting Kiriman"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Browser Notifications"
+msgstr "Pemberitahuan Browser"
+
+msgid "Bucket Name"
+msgstr "Nama Bucket"
+
+msgid "Bucket Region"
+msgstr "Bucket Region"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "Build"
+msgstr "Build"
+
+msgid "But you can login now"
+msgstr "Tapi kamu bisa login sekarang"
+
+msgid "Button Primary"
+msgstr "Tombol Utama"
+
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+msgid "By"
+msgstr "Oleh"
+
+msgid "By creating your account, you agree to our"
+msgstr "Dengan membuat akun Anda, Anda menyetujui"
+
+msgid "Calling"
+msgstr "Memanggil"
+
+msgid "Campaign Bidding"
+msgstr "Penawaran Kampanye"
+
+msgid "Campaign Budget"
+msgstr "Anggaran Kampanye"
+
+msgid "Campaign Details"
+msgstr "Detail Kampanye"
+
+msgid "Campaign End Date"
+msgstr "Tanggal akhir kampanye"
+
+msgid "Campaign Start Date"
+msgstr "Tanggal Mulai Kampanye"
+
+msgid "Campaign Title"
+msgstr "Judul Kampanye"
+
+msgid "Campaign end date must be after the start date"
+msgstr "Tanggal akhir kampanye harus setelah tanggal mulai"
+
+msgid "Campaign end date must be after today datetime"
+msgstr "Tanggal akhir kampanye harus setelah tanggal hari ini"
+
+msgid "Campaign settings have been updated"
+msgstr "Pengaturan kampanye telah diperbarui"
+
+msgid "Cancel"
+msgstr "Batalkan"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Category info have been updated"
+msgstr "Info kategori telah diperbarui"
+
+msgid "Celebrating"
+msgstr "Merayakan"
+
+msgid "Censored Words"
+msgstr "Kata-kata yang Disensor"
+
+msgid "Censored Words Enabled"
+msgstr "Kata yang Disensor Diaktifkan"
+
+msgid "Change Cam"
+msgstr "Ganti Kamera"
+
+msgid "Change Email"
+msgstr "Ganti e-mail"
+
+msgid "Change Email Address"
+msgstr "Ganti alamat email"
+
+msgid "Change Mic"
+msgstr "Ganti Mikrofon"
+
+msgid "Change Phone Number"
+msgstr "Ubah Nomor Telepon"
+
+msgid "Change Your Password!"
+msgstr "Ubah Kata Sandi Anda!"
+
+msgid "Changelog"
+msgstr "Pembaharuan BuddyEngine"
+
+msgid "Chat"
+msgstr "Obrolan"
+
+msgid "Chat Enabled"
+msgstr "Obrolan Diaktifkan"
+
+msgid "Chat Heartbeat"
+msgstr "Chat Heartbeat"
+
+msgid "Chat Settings"
+msgstr "Pengaturan Obrolan"
+
+msgid "Check In"
+msgstr "Check In"
+
+msgid "Check Your Email"
+msgstr "Periksa email Anda"
+
+msgid "Check the documentation to learn how to get this key"
+msgstr "Periksa dokumentasi untuk mempelajari cara mendapatkan kunci ini"
+
+msgid "Check the package from"
+msgstr "Cek paket dari"
+
+msgid "Check your email"
+msgstr "Periksa email Anda"
+
+msgid "Check your email inbox"
+msgstr "Periksa kotak masuk email Anda"
+
+msgid "Check your phone SMS"
+msgstr "Periksa SMS diponsel Anda"
+
+msgid "Choose the Plan That's Right for You"
+msgstr "Pilih Paket yang Tepat untuk Anda"
+
+msgid "Class"
+msgstr "Kelas"
+
+msgid "Clear"
+msgstr "Bersihkan"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "Clicks"
+msgstr "Klik"
+
+msgid "Clicks/Views"
+msgstr "Klik/Dilihat"
+
+msgid "Closed"
+msgstr "Tutup"
+
+msgid "Closed Event"
+msgstr "Tutup Acara"
+
+msgid "Closed Group"
+msgstr "Grup Tertutup"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "Color"
+msgstr "Warna"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Commenting has been turned off for this post"
+msgstr "Komentar telah dinonaktifkan untuk postingan ini"
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "Comments disabled for this post"
+msgstr "Komentar dinonaktifkan untuk posting ini"
+
+msgid "Communicate and collaborate with the people who share your interests"
+msgstr ""
+"Berkomunikasi dan berkolaborasi dengan orang-orang yang memiliki minat yang "
+"sama"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "Configuring your authenticator"
+msgstr "Konfigurasi autentikator Anda"
+
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+msgid "Confirm Password"
+msgstr "Konfirmasi Password"
+
+msgid "Confounded"
+msgstr "Confounded"
+
+msgid "Confused"
+msgstr "Bingung"
+
+msgid "Congratulation! Your wallet credit replenished successfully with"
+msgstr "Selamat! Buddy Coin Anda berhasil diisi ulang dengan"
+
+msgid "Congratulations"
+msgstr "Congratulations"
+
+msgid "Connect"
+msgstr "Terhubung"
+
+msgid "Connect your account to"
+msgstr "Hubungkan akun Anda ke"
+
+msgid "Connection established Successfully!"
+msgstr "Koneksi berhasil dibuat!"
+
+msgid "Contact Seller"
+msgstr "Hubungi penjual"
+
+msgid "Contact Us"
+msgstr "hubungi Kami"
+
+msgid "Content"
+msgstr "Konten"
+
+msgid "Continue"
+msgstr "Lanjutkan"
+
+msgid "Contract"
+msgstr "Kontrak"
+
+msgid "Cookie Consent"
+msgstr "Persetujuan Cookie"
+
+msgid "Cost by Click"
+msgstr "Biaya dengan Klik"
+
+msgid "Cost by View"
+msgstr "Biaya berdasarkan View/Dilihat"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Cover"
+msgstr "Sampul"
+
+msgid "Cover Image"
+msgstr "Foto sampul"
+
+msgid "Cover Photos"
+msgstr "Sampul Foto"
+
+msgid "Crazy"
+msgstr "Gila"
+
+msgid "Create"
+msgstr "Buat"
+
+msgid "Create Album"
+msgstr "Buat Album"
+
+msgid "Create Event"
+msgstr "Buat Acara"
+
+msgid "Create Group"
+msgstr "Buat Grup"
+
+msgid "Create Job"
+msgstr "Buat Pekerjaan"
+
+msgid "Create New Event"
+msgstr "Buat Acara Baru"
+
+msgid "Create New Group"
+msgstr "Buat Grup Baru"
+
+msgid "Create New Job"
+msgstr "Buat Pekerjaan Baru"
+
+msgid "Create New Offer"
+msgstr "Buat Penawaran Baru"
+
+msgid "Create New Page"
+msgstr "Buat Halaman Baru"
+
+msgid "Create New Story"
+msgstr "Buat Cerita Baru"
+
+msgid "Create Offer"
+msgstr "Buat Penawaran"
+
+msgid "Create Page"
+msgstr "Buat Halaman"
+
+msgid "Create Poll"
+msgstr "Buat Pendapat"
+
+msgid "Create an account"
+msgstr "Buat Akun"
+
+msgid "Created"
+msgstr "Dibuat"
+
+msgid "Credit Card"
+msgstr "Kartu Kredit"
+
+msgid "Credit Card Enabled"
+msgstr "Kartu Kredit Diaktifkan"
+
+msgid "Crop Picture"
+msgstr "Pangkas Foto"
+
+msgid "Current City"
+msgstr "Kota tempat tinggal saat ini"
+
+msgid "Current Email"
+msgstr "Email saat ini"
+
+msgid "Current Password"
+msgstr "kata sandi saat ini"
+
+msgid "Current Phone"
+msgstr "Nomor Telepon Saat Ini"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom Favicon"
+msgstr "Custom Favicon"
+
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+msgid "Custom OG-Image"
+msgstr "Custom Gambar-OG"
+
+msgid "Danger"
+msgstr "Bahaya"
+
+msgid "Dashboard"
+msgstr "Buddy Dashboard"
+
+msgid "Data Heartbeat"
+msgstr "Data Heartbeat"
+
+msgid "Database Error"
+msgstr "Kesalahan Pada Database"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Day"
+msgstr "Hari"
+
+msgid "DayTime Messages"
+msgstr "DayTime Messages"
+
+msgid "Days"
+msgstr "Hari"
+
+msgid "Dec"
+msgstr "Desemeber"
+
+msgid "Decline"
+msgstr "Tolak"
+
+msgid "Declined"
+msgstr "Ditolak"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Default Favicon"
+msgstr "Default Favicon"
+
+msgid "Default OG-Image"
+msgstr "Default Foto-OG"
+
+msgid "Default value is 32, and max value is 1000"
+msgstr "Nilai default adalah 32, dan nilai maks adalah 1000"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Delete Account"
+msgstr "Hapus Akun"
+
+msgid "Delete Album"
+msgstr "Hapus Album"
+
+msgid "Delete Article"
+msgstr "Hapus Artikel"
+
+msgid "Delete Comment"
+msgstr "Hapus Komentar"
+
+msgid "Delete Conversation"
+msgstr "Hapus Percakapan"
+
+msgid "Delete Cover"
+msgstr "Hapus Sampul Foto"
+
+msgid "Delete Event"
+msgstr "Hapus Acara"
+
+msgid "Delete Group"
+msgstr "Hapus Grup"
+
+msgid "Delete My Account"
+msgstr "Hapus Akun Saya"
+
+msgid "Delete Page"
+msgstr "Hapus Halaman"
+
+msgid "Delete Picture"
+msgstr "Hapus Foto"
+
+msgid "Delete Post"
+msgstr "Hapus Kiriman"
+
+msgid "Delete Request"
+msgstr "Hapus Permintaan"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Description of your website"
+msgstr "Deskripsi Website anda"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Dir"
+msgstr "Dir"
+
+msgid "Direction"
+msgstr "Direction"
+
+msgid "Directory"
+msgstr "Direktori"
+
+msgid "Directory  Page"
+msgstr "Direktori Halaman"
+
+msgid "Disconnect"
+msgstr "Putuskan"
+
+msgid "Discount Amount"
+msgstr "Jumlah diskon"
+
+msgid "Discount Percent"
+msgstr "Persen Diskon"
+
+msgid "Discover"
+msgstr "Jelajahi"
+
+msgid "Discover Events"
+msgstr "Jelajahi Acara"
+
+msgid "Discover Games"
+msgstr "Jelajahi Game"
+
+msgid "Discover Groups"
+msgstr "Jelajahi Grup"
+
+msgid "Discover Pages"
+msgstr "Jelajahi Halaman"
+
+msgid "Discover People"
+msgstr "Temukan Orang"
+
+msgid "Discover People  Page"
+msgstr "Halaman Temukan Orang"
+
+msgid "Discover new people, create new connections and make new friends"
+msgstr "Temukan orang baru, buat koneksi baru, dan dapatkan teman baru"
+
+msgid "Displaying"
+msgstr "Menampilkan"
+
+msgid "Distance"
+msgstr "Jarak"
+
+msgid "Divorced"
+msgstr "Berpisah"
+
+msgid "Do you know"
+msgstr "Apa anda Tahu"
+
+msgid "Documents"
+msgstr "Dokumen"
+
+msgid "Done"
+msgstr "Selesai"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Download"
+msgstr "Unduh"
+
+msgid "Drag to reposition cover"
+msgstr "Seret untuk memposisikan Sampul Foto"
+
+msgid "Drinking"
+msgstr "Minum"
+
+msgid "Duration"
+msgstr "Durasi"
+
+msgid "Each"
+msgstr "Setiap"
+
+msgid "Earn up to"
+msgstr "Menghasilkan hingga"
+
+msgid "Earnings"
+msgstr "Pendapatan"
+
+msgid "Eating"
+msgstr "Makan"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Album"
+msgstr "Sunting Album"
+
+msgid "Edit Article"
+msgstr "Sunting Artikel"
+
+msgid "Edit Campaign"
+msgstr "Sunting Kampanye"
+
+msgid "Edit Comment"
+msgstr "Sunting Komentar"
+
+msgid "Edit Emoji"
+msgstr "Sunting emoji"
+
+msgid "Edit Job"
+msgstr "Edit Pekerjaan"
+
+msgid "Edit Offer"
+msgstr "Sunting Penawaran"
+
+msgid "Edit Post"
+msgstr "Sunting Kiriman"
+
+msgid "Edit Product"
+msgstr "Sunting Produk"
+
+msgid "Edit Profile"
+msgstr "Sunting Profil"
+
+msgid "Edit Reply"
+msgstr "Sunting Balasan"
+
+msgid "Edit Sticker"
+msgstr "Sunting Stiker"
+
+msgid "Edit Thread"
+msgstr "Sunting Thread"
+
+msgid "Education"
+msgstr "Pendidikan"
+
+msgid "Education Info"
+msgstr "Informasi Pendidikan"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr "Alamat Email"
+
+msgid "Email Me When"
+msgstr "Email Saya Ketika"
+
+msgid "Email Notifications"
+msgstr "Notifikasi Email"
+
+msgid "Email User When"
+msgstr "Email Pengguna Ketika"
+
+msgid "Email Verification Required"
+msgstr "Verifikasi Email Diperlukan"
+
+msgid "Email could not be sent"
+msgstr "Email tidak dapat dikirim"
+
+msgid "Email you with our newsletter"
+msgstr "Email Anda dengan Newsletter kami"
+
+msgid "Emoji Cheat Sheet"
+msgstr "Emoji Cheat Sheet"
+
+msgid "Emoji info have been updated"
+msgstr "Info emoji telah diperbarui"
+
+msgid "Emojis"
+msgstr "Emoji"
+
+msgid "Enable Amazon S3 storage"
+msgstr "Ativaar Amazon S3 storage"
+
+msgid "Enable Customization"
+msgstr "Aktifkan Kustomisasi"
+
+msgid "Enable account activation to send activation code to user's email/phone"
+msgstr ""
+"Aktifkan aktivasi akun untuk mengirim kode aktivasi ke email/telepon pengguna"
+
+msgid "Enable audio upload to share & upload sounds to the site"
+msgstr "Aktifkan unggahan audio untuk berbagi dan mengunggah suara ke situs"
+
+msgid "Enable boost pages feature"
+msgstr "Aktifkan fitur boosting halaman "
+
+msgid "Enable boost posts feature"
+msgstr "Aktifkan fitur boosting Kiriman "
+
+msgid "Enable file upload to share & upload files to the site"
+msgstr "Aktifkan unggah file untuk berbagi dan mengunggah file ke situs"
+
+msgid "Enable or Disable the affiliates system"
+msgstr "Aktifkan atau Nonaktifkan sistem afiliasi"
+
+msgid "Enable or Disable the points system"
+msgstr "Aktifkan atau Nonaktifkan sistem Buddy point"
+
+msgid "Enable payments via Alipay"
+msgstr "Aktifkan pembayaran melalui Alipay"
+
+msgid "Enable payments via Credit Card"
+msgstr "Aktifkan pembayaran melalui Kartu Kredit"
+
+msgid "Enable payments via Paypal"
+msgstr "Aktifkan pembayaran melalui Paypal"
+
+msgid "Enable photo upload to share & upload photos to the site"
+msgstr "Aktifkan unggah foto untuk berbagi & mengunggah foto ke situs"
+
+msgid "Enable pro packages to be used as upgrading plans or for subscriptions"
+msgstr ""
+"Aktifkan pro packages untuk digunakan sebagai rencana upgrade atau untuk "
+"berlangganan"
+
+msgid "Enable the directory for better SEO results"
+msgstr "Aktifkan direktori untuk hasil SEO yang lebih baik"
+
+msgid ""
+"Enable two-factor authentication to log in with a code from your email/phone "
+"as well as a password"
+msgstr ""
+"Aktifkan otentikasi dua faktor untuk masuk dengan kode dari email/telepon "
+"Anda serta kata sandi"
+
+msgid "Enable video upload to share & upload videos to the site"
+msgstr "Aktifkan unggahan video untuk berbagi dan mengunggah video ke situs"
+
+msgid "Enable you to send notifications to all site users"
+msgstr "Memungkinkan Anda mengirim pemberitahuan ke semua pengguna situs"
+
+msgid "Enable/Disable SMTP SSL encryption"
+msgstr "Aktifkan/Nonaktifkan SMTP SSL encryption"
+
+msgid "Enable/Disable SMTP email system"
+msgstr "Aktifkan/Nonaktifkan sistem email SMTP"
+
+msgid "Enable/Disable Words to be censored"
+msgstr "Aktifkan/Nonaktifkan Kata-kata yang akan disensor"
+
+msgid "Enable/Disable age restriction"
+msgstr "Aktifkan/Nonaktifkan batasan usia"
+
+msgid "Enable/Disable email notifications system"
+msgstr "Aktifkan/Nonaktifkan sistem notifikasi email"
+
+msgid "Enable/Disable getting started page after registration"
+msgstr "Aktifkan/Nonaktifkan halaman Geting Started setelah pendaftaran"
+
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+msgid "End"
+msgstr "Selesai"
+
+msgid "End Date"
+msgstr "Tanggal Akhir"
+
+msgid "End Date must be after the Start Date"
+msgstr "Tanggal Akhir harus setelah Tanggal Mulai"
+
+msgid "Enter Code"
+msgstr "Masukan Kode"
+
+msgid "Enter the 6-digit code that we sent to your"
+msgstr "Masukkan kode 6 digit yang kami kirimkan ke"
+
+msgid "Enter the code from the SMS message"
+msgstr "Masukkan kode dari pesan SMS"
+
+msgid "Enter the code shown on your app"
+msgstr "Masukkan kode yang ditampilkan di aplikasi Anda"
+
+msgid ""
+"Enter the email address you signed up with and we'll email you a reset link"
+msgstr ""
+"Masukkan alamat email yang Anda gunakan untuk mendaftar dan kami akan "
+"mengirimkan email berisi tautan reset"
+
+msgid "Enter valid Amount Y amount"
+msgstr "Masukkan jumlah Jumlah Y yang valid"
+
+msgid "Enter valid Buy X amount"
+msgstr "Masukkan jumlah Beli X yang valid"
+
+msgid "Enter valid Get Y amount"
+msgstr "Masukkan jumlah Dapatkan Y yang valid"
+
+msgid "Enter valid Spend X amount"
+msgstr "Masukkan jumlah Pembelanjaan X yang valid"
+
+msgid "Enter valid discount amount"
+msgstr "Masukkan jumlah diskon yang valid"
+
+msgid "Enter your URL you want to advertise for"
+msgstr "Masukkan URL yang ingin Anda iklankan"
+
+msgid "Enter your question"
+msgstr "Masukkan pertanyaan Anda"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Event"
+msgstr "Acara"
+
+msgid "Event ID"
+msgstr "Acara ID"
+
+msgid "Event Settings"
+msgstr "Pengaturan Acara"
+
+msgid "Event end date must be after the start date"
+msgstr "Tanggal akhir acara harus setelah tanggal mulai"
+
+msgid "Event info have been updated"
+msgstr "Info acara telah diperbarui"
+
+msgid "Event name must be at least 3 characters long. Please try another"
+msgstr "Panjang nama acara harus minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Events"
+msgstr "Acara"
+
+msgid "Events Directory"
+msgstr "Direktori Acara"
+
+msgid "Everyone"
+msgstr "Semua Orang"
+
+msgid "Example: social, sngine, social site"
+msgstr "Contoh: social, buddyngine, site social"
+
+msgid "Expiration"
+msgstr "Kadaluwarsa"
+
+msgid "Expiration Date"
+msgstr "Tanggal habis tempo"
+
+msgid "Expired"
+msgstr "Kadaluwarsa"
+
+msgid "Expires"
+msgstr "Kedaluwarsa"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook App ID"
+msgstr "ID do App do Facebook"
+
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+msgid "Facebook Profile URL"
+msgstr "Facebook URL"
+
+msgid "Failed to switch to new device"
+msgstr "Gagal beralih ke perangkat baru"
+
+msgid "Fake Users Generator"
+msgstr "Generator Akun Palsu"
+
+msgid "Featured member"
+msgstr "Anggota unggulan"
+
+msgid "Features"
+msgstr "Unggulan"
+
+msgid "Feb"
+msgstr "Februari"
+
+msgid "Feeling"
+msgstr "Perasaan"
+
+msgid "Feelings/Activity"
+msgstr "Perasaan/Aktivitas"
+
+msgid "Field For"
+msgstr "Field Untuk"
+
+msgid "Field info have been updated"
+msgstr "Info Field telah diperbarui"
+
+msgid "Field place in settings page"
+msgstr "Tempat fields di halaman pengaturan"
+
+msgid "File"
+msgstr "File"
+
+msgid "File Type"
+msgstr "Tipe File"
+
+msgid "File extensions"
+msgstr "Ekstensi File"
+
+msgid "File uploaded successfully"
+msgstr "File berhasil diunggah"
+
+msgid "Files"
+msgstr "File"
+
+msgid "Find People"
+msgstr "Temukan Orang"
+
+msgid "Finish"
+msgstr "Selesai"
+
+msgid "First Name"
+msgstr "Nama Depan"
+
+msgid "First name"
+msgstr "Nama Depan"
+
+msgid "First name contains invalid characters"
+msgstr "Nama depan berisi karakter yang tidak valid"
+
+msgid "First name must be at least 3 characters long. Please try another"
+msgstr "Nama depan harus minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Flag"
+msgstr "Bendera"
+
+msgid "Follow"
+msgstr "Ikuti"
+
+msgid "Followed by"
+msgstr "Diikuti oleh"
+
+msgid "Followers"
+msgstr "Fengikut"
+
+msgid "Following"
+msgstr "Mengikuti"
+
+msgid "Followings"
+msgstr "Mengikuti"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Footer Custom JavaScript"
+msgstr "Footer Custom JavaScript"
+
+msgid "For"
+msgstr "Untuk"
+
+msgid "For commenting any post"
+msgstr "Untuk mengomentari posting apa pun"
+
+msgid "For creating a new post"
+msgstr "Untuk membuat postingan baru"
+
+msgid "For example"
+msgstr "Sebagai contoh"
+
+msgid "For example every 15 days, 2 Months, 1 Year"
+msgstr "Misalnya setiap 15 hari, 2 Bulan, 1 Tahun"
+
+msgid "For example: Subscribe, Get tickets, Preorder now or Shop now"
+msgstr ""
+"Misalnya: Berlangganan, Dapatkan tiket, Praorder sekarang atau Belanja "
+"sekarang"
+
+msgid "For reacting on any post"
+msgstr "Untuk bereaksi pada setiap posting"
+
+msgid "Forget password activation key!"
+msgstr "Lupakan kunci aktivasi kata sandi!"
+
+msgid "Forgot your password?"
+msgstr "Lupa kata sandi Anda?"
+
+msgid "Forgotten password?"
+msgstr "Lupa kata sandi?"
+
+msgid "Forum"
+msgstr "Fórum"
+
+msgid "Forum Reply"
+msgstr "Balasan Forum"
+
+msgid "Forum Statistics"
+msgstr "Statistik Forum"
+
+msgid "Forum Thread"
+msgstr "Thread Forum"
+
+msgid "Forum info have been updated"
+msgstr "Info forum telah diperbarui"
+
+msgid "Forums"
+msgstr "Forum"
+
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Friend Requests"
+msgstr "Permintaan pertemanan"
+
+msgid "Friend Requests Sent"
+msgstr "Permintaan Pertemanan Terkirim"
+
+msgid "Friends"
+msgstr "Teman"
+
+msgid "From"
+msgstr "Dari"
+
+msgid "From / To"
+msgstr "Dari/Ke"
+
+msgid "From YouTube, Vimeo or site.com/movie.mp4"
+msgstr "Dari YouTube, Vimeo atau site.com/movie.mp4"
+
+msgid "Full Time"
+msgstr "Full Time"
+
+msgid "GIF"
+msgstr "GIF"
+
+msgid "Game"
+msgstr "Game"
+
+msgid "Game Source"
+msgstr "Game Source"
+
+msgid "Game info have been updated"
+msgstr "Info Game telah diperbarui"
+
+msgid "Games"
+msgstr "Games"
+
+msgid "Gender"
+msgstr "Jenis Kelamin"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Generate"
+msgstr "Generate"
+
+msgid "Generate New Code"
+msgstr "Generate Kode Baru"
+
+msgid "Genre info have been updated"
+msgstr "Info genre telah diperbarui"
+
+msgid "Genres"
+msgstr "Genre"
+
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgid "Geolocation Google Key"
+msgstr "Geolocation Google Key"
+
+msgid "Get latest activities from our popular users"
+msgstr "Dapatkan aktivitas terbaru dari pengguna populer kami"
+
+msgid "Getting Started"
+msgstr "Getting Started"
+
+msgid "Giphy API Key"
+msgstr "Giphy API Key"
+
+msgid "Go Back"
+msgstr "Kembali"
+
+msgid "Go Live"
+msgstr "Go Live"
+
+msgid "Going"
+msgstr "Pergi"
+
+msgid "Going Events"
+msgstr "Acara Yang Berjalan"
+
+msgid "Going Live"
+msgstr "Tayang"
+
+msgid "Good Afternoon"
+msgstr "Selamat Siang"
+
+msgid "Good Evening"
+msgstr "Selamat Malam"
+
+msgid "Good Morning"
+msgstr "Selamat Pagi"
+
+msgid "Google Authenticator"
+msgstr "Google Authenticator"
+
+msgid "Google Authenticator App"
+msgstr "Google Authenticator App"
+
+msgid "Google Authenticator app"
+msgstr "Google Authenticator app"
+
+msgid "Google+ Profile URL"
+msgstr "Google+ Profile URL"
+
+msgid "Got It!"
+msgstr "Oke!"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Group ID"
+msgstr "Grup ID"
+
+msgid "Group Settings"
+msgstr "Pengaturan Grup"
+
+msgid "Group info have been updated"
+msgstr "Info grup telah diperbarui"
+
+msgid "Group name must be at least 3 characters long. Please try another"
+msgstr ""
+"Nama grup harus terdiri dari minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Groups"
+msgstr "Grup"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Happy"
+msgstr "Senang"
+
+msgid "Have an account?"
+msgstr "Punya akun?"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Header Color"
+msgstr "Header Color"
+
+msgid "Header Custom CSS"
+msgstr "Header Custom CSS"
+
+msgid "Header Custom JavaScript"
+msgstr "Header Custom JavaScript"
+
+msgid "Header Search Background"
+msgstr "Header Search Background"
+
+msgid "Header Search Font"
+msgstr "Header Search Font"
+
+msgid "Help friends know you better and show them what you have in common"
+msgstr "Bantu teman mengenal Anda lebih baik dan tunjukkan kesamaan Anda"
+
+msgid "Here"
+msgstr "ini"
+
+msgid "Hide this post"
+msgstr "Sembunyikan kiriman ini"
+
+msgid "High Quality"
+msgstr "Kualitas tinggi"
+
+msgid "Home"
+msgstr "Beranda"
+
+msgid "Home  Page"
+msgstr "Beranda"
+
+msgid "Hometown"
+msgstr "Kampung Halaman"
+
+msgid "Hosted By"
+msgstr "Diselenggarakan oleh"
+
+msgid "How are you feeling?"
+msgstr "Bagaimana perasaanmu?"
+
+msgid "How many points user will get for each new comment"
+msgstr ""
+"Berapa banyak poin yang akan didapatkan pengguna untuk setiap komentar baru"
+
+msgid "How many points user will get for each new post"
+msgstr ""
+"Berapa banyak poin yang akan didapat pengguna untuk setiap posting baru"
+
+msgid "How many points user will get for each reaction"
+msgstr "Berapa banyak poin yang akan didapat pengguna untuk setiap reaksi"
+
+msgid "How many users you want to generate (Maximum is 1000 per request)"
+msgstr ""
+"Berapa banyak pengguna yang ingin Anda hasilkan (Maksimum 1000 per "
+"permintaan)"
+
+msgid "How much points eqaul to"
+msgstr "Berapa banyak buddy poin yang sama dengan"
+
+msgid "I am"
+msgstr "Saya"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMDB"
+msgstr "IMDB"
+
+msgid "IMDB Link, Example:"
+msgstr "IMDB Link, Example:"
+
+msgid "IOS"
+msgstr "IOS"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Icon"
+msgstr "Ícon"
+
+msgid ""
+"If Registration is Free and Pro Packages enabled they will be used as an "
+"optional upgrading plans"
+msgstr ""
+"Jika Pendaftaran Gratis dan Paket Pro diaktifkan, paket tersebut akan "
+"digunakan sebagai Rencana Upgrade Paket"
+
+msgid "If enabled users will be able to withdraw earned money"
+msgstr "Jika diaktifkan, pengguna akan dapat menarik buddy coin yang diperoleh"
+
+msgid ""
+"If registration type is 'Subscriptions Only' User will earn money from new "
+"registration only"
+msgstr ""
+"Jika jenis pendaftaran adalah 'Hanya Berlangganan', Pengguna akan "
+"mendapatkan buddy coin hanya dari pendaftaran baru"
+
+msgid ""
+"If wallet enabled users will be able to transfer earned money to their wallet"
+msgstr ""
+"Jika Buddy Coin diaktifkan, pengguna akan dapat mentransfer uang yang "
+"diperoleh ke Buddy Coin mereka"
+
+msgid "If you forgot your password?"
+msgstr "Jika Anda lupa kata sandi Anda?"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "In Footer Menu"
+msgstr "Di Menu Footer"
+
+msgid "In a relationship"
+msgstr "Dalam suatu hubungan"
+
+msgid "In stock"
+msgstr "Persediaan"
+
+msgid "In your app, add a new account using the details below"
+msgstr "Di aplikasi Anda, tambahkan akun baru menggunakan detail di bawah"
+
+msgid "Info"
+msgstr "Informasi"
+
+msgid "Instagram Profile URL"
+msgstr "Instagram Profile URL"
+
+msgid "Interested"
+msgstr "Tertarik"
+
+msgid "Interested Events"
+msgstr "Acara Tertarik"
+
+msgid "Internship"
+msgstr "Magang"
+
+msgid "Invalid code, Try again or try to scan your QR code again"
+msgstr "Kode tidak valid, Coba lagi atau coba pindai kode QR Anda lagi"
+
+msgid "Invalid code, please try again"
+msgstr "Kode salah, coba lagi"
+
+msgid "Invalid email, please try again"
+msgstr "Email tidak valid, silakan coba lagi"
+
+msgid "Invitation Code"
+msgstr "Kode Undangan"
+
+msgid "Invitation Codes"
+msgstr "Kode Undangan"
+
+msgid "Invitation Enabled"
+msgstr "Undangan Diaktifkan"
+
+msgid "Invitation email could not be sent"
+msgstr "Email undangan tidak dapat dikirim"
+
+msgid "Invitation to join"
+msgstr "Undangan untuk bergabung"
+
+msgid "Invite"
+msgstr "Undang"
+
+msgid "Invite Friends"
+msgstr "Undang Teman"
+
+msgid "Invited"
+msgstr "Diundang"
+
+msgid "Invited Events"
+msgstr "Acara yang Diundang"
+
+msgid "Invites"
+msgstr "Undangan"
+
+msgid "It's complicated"
+msgstr "Rumit"
+
+msgid "Jan"
+msgstr "Januari"
+
+msgid "Job Title"
+msgstr "Judul pekerjaan"
+
+msgid "Job Type"
+msgstr "Jenis pekerjaan"
+
+msgid "Jobs  Page"
+msgstr "Halaman Pekerjaan"
+
+msgid "Join"
+msgstr "Gabung"
+
+msgid "Joined"
+msgstr "Bergabung"
+
+msgid "Joined Groups"
+msgstr "Grup yang Diikuti"
+
+msgid "Jul"
+msgstr "Juli"
+
+msgid "Jun"
+msgstr "Juni"
+
+msgid "Just Me"
+msgstr "Hanya Saya"
+
+msgid "Just one more step to get started on"
+msgstr "Hanya satu langkah lagi untuk memulai"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "KM"
+msgstr "KM"
+
+msgid "Keyboard Shortcuts"
+msgstr "Pintasan Keyboard"
+
+msgid "Keyword"
+msgstr "Keyword"
+
+msgid "Keyword(s)"
+msgstr "Keyword(s)"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Language country_code, For Example: en_us, ar_sa or fr_fr"
+msgstr "Bahasa country_code, Contoh: en_us, ar_sa atau fr_fr"
+
+msgid "Language info have been updated"
+msgstr "Info bahasa telah diperbarui"
+
+msgid "Languages"
+msgstr "Bahasa"
+
+msgid "Last Login"
+msgstr "Login terakhir"
+
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+msgid "Last Post"
+msgstr "Postingan terakhir"
+
+msgid "Last Seen"
+msgstr "Terakhir terlihat"
+
+msgid "Last name"
+msgstr "Nama Belakang"
+
+msgid "Last name contains invalid characters"
+msgstr "Nama belakang berisi karakter yang tidak valid"
+
+msgid "Last name must be at least 3 characters long. Please try another"
+msgstr ""
+"Nama belakang minimal harus terdiri dari 3 karakter. Silakan coba yang lain"
+
+msgid "Learn More"
+msgstr "Learn More"
+
+msgid ""
+"Let us know if this mobile number belongs to you. Enter the code in the SMS"
+msgstr "Beri tahu kami jika nomor ponsel ini milik Anda. Masukkan kode di SMS"
+
+msgid "Let's start with your photo"
+msgstr "Mari kita mulai dengan foto Anda"
+
+msgid "Life Time"
+msgstr "Life Time Selamanya"
+
+msgid "Like"
+msgstr "Suka"
+
+msgid "Liked Pages"
+msgstr "Halaman yang Disukai"
+
+msgid "Likes"
+msgstr "Suka"
+
+msgid "Limits"
+msgstr "Limits"
+
+msgid "Limits Settings"
+msgstr "Pengaturan Limit"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link Color"
+msgstr "Link Color"
+
+msgid "Linked Accounts"
+msgstr "Linked Accounts"
+
+msgid "LinkedIn Profile URL"
+msgstr "Linkedin URL"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "Linkedin App ID"
+msgstr "Linkedin App ID"
+
+msgid "Linkedin App Secret"
+msgstr "﻿LinkedIn App Secret"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "List Admins"
+msgstr "List Admins"
+
+msgid "List Banned"
+msgstr "List Banned"
+
+msgid "List Categories"
+msgstr "Daftar Kategori"
+
+msgid "List Events"
+msgstr "Daftar Acara"
+
+msgid "List Forums"
+msgstr "Daftar fóruns"
+
+msgid "List Genres"
+msgstr "Daftar Genre"
+
+msgid "List Groups"
+msgstr "Daftar Grup"
+
+msgid "List Jobs"
+msgstr "Daftar Pekerjaan"
+
+msgid "List Moderators"
+msgstr "Daftar Moderator"
+
+msgid "List Movies"
+msgstr "Daftar Movie"
+
+msgid "List Offers"
+msgstr "Daftar Penawaran"
+
+msgid "List Online"
+msgstr "Daftar online"
+
+msgid "List Packages"
+msgstr "Daftar Packages"
+
+msgid "List Pages"
+msgstr "Daftar Halaman"
+
+msgid "List Requests"
+msgstr "Daftar Permintaan"
+
+msgid "List Subscribers"
+msgstr "Daftar Subscribers"
+
+msgid "List System Ads"
+msgstr "Daftar Sistem Iklan"
+
+msgid "List Users"
+msgstr "Daftar Pengguna"
+
+msgid "List Users Ads"
+msgstr "Daftar Iklan dari Pengguna"
+
+msgid "List Verified Pages"
+msgstr "Daftar Halaman yang Diverifikasi"
+
+msgid "List Verified Users"
+msgstr "Daftar Pengguna yang diverifikasi"
+
+msgid "Listening To"
+msgstr "Mendengarkan"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Live Ended"
+msgstr "Live Berakhir"
+
+msgid "Live Publishable Key"
+msgstr "Live Publishable Key"
+
+msgid "Live Secret Key"
+msgstr "Live Secret Key"
+
+msgid "Live Stream"
+msgstr "Live Stream"
+
+msgid "Live Stream Enabled"
+msgstr "Live Streaming Diaktifkan"
+
+msgid "Live Stream Settings"
+msgstr "Pengaturan Live Stream "
+
+msgid "Live Video"
+msgstr "Live Video"
+
+msgid "Lives in"
+msgstr "Tinggal di"
+
+msgid "Load Older Threads"
+msgstr "Muat Threads Lama"
+
+msgid "Loading"
+msgstr "Memuat"
+
+msgid "Loading Older Messages"
+msgstr "Memuat Pesan yang Lama"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Location Info"
+msgstr "Informasi Lokasi"
+
+msgid "Log Out"
+msgstr "Keluar"
+
+msgid "Log in with a code from your"
+msgstr "Masuk dengan kode dari "
+
+msgid "Login"
+msgstr "Masuk"
+
+msgid "Login Now"
+msgstr "Masuk sekarang"
+
+msgid "Looking For"
+msgstr "Mencari"
+
+msgid "Loved"
+msgstr "Dicintai"
+
+msgid "Low Quality"
+msgstr "Kualitas rendah"
+
+msgid "Major"
+msgstr "Jurusan"
+
+msgid "Make Admin"
+msgstr "Jadikan Admin"
+
+msgid "Make a withdrawal"
+msgstr "Lakukan penarikan"
+
+msgid "Make it enbaled so the user can translate the site to it"
+msgstr "Aktifkan agar pengguna dapat menerjemahkan situs ke dalamnya"
+
+msgid "Make it the default language of the site"
+msgstr "Jadikan bahasa default situs"
+
+msgid "Make it the default theme of the site"
+msgstr "Jadikan itu sebagai tema default situs"
+
+msgid "Make sure you have configured"
+msgstr "Pastikan Anda telah mengonfigurasi"
+
+msgid ""
+"Make the website public to allow non logged users to view website content"
+msgstr ""
+"Jadikan situs web publik untuk memungkinkan pengguna yang tidak masuk untuk "
+"melihat konten situs web"
+
+msgid "Manage"
+msgstr "Kelola"
+
+msgid "Manage Banned"
+msgstr "Kelola Banned"
+
+msgid "Manage Banned IPs"
+msgstr "Kelola Banned IP"
+
+msgid "Manage Blocking"
+msgstr "Kelola Blokiran"
+
+msgid "Manage Events"
+msgstr "Kelola Acara"
+
+msgid "Manage Groups"
+msgstr "Kelola Grup"
+
+msgid "Manage Online"
+msgstr "Kelola Online"
+
+msgid "Manage Pages"
+msgstr "Kelola Halaman"
+
+msgid "Manage Reports"
+msgstr "Kelola Laporan"
+
+msgid "Manage Sessions"
+msgstr "Kelola Session Login"
+
+msgid "Manage Users"
+msgstr "Kelola Pengguna"
+
+msgid "Mandatory"
+msgstr "Mandatory"
+
+msgid "Manually by entering this token"
+msgstr "Secara manual dengan memasukkan token ini"
+
+msgid "Maps"
+msgstr "Map"
+
+msgid "Mar"
+msgstr "Maret"
+
+msgid "Mark as Available"
+msgstr "Tandai sebagai Tersedia"
+
+msgid "Mark as Closed"
+msgstr "Tandai sebagai sudah diutup"
+
+msgid "Mark as Sold"
+msgstr "Tandai sebagai Terjual"
+
+msgid "Market"
+msgstr "Marketplace"
+
+msgid "Market  Page"
+msgstr "Halaman Marketplace"
+
+msgid "Married"
+msgstr "Casado"
+
+msgid "Mass Notifications"
+msgstr "Notifikasi Massal"
+
+msgid "Max Cover Photo Size"
+msgstr "Ukuran maksimal untuk Sampul Foto "
+
+msgid "Max Photo Size"
+msgstr "Ukuran maksimal untuk Foto "
+
+msgid "Max Profile Photo Size"
+msgstr "Ukuran maksimal untuk Foto Profil"
+
+msgid "Max audio size"
+msgstr "Ukuran maksimal untuk audio "
+
+msgid "Max file size"
+msgstr "Ukuran maksimal untuk File "
+
+msgid "Max pages boosts allowed"
+msgstr "Boosting halaman maksimum diizinkan"
+
+msgid "Max posts boosts allowed"
+msgstr "Boosting posting maksimum diizinkan"
+
+msgid "Max video size"
+msgstr "Ukuran maksimal untuk Video "
+
+msgid "Maximum Even Results"
+msgstr "Hasil Merata Maksimal"
+
+msgid "Maximum Results"
+msgstr "Hasil Maksimal"
+
+msgid "Maximum file size is"
+msgstr "Ukuran file maksimum adalah"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Medium Quality"
+msgstr "Kualitas menengah"
+
+msgid "Member"
+msgstr "Member"
+
+msgid "Member Requests"
+msgstr "Permintaan Member"
+
+msgid "Members"
+msgstr "member"
+
+msgid "Members can organize community events for online and offline doings"
+msgstr ""
+"Anggota dapat mengatur acara komunitas untuk aktivitas online dan offline"
+
+msgid "Membership"
+msgstr "Membership"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Messages"
+msgstr "Pesan"
+
+msgid "Method"
+msgstr "Method"
+
+msgid "Minimum Age"
+msgstr "Usia Minimum"
+
+msgid "Minimum Even Results"
+msgstr "Hasil Minimal Genap"
+
+msgid "Minimum Results"
+msgstr "Hasil Minimum"
+
+msgid "Minimum Withdrawal Request"
+msgstr "Permintaan Penarikan Minimum"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Moderators"
+msgstr "Moderator"
+
+msgid "Month"
+msgstr "Bulan"
+
+msgid "Monthly Average"
+msgstr "Rata-rata Bulanan"
+
+msgid "More"
+msgstr "Lebih Banyak Lagi"
+
+msgid "More Articles"
+msgstr "Lebih banyak Artikel"
+
+msgid "More Stories"
+msgstr "Lebih banyak Cerita"
+
+msgid "Movie Source"
+msgstr "Movie Source"
+
+msgid "Movie Stars"
+msgstr "Movie Stars"
+
+msgid "Movie Title"
+msgstr "Movie Title"
+
+msgid "Movie duration in minutes, Example: 120"
+msgstr "Durasi film dalam menit, Contoh: 120"
+
+msgid "Movie info have been updated"
+msgstr "Info Movie telah diperbarui"
+
+msgid "Movie release year, Example: 1995"
+msgstr "Tahun rilis film, Contoh: 1995"
+
+msgid "Movies"
+msgstr "Movie"
+
+msgid "Movies  Page"
+msgstr "Halaman Movie"
+
+msgid "Mutual Friends"
+msgstr "Teman Yang Sama"
+
+msgid "My Affiliates"
+msgstr "Afiliasi Saya"
+
+msgid "My Articles"
+msgstr "Artikel Saya"
+
+msgid "My Boosted Pages"
+msgstr "Boosting Halaman saya"
+
+msgid "My Boosted Posts"
+msgstr "Boosting Kiriman saya"
+
+msgid "My Events"
+msgstr "Acara saya"
+
+msgid "My Groups"
+msgstr "Grup saya"
+
+msgid "My Pages"
+msgstr "Halaman Saya"
+
+msgid "My Points"
+msgstr "Budy Points"
+
+msgid "My Products"
+msgstr "Produk Saya"
+
+msgid "My Replies"
+msgstr "Balasan Saya"
+
+msgid "My Threads"
+msgstr "Thread Saya"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Name Your Event"
+msgstr "Nama Acara Anda"
+
+msgid "Name Your Group"
+msgstr "BNama Grup anda"
+
+msgid "Name Your Page"
+msgstr "Nama Halaman anda"
+
+msgid "Names Language"
+msgstr "Nama Bahasa"
+
+msgid "Native Name"
+msgstr "Nama Native Untuk Bahasa"
+
+msgid "Never miss a thing out! Keep in touch with your fans and customers"
+msgstr ""
+"Jangan pernah melewatkan apa pun! Tetap terhubung dengan penggemar dan "
+"pelanggan Anda"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "New Campaign"
+msgstr "Kampanye Baru"
+
+msgid "New Email"
+msgstr "Email Baru"
+
+msgid "New Invitation Code"
+msgstr "Kode Undangan Baru"
+
+msgid "New Message"
+msgstr "Pesan Baru"
+
+msgid "New Password"
+msgstr "Kata sandi Baru"
+
+msgid "New Phone"
+msgstr "Nomor Telpon Baru"
+
+msgid "New User Registered"
+msgstr "Pengguna Baru Terdaftar"
+
+msgid "New User Registered & Bought Pro Package"
+msgstr "Pengguna Baru Terdaftar & Membeli Buddy Pro Packages"
+
+msgid "New notification from"
+msgstr "Notifikasi baru dari"
+
+msgid "News Feed"
+msgstr "Beranda"
+
+msgid "Newsfeed"
+msgstr "Beranda"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Next"
+msgstr "Selanjutnya"
+
+msgid "Next Step"
+msgstr "Langkah Selanjutnya"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "No Conversation Selected"
+msgstr "Tidak ada Percayakapan yang dipilih"
+
+msgid "No Requests"
+msgstr "Tidak ada Permintaan"
+
+msgid "No Threads"
+msgstr "Tidak ada Thread"
+
+msgid "No affiliates"
+msgstr "Tidak ada Afiliasi"
+
+msgid "No data to show"
+msgstr "Tidak ada data yang dapat ditampilkan"
+
+msgid "No friends to invite"
+msgstr "tidak ada teman untuk diundang"
+
+msgid "No messages"
+msgstr "Tidak ada Pesan"
+
+msgid "No new requests"
+msgstr "Tidak ada Permintaan baru"
+
+msgid "No notifications"
+msgstr "Tidak ada Notifikasi"
+
+msgid "No people available"
+msgstr "Tidak ada orang yang tersedia"
+
+msgid "No people available for your search"
+msgstr "Tidak ada orang yang tersedia untuk pencarian Anda"
+
+msgid "No people shared this"
+msgstr "Tidak ada orang yang membagikan ini"
+
+msgid "No people voted for this"
+msgstr "Tidak ada orang yang memilih ini"
+
+msgid "Node"
+msgstr "Node"
+
+msgid "Not Activated"
+msgstr "Tidak aktif"
+
+msgid "Not Active"
+msgstr "Tidak aktif"
+
+msgid "Not Allowed"
+msgstr "Tidak diizinkan"
+
+msgid "Not Logged In"
+msgstr "Belum masuk"
+
+msgid "Not registered?"
+msgstr "Tidak terdaftar?"
+
+msgid "Notification has been sent successfully"
+msgstr "Notifikasi telah berhasil dikirim"
+
+msgid "Notification link used when user clicks on the notification"
+msgstr "Tautan notifikasi digunakan saat pengguna mengklik notifikasi"
+
+msgid "Notifications"
+msgstr "Notifikasi"
+
+msgid "Notifications  Page"
+msgstr "Halaman Notifikasi"
+
+msgid "Noty Notifications"
+msgstr "Notifikasi noty"
+
+msgid "Nov"
+msgstr "November"
+
+msgid "Number of Users"
+msgstr "Jumlah Pengguna"
+
+msgid "OS"
+msgstr "OS"
+
+msgid "Oct"
+msgstr "Oktober"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Offers  Page"
+msgstr "Halaman Penawaran"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Offline After"
+msgstr "Offline Setelah"
+
+msgid ""
+"Once you block someone, that person can no longer see things you post on "
+"your timeline"
+msgstr ""
+"Setelah Anda memblokir seseorang, orang itu tidak dapat lagi melihat hal-hal "
+"yang Anda posting di timeline Anda"
+
+msgid "Once you delete your account you will no longer can access it again"
+msgstr ""
+"Setelah Anda menghapus akun Anda, Anda tidak lagi dapat mengaksesnya lagi"
+
+msgid "Once you delete your event you will no longer can access it again"
+msgstr ""
+"Setelah Anda menghapus acara Anda, Anda tidak lagi dapat mengaksesnya lagi"
+
+msgid "Once you delete your group you will no longer can access it again"
+msgstr ""
+"Setelah Anda menghapus grup Anda, Anda tidak lagi dapat mengaksesnya lagi"
+
+msgid "Once you delete your page you will no longer can access it again"
+msgstr ""
+"Setelah Anda menghapus halaman Anda, Anda tidak akan dapat mengaksesnya lagi"
+
+msgid "One option per line"
+msgstr "Satu opsi per baris"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online Status"
+msgstr "Status Online"
+
+msgid "Online Users"
+msgstr "Pengguna online"
+
+msgid "Only Me"
+msgstr "Hanya Saya"
+
+msgid "Only event users can see posts"
+msgstr "Hanya pengguna acara yang dapat melihat postingan"
+
+msgid "Only invited users and event users can find the event"
+msgstr ""
+"Hanya pengguna yang diundang dan pengguna acara yang dapat menemukan acara"
+
+msgid "Only members can find the group and see posts"
+msgstr "Hanya anggota yang dapat menemukan grup dan melihat postingan"
+
+msgid "Only members can see posts"
+msgstr "Hanya anggota yang dapat melihat postingan"
+
+msgid "Open post in new tab"
+msgstr "Buka postingan di tab baru"
+
+msgid "Or Upload Movie"
+msgstr "Atau Unggah Film"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Other"
+msgstr "Lainnya"
+
+msgid "Other Info"
+msgstr "Info Lainnya"
+
+msgid ""
+"Our website is made possible by displaying online advertisements to our "
+"visitors"
+msgstr ""
+"Situs web kami dimungkinkan dengan menampilkan iklan online kepada "
+"pengunjung kami"
+
+msgid "PHP mail() function will be used in case of disabled"
+msgstr "Fungsi PHP mail() akan digunakan jika dinonaktifkan"
+
+msgid "PRO"
+msgstr "PRO"
+
+msgid "Package"
+msgstr "Package"
+
+msgid "Package info have been updated"
+msgstr "Info Package telah diperbarui"
+
+msgid "Packages"
+msgstr "Package"
+
+msgid "Page"
+msgstr "Halaman"
+
+msgid "Page Content"
+msgstr "Konten Halaman"
+
+msgid "Page ID"
+msgstr "ID Halaman"
+
+msgid "Page Info"
+msgstr "Info Halaman"
+
+msgid "Page Information"
+msgstr "Informasi Halaman"
+
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+msgid "Page URL"
+msgstr "URL Halaman"
+
+msgid "Page info have been updated"
+msgstr "Info halaman telah diperbarui"
+
+msgid "Page title must be at least 3 characters long. Please try another"
+msgstr "Judul halaman harus minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Pages"
+msgstr "Halaman"
+
+msgid "Pages Boosts"
+msgstr "Halaman Boosting"
+
+msgid "Pages Directory"
+msgstr "Direktori Halaman"
+
+msgid "Pages promotion"
+msgstr "Promosi Halaman"
+
+msgid "Paid Every"
+msgstr "Dibayar Setiap"
+
+msgid "Part Time"
+msgstr "Paruh waktu"
+
+msgid "Passport or National ID"
+msgstr "KTP/SIM"
+
+msgid "Password"
+msgstr "Kata Sandi"
+
+msgid "Password must be at least 6 characters long. Please try another"
+msgstr "Kata sandi harus minimal 6 karakter. Silakan coba yang lain"
+
+msgid "Pattern"
+msgstr "Pattern"
+
+msgid "Pay For"
+msgstr "Membayar Untuk"
+
+msgid "Pay Per Click"
+msgstr "Bayar Per Klik"
+
+msgid "Pay Per View"
+msgstr "Bayar Per View/Dilihat"
+
+msgid "PayPal Secret Key"
+msgstr "PayPal Secret Key"
+
+msgid "Payment Method"
+msgstr "Cara Pembayaran"
+
+msgid "Payment Requests"
+msgstr "Permintaan Pembayaran"
+
+msgid "Payments"
+msgstr "Pembayaran"
+
+msgid "Payments Settings"
+msgstr "Pengaturan Pembayaran"
+
+msgid "Paypal Enabled"
+msgstr "Paypal Diaktifkan"
+
+msgid "Paypal Mode"
+msgstr "Paypal Mode"
+
+msgid "Pending"
+msgstr "Tertunda"
+
+msgid "Pending Posts"
+msgstr "Postingan Yang Tertunda"
+
+msgid "People"
+msgstr "Orang"
+
+msgid "People Who Donated To This"
+msgstr "Orang yang Berdonasi Untuk Ini"
+
+msgid "People Who Shared This"
+msgstr "Orang yang Membagikan Ini"
+
+msgid "People Who Voted For This Option"
+msgstr "Orang yang Memilih Opsi Ini"
+
+msgid "People You May Know"
+msgstr "Orang yang Mungkin Anda Kenal"
+
+msgid "Per Day"
+msgstr "Per Hari"
+
+msgid "Per Hour"
+msgstr "Per Jam"
+
+msgid "Per Month"
+msgstr "Per bulan"
+
+msgid "Per Week"
+msgstr "Per minggu"
+
+msgid "Per Year"
+msgstr "Per tahun"
+
+msgid "Percentage"
+msgstr "Persentase"
+
+msgid "Percentage will work only with pro packages"
+msgstr "Persentase hanya akan berfungsi dengan Buddy Pro Packages"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid ""
+"Permanently remove the conversation for all chat members when user delete it"
+msgstr ""
+"Hapus percakapan secara permanen untuk semua anggota obrolan saat pengguna "
+"menghapusnya"
+
+msgid "Permission Needed"
+msgstr "Izin Diperlukan"
+
+msgid "Personal Photo"
+msgstr "Foto pribadi"
+
+msgid "Phone"
+msgstr "Telpon"
+
+msgid "Phone Number"
+msgstr "Nomor Telpon"
+
+msgid "Phone Verification Required"
+msgstr "Verifikasi Telepon Diperlukan"
+
+msgid "Phone Verified"
+msgstr "Telepon Terverifikasi"
+
+msgid "Phone number (eg. +905...)"
+msgstr "Nomor Telpon (eg. +62...)"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Photo  Page"
+msgstr "Foto Halaman"
+
+msgid "Photo Quality"
+msgstr "Kualitas Foto"
+
+msgid "Photo Too Small"
+msgstr "Foto Terlalu Kecil"
+
+msgid "Photo Upload"
+msgstr "Unggah Foto"
+
+msgid "Photo Upload in Blogs and Forums"
+msgstr "Unggah Foto di Blog dan Forum"
+
+msgid "Photo Upload in Chat"
+msgstr "Unggah Foto di Obrolan"
+
+msgid "Photo Upload in Comments"
+msgstr "Unggah Foto di Komentar"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Pin Post"
+msgstr "Sematkan Postingan"
+
+msgid "Pinned Post"
+msgstr "Postingan disematkan"
+
+msgid "Place"
+msgstr "Tempat"
+
+msgid "Play"
+msgstr "Main"
+
+msgid "Played"
+msgstr "Bermain"
+
+msgid "Playing"
+msgstr "Bermain"
+
+msgid "Playing games always fun, Play with the people who share your interests"
+msgstr ""
+"Bermain game selalu menyenangkan, Mainkan dengan orang-orang yang memiliki "
+"minat yang sama"
+
+msgid "Please add valid funding amount"
+msgstr "Harap tambahkan jumlah dana yang valid"
+
+msgid "Please add valid product price (0 for free or more)"
+msgstr "Harap tambahkan harga produk yang valid (0 gratis atau lebih)"
+
+msgid "Please add your product name"
+msgstr "Silakan tambahkan nama produk Anda"
+
+msgid "Please add your product price"
+msgstr "Silakan tambahkan harga produk Anda"
+
+msgid "Please answer all the questions"
+msgstr "Tolong jawab semua pertanyaannya"
+
+msgid "Please attach your bank receipt"
+msgstr "Harap lampirkan tanda terima bank Anda"
+
+msgid "Please attach your photo and your Passport or National ID"
+msgstr "Harap lampirkan foto Anda dan KTP Anda"
+
+msgid "Please check the SMS on your phone"
+msgstr "Silakan periksa SMS di ponsel Anda"
+
+msgid ""
+"Please check your phone and copy the verification code to complete the "
+"verification process"
+msgstr ""
+"Silakan periksa ponsel Anda dan salin kode verifikasi untuk menyelesaikan "
+"proses verifikasi"
+
+msgid ""
+"Please choose an image that's at least 1108 pixels wide and at least 360 "
+"pixels tall"
+msgstr ""
+"Pilih gambar dengan lebar minimal 1108 piksel dan tinggi minimal 360 piksel"
+
+msgid ""
+"Please choose an image that's at least 150 pixels wide and at least 150 "
+"pixels tall"
+msgstr ""
+"Pilih gambar dengan lebar minimal 150 piksel dan tinggi minimal 150 piksel"
+
+msgid ""
+"Please click on the link in that email message to complete the verification "
+"process"
+msgstr ""
+"Silakan klik tautan dalam pesan email tersebut untuk menyelesaikan proses "
+"verifikasi"
+
+msgid ""
+"Please click on the link in that email to complete the verification process"
+msgstr "Silakan klik tautan di email itu untuk menyelesaikan proses verifikasi"
+
+msgid "Please consider supporting us by disabling your ad blocker"
+msgstr ""
+"Harap pertimbangkan untuk mendukung kami dengan menonaktifkan pemblokir "
+"iklan Anda"
+
+msgid "Please enable the invitations system first to get new invitation code"
+msgstr ""
+"Harap aktifkan sistem undangan terlebih dahulu untuk mendapatkan kode "
+"undangan baru"
+
+msgid "Please enter a valid Facebook Profile URL"
+msgstr "Masukkan URL Profil Facebook yang valid"
+
+msgid "Please enter a valid Instagram Profile URL"
+msgstr "Masukkan URL Profil Instagram yang valid"
+
+msgid "Please enter a valid Linkedin Profile URL"
+msgstr "Silakan masukkan URL Profil Linkedin yang valid"
+
+msgid "Please enter a valid Twitter Profile URL"
+msgstr "Masukkan URL Profil Twitter yang valid"
+
+msgid "Please enter a valid URL to your page"
+msgstr "Harap masukkan URL yang valid untuk halaman Anda"
+
+msgid "Please enter a valid Vkontakte Profile URL"
+msgstr "Silakan masukkan URL Profil Vkontakte yang valid"
+
+msgid "Please enter a valid YouTube Profile URL"
+msgstr "Masukkan URL Profil YouTube yang valid"
+
+msgid "Please enter a valid action button URL"
+msgstr "Harap masukkan URL tombol tindakan yang valid"
+
+msgid "Please enter a valid email address"
+msgstr "silakan isi alamat email"
+
+msgid "Please enter a valid email address or username"
+msgstr "Silakan masukkan alamat email atau nama pengguna yang valid"
+
+msgid "Please enter a valid imdb link"
+msgstr "Silakan masukkan tautan imdb yang valid"
+
+msgid "Please enter a valid phone number"
+msgstr "Silahkan masukkan nomor telepon yang benar"
+
+msgid "Please enter a valid transfer to details"
+msgstr "Silakan masukkan transfer yang valid ke detail"
+
+msgid "Please enter a valid username (a-z0-9_.) with minimum 3 characters long"
+msgstr ""
+"Harap masukkan nama pengguna yang valid (a-z0-9_.) dengan panjang minimal 3 "
+"karakter"
+
+msgid ""
+"Please enter a valid web address (a-z0-9_.) with minimum 3 characters long"
+msgstr ""
+"Harap masukkan alamat web yang valid (a-z0-9_.) dengan panjang minimal 3 "
+"karakter"
+
+msgid "Please enter a valid website"
+msgstr "Harap masukkan situs website yang valid"
+
+msgid "Please enter a valid website URL"
+msgstr "Harap masukkan URL situs website yang valid"
+
+msgid "Please enter a valid work website"
+msgstr "Silakan masukkan situs website kerja yang valid"
+
+msgid "Please enter your email"
+msgstr "Masukkan email Anda"
+
+msgid "Please enter your location"
+msgstr "Silakan masukkan lokasi Anda"
+
+msgid "Please enter your name"
+msgstr "Silahkan masukan nama anda"
+
+msgid "Please enter your phone number"
+msgstr "Masukkan nomor telepon anda"
+
+msgid "Please go to"
+msgstr "Silakan pergi ke"
+
+msgid "Please log in to continue"
+msgstr "Silahkan masuk untuk melanjutkan"
+
+msgid "Please log in to like, share and comment!"
+msgstr "Silakan masuk untuk menyukai, berbagi, dan berkomentar!"
+
+msgid "Please re-enter your password"
+msgstr "Silakan masukkan kembali kata sandi Anda"
+
+msgid "Please select a valid action button color"
+msgstr "Silakan pilih warna tombol tindakan yang valid"
+
+msgid "Please select a valid birth day"
+msgstr "Silakan pilih tanggal lahir yang valid"
+
+msgid "Please select a valid birth month"
+msgstr "Silakan pilih bulan kelahiran anda yang valid"
+
+msgid "Please select a valid birth year"
+msgstr "Silakan pilih tahun kelahiran anda yang valid"
+
+msgid "Please select a valid gender"
+msgstr "Silakan pilih jenis kelamin yang valid"
+
+msgid "Please select a valid payment method"
+msgstr "Silakan pilih metode pembayaran yang valid"
+
+msgid "Please select a valid relationship"
+msgstr "Silakan pilih Status berhubungan yang valid"
+
+msgid "Please select valid product category"
+msgstr "Silakan pilih kategori produk yang valid"
+
+msgid "Please select valid product status"
+msgstr "Silakan pilih status produk yang valid"
+
+msgid "Please share why your account should be verified"
+msgstr "Silakan bagikan mengapa akun Anda harus diverifikasi"
+
+msgid "Please the amount you would like to receive"
+msgstr "Silakan jumlah yang ingin Anda terima"
+
+msgid "Points"
+msgstr "Buddy Points"
+
+msgid "Points Balance"
+msgstr "Saldo Buddy Points"
+
+msgid "Points Credit"
+msgstr "Buddy Points"
+
+msgid "Points Enabled"
+msgstr "Buddy Point Diaktifkan"
+
+msgid "Points Payments"
+msgstr "Pembayaran Poin"
+
+msgid "Points Settings"
+msgstr "Pengaturan Buddy Points"
+
+msgid "Points System"
+msgstr "Sistem Buddy Point"
+
+msgid "Points/Comment"
+msgstr "Point/Koment"
+
+msgid "Points/Post"
+msgstr "Poin/Kiriman"
+
+msgid "Points/Reaction"
+msgstr "Poin Per Reaksi/Suka"
+
+msgid "Poke"
+msgstr "Colek"
+
+msgid "Pokes"
+msgstr "colekan"
+
+msgid "Poll"
+msgstr "Pendapat"
+
+msgid "Poll Option Already Added"
+msgstr "Opsi Pendapat Sudah Ditambahkan"
+
+msgid "Poll Text Needed"
+msgstr "Teks Pendapat Diperlukan"
+
+msgid "Poll option too long"
+msgstr "Opsi Pendapat terlalu panjang"
+
+msgid "Polls"
+msgstr "Pendapat"
+
+msgid "Popular Posts"
+msgstr "Postingan Populer"
+
+msgid ""
+"Popular posts are public posts ordered by most reactions, comments & shares"
+msgstr ""
+"Postingan populer adalah postingan publik yang diurutkan berdasarkan "
+"sebagian besar reaksi, komentar & Bagikan"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Position"
+msgstr "Posisi"
+
+msgid "Post"
+msgstr "Kiriman"
+
+msgid "Post  Page"
+msgstr "Halaman Postingan"
+
+msgid "Post Approval"
+msgstr "Persetujuan Kiriman"
+
+msgid "Post As Anonymous"
+msgstr "Posting Sebagai Anonim"
+
+msgid "Post Hidden"
+msgstr "Posting Tersembunyi"
+
+msgid "Post Reply"
+msgstr "Kirim Balasan"
+
+msgid "Post Translation"
+msgstr "Terjemahan Posting"
+
+msgid "Posted"
+msgstr "Diposting"
+
+msgid "Poster"
+msgstr "Poster"
+
+msgid "Posts"
+msgstr "Postingan"
+
+msgid "Posts Boosts"
+msgstr "Boosting Kiriman"
+
+msgid "Posts Directory"
+msgstr "Direktori Postingan"
+
+msgid "Posts Feed"
+msgstr "Umpan Postingan"
+
+msgid "Posts Settings"
+msgstr "Pengaturan Postingan"
+
+msgid "Posts promotion"
+msgstr "Promosi Postingan"
+
+msgid "Potential Reach"
+msgstr "Potensi Jangkauan"
+
+msgid "Press space to see next"
+msgstr "Tekan spasi untuk melihat selanjutnya"
+
+msgid "Prev"
+msgstr "Sebelumnya"
+
+msgid "Preview"
+msgstr "Pratinjau"
+
+msgid "Previous"
+msgstr "Sebelumnya"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Price High"
+msgstr "Harga Tinggi"
+
+msgid "Price Low"
+msgstr "Harga Rendah"
+
+msgid "Price/Referred"
+msgstr "Harga/Referensi"
+
+msgctxt "Privasi"
+msgid "Privacy"
+msgstr "Privasi"
+
+msgid "Privacy Policy"
+msgstr "Kebijakan pribadi"
+
+msgid "Privacy Settings"
+msgstr "Pengaturan Privasi"
+
+msgid "Pro Package"
+msgstr "Buddy Pro Package"
+
+msgid "Pro Packages"
+msgstr "Buddy Pro Package"
+
+msgid "Pro Packages Enabled"
+msgstr "Buddy Pro Package Diaktifkan"
+
+msgid "Pro Pages"
+msgstr "Pro Pages"
+
+msgid "Pro Settings"
+msgstr "Pengaturan BUddy Pro"
+
+msgid "Pro System"
+msgstr "Sistem Buddy Pro"
+
+msgid "Pro Users"
+msgstr "Pro User"
+
+msgid "Pro Users Daily Limit"
+msgstr "Batas Harian Pro User"
+
+msgid "Pro system settings have been updated"
+msgstr "Pengaturan sistem Buddy pro telah diperbarui"
+
+msgid "Processing"
+msgstr "Sedang Memproses"
+
+msgid "Processing..."
+msgstr "Sedang Memproses...."
+
+msgid "Product"
+msgstr "Produk"
+
+msgid "Product Name"
+msgstr "Nama Produk"
+
+msgid "Products"
+msgstr "Produk"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile Background"
+msgstr "Background Profil"
+
+msgid "Profile Completion"
+msgstr "Penyelesaian Profil"
+
+msgid "Profile Design"
+msgstr "Desain Profil"
+
+msgid "Profile Picture"
+msgstr "Foto Profil"
+
+msgid "Profile Pictures"
+msgstr "Foto Profil"
+
+msgid "Profile Visit Notification"
+msgstr "Notifikasi Kunjungan Profil"
+
+msgid "Profile pictures will be generated randomly and may be dublicated"
+msgstr "Foto profil akan dibuat secara acak dan dapat digandakan"
+
+msgid "Promoted"
+msgstr "Dipromosikan"
+
+msgid "Promoted Jobs"
+msgstr "Pekerjaan yang Dipromosikan"
+
+msgid "Promoted Offers"
+msgstr "Penawaran yang Dipromosikan"
+
+msgid "Promoted Posts"
+msgstr "Postingan Dipromosikan"
+
+msgid "Promoted Products"
+msgstr "Produk Dipromosikan"
+
+msgid "Public"
+msgstr "Publik"
+
+msgid "Public Event"
+msgstr "Publik"
+
+msgid "Public Group"
+msgstr "Publik"
+
+msgid "Publish"
+msgstr "Kirim"
+
+msgid "Publish posts disabled by admin"
+msgstr "Publikasikan postingan yang dinonaktifkan oleh admin"
+
+msgid "Push Notifications"
+msgstr "Push Notifikasi"
+
+msgid "Question"
+msgstr "Pertanyaan"
+
+msgid "Questions"
+msgstr "Pertanyaan"
+
+msgid "Raised of"
+msgstr "Dapatkan dari"
+
+msgid "Random Pictures"
+msgstr "Foto Secara Acak"
+
+msgid "Reach"
+msgstr "Pencapaian"
+
+msgid "Read More"
+msgstr "Baca lebih Lanjut"
+
+msgid "Read less"
+msgstr "Baca lebih sedikit"
+
+msgid "Read more"
+msgstr "Baca lebih Banyak"
+
+msgid "Reading"
+msgstr "Membaca"
+
+msgid "Recent Searches"
+msgstr "Pencarian terkini"
+
+msgid "Recent Updates"
+msgstr "Pembaruan Terbaru"
+
+msgid "Recharge your wallet to continue"
+msgstr "Isi ulang Buddy Coin Anda untuk melanjutkan"
+
+msgid "Record"
+msgstr "Rekam"
+
+msgid "Recording"
+msgstr "Sedang Merekam"
+
+msgid ""
+"Red block message will appear to make user disable adblock from his browser"
+msgstr ""
+"Pesan blok merah akan muncul untuk membuat pengguna menonaktifkan adblock "
+"dari browsernya"
+
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+msgid "Referrals"
+msgstr "Referrals"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "Registration"
+msgstr "Registrasi"
+
+msgid "Registration Enabled"
+msgstr "Pendaftaran Diaktifkan"
+
+msgid "Registration Settings"
+msgstr "Pengaturan Pendaftaran"
+
+msgid "Registration Type"
+msgstr "Jenis pendaftaran"
+
+msgid ""
+"Registration creates an App ID that lets us know who you are, helps us "
+"distinguish your app from other apps"
+msgstr ""
+"Pendaftaran membuat ID Aplikasi yang memungkinkan kami mengetahui siapa Anda,"
+" membantu kami membedakan aplikasi Anda dari aplikasi lain"
+
+msgid "Registration is closed right now"
+msgstr "Pendaftaran sekarang ditutup "
+
+msgid "Relationship"
+msgstr "Berhubungan"
+
+msgid "Relationship Status"
+msgstr "Status Berhubungan"
+
+msgid "Release"
+msgstr "Release"
+
+msgid "Release Year"
+msgstr "Tahun rilis"
+
+msgid "Remaining"
+msgstr "Tersisa"
+
+msgid "Remember me"
+msgstr "Ingkatkan saya"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Remove Admin"
+msgstr "Hapus Admin"
+
+msgid "Remove Package"
+msgstr "Hapus Packages"
+
+msgid "Replenish Credit"
+msgstr "Isi Ulang Buddy Coin"
+
+msgid "Replenish wallet credit"
+msgstr "Isi ulang Buddy Coin"
+
+msgid "Replenish your wallet credit"
+msgstr "Isi ulang Buddy Coin Anda"
+
+msgid "Replies"
+msgstr "Membalas"
+
+msgid "Reply"
+msgstr "Balas"
+
+msgid "Report"
+msgstr "Laporkan"
+
+msgid "Report post"
+msgstr "Laporkan Kiriman ini"
+
+msgid "Reporter By"
+msgstr "Laporan dari"
+
+msgid "Reports"
+msgstr "Laporan"
+
+msgid "Request a new one"
+msgstr "Minta yang baru"
+
+msgid "Requests"
+msgstr "Permintaan"
+
+msgid "Required extension GD is not loaded"
+msgstr "ekstensi GD yang diperlukan tidak dimuat"
+
+msgid "Resend SMS"
+msgstr "Kirim Ulang SMS"
+
+msgid "Resend Verification Email"
+msgstr "Mengirim ulang email verifikasi"
+
+msgid "Reset"
+msgstr "Atur Ulang"
+
+msgid "Reset Password"
+msgstr "Setel Ulang Kata Sandi"
+
+msgid "Reset all expired subscribers and their boosted posts and pages"
+msgstr ""
+"Setel ulang semua Subscribers yang kedaluwarsa serta Boosting Kiriman dan "
+"halaman yang Di Boosting"
+
+msgid "Reset all users points"
+msgstr "Setel ulang semua poin pengguna"
+
+msgid "Respond to Your Friend Request"
+msgstr "Tanggapi Permintaan Pertemanan Anda"
+
+msgid "Results Found"
+msgstr "Hasil Ditemukan"
+
+msgid "Resume Campaign"
+msgstr "Lanjutkan Kampanye"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "Ringing"
+msgstr "Berbunyi"
+
+msgid "Routing Code"
+msgstr "Kode Perutean"
+
+msgid "Run"
+msgstr "Run"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SMS Provider"
+msgstr "SMS Provider"
+
+msgid "SMS Settings"
+msgstr "Pengaturan SMS"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+msgid "SMTP Require Authentication"
+msgstr "SMTP Require Authentication"
+
+msgid "SMTP SSL Encryption"
+msgstr "SMTP SSL Encryption"
+
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+msgid "SOLD"
+msgstr "TERJUAL"
+
+msgid "SUBSCRIBE"
+msgstr "BERLANGGANAN"
+
+msgid "Sad"
+msgstr "Sedih"
+
+msgid "Salary Range"
+msgstr "Kisaran gaji"
+
+msgid "Sandbox"
+msgstr "Sandbox"
+
+msgid "Satisfied"
+msgstr "Puas"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+msgid "Save Live Videos"
+msgstr "Simpan Live Video"
+
+msgid "Save Post"
+msgstr "Simpan Kiriman"
+
+msgid "Saved Posts"
+msgstr "Simpanan Kiriman"
+
+msgid "Scanning the QR code"
+msgstr "Memindai kode QR"
+
+msgid "School"
+msgstr "Sekolah"
+
+msgid "Scroll to the next post"
+msgstr "Scroll ke postingan selanjutnya"
+
+msgid "Scroll to the previous post"
+msgstr "Scroll ke postingan sebelumnya"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Search  Page"
+msgstr "Cari Halaman"
+
+msgid "Search All Forums"
+msgstr "Cari Semua Forum"
+
+msgid "Search For"
+msgstr "Cari"
+
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+msgid "Search for"
+msgstr "Cari"
+
+msgid "Search for groups you want new accounts to auto join"
+msgstr "Cari grup yang Anda inginkan agar akun baru bergabung secara otomatis"
+
+msgid "Search for pages you want new accounts to auto like"
+msgstr "Cari halaman yang Anda ingin akun baru untuk disukai secara otomatis"
+
+msgid "Search for people, pages and #hashtags"
+msgstr "Cari orang, halaman, dan #hashtag"
+
+msgid "Search for products"
+msgstr "Cari produk"
+
+msgid "Search for user name or email"
+msgstr "Cari nama pengguna atau email"
+
+msgid "Search for users you want new accounts to auto follow"
+msgstr "Cari pengguna yang Anda ingin akun baru untuk diikuti secara otomatis"
+
+msgid "Search for users you want new accounts to auto friend"
+msgstr "Cari pengguna yang Anda ingin akun baru menjadi teman otomatis"
+
+msgid "Search in Forum(s)"
+msgstr "Cari di Forum"
+
+msgid "Search:"
+msgstr "Cari:"
+
+msgid "Secret"
+msgstr "Rahasia"
+
+msgid "Secret Event"
+msgstr "Rahasia"
+
+msgid "Secret Group"
+msgstr "Rahasia"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Section"
+msgstr "Section"
+
+msgid "Secuirty Check"
+msgstr "Pemeriksaan keamanan"
+
+msgid "Security"
+msgstr "Keamanan"
+
+msgid "Security Settings"
+msgstr "Pengaturan Keamanan"
+
+msgid "See All"
+msgstr "Lihat Semua"
+
+msgid "See All Results"
+msgstr "Lihat Semua hasil"
+
+msgid "See More"
+msgstr "Lihat Lebih Banyak"
+
+msgid "See fewer posts like this"
+msgstr "Lihat lebih sedikit postingan seperti ini"
+
+msgid "See what everyone’s up to and what’s on their minds"
+msgstr "Lihat apa yang semua orang lakukan dan apa yang ada di pikiran mereka"
+
+msgid "Seeking for a job, You can find theme here"
+msgstr "Mencari pekerjaan, Anda dapat menemukan tema di sini"
+
+msgid "Seen Status Enabled"
+msgstr "Status Terlihat Diaktifkan"
+
+msgid "Seen by"
+msgstr "Dilihat oleh"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Select All"
+msgstr "Pilih Semua"
+
+msgid "Select Box"
+msgstr "Select Box"
+
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+msgid "Select Country"
+msgstr "Pilih Negara"
+
+msgid "Select Day"
+msgstr "Pilih Hari"
+
+msgid ""
+"Select Email or SMS activation to send activation code to user's email/phone"
+msgstr ""
+"Pilih aktivasi Email atau SMS untuk mengirim kode aktivasi ke email/telepon "
+"pengguna"
+
+msgid "Select Email or SMS to send invitation link to new user's email/phone"
+msgstr ""
+"Pilih Email atau SMS untuk mengirim tautan undangan ke email/telepon "
+"pengguna baru"
+
+msgid "Select Email, SMS or Google Authenticator to send log in code to user"
+msgstr ""
+"Pilih Email, SMS atau Google Authenticator untuk mengirim kode masuk ke "
+"pengguna"
+
+msgid "Select Event"
+msgstr "Pilih Acara"
+
+msgid "Select Group"
+msgstr "Pilih Grup"
+
+msgid "Select Groups"
+msgstr "Pilih Grup"
+
+msgid "Select Month"
+msgstr "Pilih Bulan"
+
+msgid "Select Options"
+msgstr "Pilih Opsi"
+
+msgid "Select Package"
+msgstr "Pilih Packages"
+
+msgid "Select Page"
+msgstr "Pilih Halaman"
+
+msgid "Select Pages"
+msgstr "Pilih Halaman"
+
+msgid "Select Privacy"
+msgstr "Pilih Privasi"
+
+msgid "Select Relationship"
+msgstr "Pilih Hubungan"
+
+msgid "Select Sex"
+msgstr "Pilih Jenis Kelamin"
+
+msgid "Select Users"
+msgstr "Pilih Pengguna"
+
+msgid "Select Year"
+msgstr "Pilih Tahun"
+
+msgid "Select Your Language"
+msgstr "Pilih Bahasa Anda"
+
+msgid "Select Your Payment Method"
+msgstr "Pilih Metode Pembayaran Anda"
+
+msgid "Select a category for your App"
+msgstr "Pilih kategori untuk Aplikasi Anda"
+
+msgid "Select one of your events you want to advertise for"
+msgstr "Pilih salah satu acara yang ingin Anda iklankan"
+
+msgid "Select one of your groups you want to advertise for"
+msgstr "Pilih salah satu grup yang ingin Anda iklankan"
+
+msgid "Select one of your pages you want to advertise for"
+msgstr "Pilih salah satu halaman yang ingin Anda iklankan"
+
+msgid "Select the datetime format of the datetime picker"
+msgstr "Pilih format datetime dari pemilih datetime"
+
+msgid "Select the distance measure unit of your website"
+msgstr "Pilih unit ukuran jarak situs web Anda"
+
+msgid "Select the interval of trending hashtags"
+msgstr "Pilih interval hashtag yang sedang tren"
+
+msgid "Select the language of generated account names"
+msgstr "Pilih bahasa nama akun yang dihasilkan"
+
+msgid "Select the position (the anchor point) of your watermark icon"
+msgstr "Pilih posisi (titik jangkar) ikon watermark Anda"
+
+msgid "Select the type of your question"
+msgstr "Pilih jenis pertanyaan Anda"
+
+msgid "Select valid discount percent"
+msgstr "Pilih persen diskon yang valid"
+
+msgid "Select valid discount type for your offer"
+msgstr "Pilih jenis diskon yang valid untuk penawaran Anda"
+
+msgid "Select valid job type"
+msgstr "Pilih jenis pekerjaan yang valid"
+
+msgid "Select valid salary payment period"
+msgstr "Pilih periode pembayaran gaji yang valid"
+
+msgid "Select what you want to add to the blackist"
+msgstr "Pilih apa yang ingin Anda tambahkan ke daftar hitam"
+
+msgid "Select which backup you would like to generate"
+msgstr "Pilih cadangan mana yang ingin Anda buat"
+
+msgid "Select which information you would like to download"
+msgstr "Pilih informasi mana yang ingin Anda unduh"
+
+msgid "Select your default SMS provider"
+msgstr "Pilih penyedia SMS default Anda"
+
+msgid "Selectable"
+msgstr "Dapat dipilih"
+
+msgid "Sell New Product"
+msgstr "Jual Produk Baru"
+
+msgid "Sell Something"
+msgstr "Jual Sesuatu"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Send & Recieve Money"
+msgstr "Kirim & Terima Buddy Coin"
+
+msgid "Send Invitation Code"
+msgstr "Kirim Kode Undangan"
+
+msgid "Send Money"
+msgstr "Kirim Buddy Coin"
+
+msgid "Send To"
+msgstr "Kirim Kepada"
+
+msgid "Send Verification Request"
+msgstr "Kirim Permintaan Verifikasi"
+
+msgid "Send a Gift"
+msgstr "Kirim Hadiah"
+
+msgid "Send a New Message"
+msgstr "Kirim Pesan Baru"
+
+msgid "Send and Transfer Money"
+msgstr "Kirim dan Transfer Buddy Coin"
+
+msgid "Send to"
+msgstr "Kirim Kepada"
+
+msgid "Sent"
+msgstr "Terkirim"
+
+msgid "Sent Requests"
+msgstr "Kirim Permintaan"
+
+msgid "Sent new affiliates withdrawal request"
+msgstr "Mengirim permintaan penarikan afiliasi baru"
+
+msgid "Sent new bank transfer"
+msgstr "Mengirim transfer bank baru"
+
+msgid "Sent new funding withdrawal request"
+msgstr "Mengirim permintaan penarikan dana baru"
+
+msgid "Sent new points withdrawal request"
+msgstr "Mengirim permintaan penarikan poin baru"
+
+msgid "Sent new wallet withdrawal request"
+msgstr "Mengirim permintaan baru penarikan Buddy Coin "
+
+msgid "Sent you a gift"
+msgstr "Mengirimkan Anda Hadiah"
+
+msgid "Sep"
+msgstr "September"
+
+msgid "Separated"
+msgstr "Berpisah"
+
+msgid "Separated by a comma (,) Example: Tom Hanks, Julia Roberts, Jim Carrey"
+msgstr ""
+"Dipisahkan dengan koma (,) Contoh: Tom Hanks, Julia Roberts, Jim Carrey"
+
+msgid "Set Campaign end datetime (UTC)"
+msgstr "Tetapkan waktu akhir kampanye (UTC)"
+
+msgid "Set Campaign start datetime (UTC)"
+msgstr "Tetapkan Waktu mulai kampanye (UTC)"
+
+msgid "Set From"
+msgstr "Tetapkan Dari"
+
+msgid ""
+"Set a budget for your campaign, campaign will be paused if reached its limit"
+msgstr ""
+"Tetapkan anggaran untuk kampanye Anda, kampanye akan dijeda jika mencapai "
+"batasnya"
+
+msgid "Set a description for your App (maximum 200 characters)"
+msgstr "Tetapkan deskripsi untuk Aplikasi Anda (maksimum 200 karakter)"
+
+msgid "Set a description for your ads (maximum 200 characters)"
+msgstr "Tetapkan deskripsi untuk iklan Anda (maksimum 200 karakter)"
+
+msgid "Set a title for your ads"
+msgstr "Tetapkan judul untuk iklan Anda"
+
+msgid "Set a title for your campaign"
+msgstr "Tetapkan judul untuk kampanye Anda"
+
+msgid "Set as a Section"
+msgstr "Tetapkan sebagai Section"
+
+msgid "Set the From email address"
+msgstr "Setel alamat email Dari"
+
+msgid "Set the name of your custom withdrawal payment method"
+msgstr "Tetapkan nama metode pembayaran penarikan kustom Anda"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Share"
+msgstr "Bagikan"
+
+msgid "Share Plugin"
+msgstr "Share Plugin"
+
+msgid "Share the post to"
+msgstr "Bagikan postingan ke"
+
+msgid "Share your information with our community"
+msgstr "Bagikan informasi Anda dengan komunitas kami"
+
+msgid "Shared with"
+msgstr "Dibagikan dengan"
+
+msgid "Shared with: Friends"
+msgstr "Dibagikan dengan: Teman"
+
+msgid "Shared with: Only Me"
+msgstr "Dibagikan dengan: Hanya saya"
+
+msgid "Shared with: Public"
+msgstr "Dibagikan dengan: Publik"
+
+msgid "Shares"
+msgstr "Dibagikan"
+
+msgid "Sharing thoughts, ideas and creating amazing contents"
+msgstr "Berbagi pemikiran, ide, dan membuat konten yang luar biasa"
+
+msgid "Shocked"
+msgstr "Kaget"
+
+msgid "Show"
+msgstr "Tampilkan"
+
+msgid "Show Attachments"
+msgstr "Tampilkan Lampiran"
+
+msgid "Show Usernames Only"
+msgstr "Tampilkan Username Saja"
+
+msgid "Show _MENU_ entries"
+msgstr "Tampilkan _MENU_ entri"
+
+msgid "Show forums online users"
+msgstr "Tampilkan forum pengguna yang sedang online"
+
+msgid "Show forums statistics"
+msgstr "Tampilkan statistik forum"
+
+msgid "Show in Profile Page"
+msgstr "Tampilkan di Halaman Profil"
+
+msgid "Show in Registration"
+msgstr "Tampil di Pendaftaran"
+
+msgid ""
+"Show the field in the user registration, create page, create group or create "
+"event"
+msgstr ""
+"Tampilkan bidang di pendaftaran pengguna, buat halaman, buat grup, atau buat "
+"acara"
+
+msgid "Show the field in the user's profile page, fan page, group or event"
+msgstr ""
+"Tampilkan bidang di halaman profil pengguna, halaman penggemar, grup, atau "
+"acara"
+
+msgid "Show the page in the footer links menu"
+msgstr "Tampilkan halaman di menu tautan footer"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Menampilkan 0 hingga 0 dari 0 entri"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Menampilkan _START_ hingga _END_ dari _TOTAL_ entri"
+
+msgid "Shutdown Message"
+msgstr "Shutdown Message"
+
+msgid "Sidebar"
+msgstr "Sidebar"
+
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+msgid "Sign in"
+msgstr "Masuk"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Skrill"
+msgstr "Skrill"
+
+msgid "Sleepy"
+msgstr "Mengantuk"
+
+msgid "Smart YouTube Player"
+msgstr "Smart YouTube Player"
+
+msgid "Smart YouTube player will save a lot of bandwidth"
+msgstr "Pemutar YouTube pintar akan menghemat banyak bandwidth"
+
+msgid "Sngine"
+msgstr "Buddyshare Engine"
+
+msgid "Sngine uses Twemoji Awesome and you can check"
+msgstr "Buddyshare Engine menggunakan Twemoji Awesome dan Anda dapat memeriksa"
+
+msgid "Social Links"
+msgstr "Social Links"
+
+msgid "Social Login"
+msgstr "Social Login"
+
+msgid "Social Logins"
+msgstr "Social Login"
+
+msgid "Social Media Share"
+msgstr "Berbagi Media Sosial"
+
+msgid "Someone commented on his post"
+msgstr "Seseorang mengomentari postingannya"
+
+msgid "Someone commented on my post"
+msgstr "Seseorang mengomentari posting saya"
+
+msgid "Someone liked his post"
+msgstr "Seseorang menyukai postingannya"
+
+msgid "Someone liked my post"
+msgstr "Seseorang menyukai postingan saya"
+
+msgid "Someone mentioned him"
+msgstr "Seseorang menyebut dia"
+
+msgid "Someone mentioned me"
+msgstr "Seseorang menyebut saya"
+
+msgid "Someone posted on his timeline"
+msgstr "Seseorang memposting di timeline-nya"
+
+msgid "Someone posted on my timeline"
+msgstr "Seseorang memposting di timeline saya"
+
+msgid "Someone sent him or accepted his friend requset"
+msgstr "Seseorang mengirimnya atau menerima permintaan pertemanannya"
+
+msgid "Someone sent me/accepted my friend requset"
+msgstr "Seseorang mengirim saya/menerima permintaan pertemanan saya"
+
+msgid "Someone shared his post"
+msgstr "Seseorang membagikan postingannya"
+
+msgid "Someone shared my post"
+msgstr "Seseorang membagikan kiriman saya"
+
+msgid "Someone visited his profile"
+msgstr "Seseorang mengunjungi profilnya"
+
+msgid "Someone visited my profile"
+msgstr "Seseorang mengunjungi profil saya"
+
+msgid "Something wrong with upload! Is 'upload_max_filesize' set correctly?"
+msgstr ""
+"Ada yang salah dengan unggahan! Apakah 'upload_max_filesize' disetel dengan "
+"benar?"
+
+msgid "Sorry"
+msgstr "Maaf"
+
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed. "
+"name changed or is temporarily unavailable"
+msgstr ""
+"Maaf tapi halaman yang anda cari tidak ada, sudah dihapus. nama berubah atau "
+"sementara tidak tersedia"
+
+msgid "Sorry but this provider"
+msgstr "Maaf tapi penyedia ini"
+
+msgid "Sorry but this username"
+msgstr "Maaf tapi Username ini ini"
+
+msgid "Sorry, WebRTC is not available in your browser"
+msgstr "Maaf, WebRTC tidak tersedia di browser Anda"
+
+msgid "Sorry, You must be"
+msgstr "Maaf, Anda harus"
+
+msgid "Sorry, can not upload the file"
+msgstr "Maaf, tidak dapat mengunggah file"
+
+msgid "Sorry, can not upload the file for adult content"
+msgstr "Maaf, tidak dapat mengunggah file untuk konten dewasa"
+
+msgid "Sorry, it looks like"
+msgstr "Maaf, sepertinya"
+
+msgid "Sorry, it looks like this username"
+msgstr "Maaf, sepertinya username ini"
+
+msgid "Sorry, it looks like this web address"
+msgstr "Maaf, sepertinya alamat website ini"
+
+msgid "Source"
+msgstr "Sumber"
+
+msgid "Space Name"
+msgstr "Nama Ruang"
+
+msgid "Space Region"
+msgstr "Wilayah Luar Angkasa"
+
+msgid "Spend"
+msgstr "Dibelanjakan"
+
+msgid "Spend X Get Y Off"
+msgstr "Habiskan X Dapatkan Y Off"
+
+msgid "Sponsored"
+msgstr "Disponsori"
+
+msgid "Stars"
+msgstr "Bintang"
+
+msgid "Start - End Date"
+msgstr "Tanggal Mulai - Akhir"
+
+msgid "Start Date"
+msgstr "Mulai tanggal"
+
+msgid ""
+"Starting the OAuth login process, You need to use a link for your app like "
+"this"
+msgstr ""
+"Memulai proses login OAuth, Anda perlu menggunakan tautan untuk aplikasi "
+"Anda seperti ini"
+
+msgid "Static Pages"
+msgstr "Halaman Statik"
+
+msgid "Static page info have been updated"
+msgstr "Info halaman statis telah diperbarui"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status Message"
+msgstr "Status Pesan"
+
+msgid "Step 1"
+msgstr "Langkah ke 1"
+
+msgid "Step 2"
+msgstr "Langkah ke 2"
+
+msgid "Step 3"
+msgstr "Langkah ke 3"
+
+msgid "Sticker info have been updated"
+msgstr "Info stiker sudah diupdate"
+
+msgid "Stickers"
+msgstr "Stiker"
+
+msgid "Stop Campaign"
+msgstr "Hentikan Kampanye"
+
+msgid "Stop seeing posts but stay friends"
+msgstr "Berhenti melihat postingan tapi tetap berteman"
+
+msgid "Stories"
+msgstr "Cerita"
+
+msgid "Stories are photos and videos that only last 24 hours"
+msgstr "Cerita adalah foto dan video yang hanya bertahan 24 jam"
+
+msgid "Story Duration"
+msgstr "Durasi Cerita"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Stripe Mode"
+msgstr "Modo Stripe"
+
+msgid "Stripe publishable key that starts with pk_"
+msgstr "Chave publishable key do stripe começa com sk_"
+
+msgid "Stripe secret key that starts with sk_"
+msgstr "Chave secreta do stripe começa com sk_"
+
+msgid "Strong"
+msgstr "Kuat"
+
+msgid "Studied"
+msgstr "Belajar"
+
+msgid "Sub-Forums"
+msgstr "Sub-fóruns"
+
+msgid "Subject"
+msgstr "Subjek"
+
+msgid "Subscribe to notifications"
+msgstr "Berlangganan notifikasi"
+
+msgid "Subscribed"
+msgstr "Berlangganan"
+
+msgid "Subscribers"
+msgstr "Subscribers"
+
+msgid "Subscription"
+msgstr "Berlangganan"
+
+msgid "Subscription Date"
+msgstr "Tanggal Berlangganan"
+
+msgid "Subscriptions Only"
+msgstr "Berlangganan Saja"
+
+msgid "Success"
+msgstr "Berhasil"
+
+msgid "Successfully switched to new device"
+msgstr "Berhasil beralih ke perangkat baru"
+
+msgid "Suggested Events"
+msgstr "Acara yang Disarankan"
+
+msgid "Suggested Groups"
+msgstr "Grup yang Disarankan"
+
+msgid "Suggested Pages"
+msgstr "Halaman yang Disarankan"
+
+msgid "Switching stream sources"
+msgstr "Beralih sumber stream"
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System Ads"
+msgstr "Sistem Iklan"
+
+msgid "System Currency"
+msgstr "Sistem Mata Uang"
+
+msgid "System Datetime Format"
+msgstr "Sistem Format Tanggal Waktu "
+
+msgid "System Distance Unit"
+msgstr "Sistem Satuan Jarak "
+
+msgid "System Email"
+msgstr "Sistem Email"
+
+msgid "System Message"
+msgstr "Sistem Pesan"
+
+msgid "System Notifications"
+msgstr "Sistem Notifikasi"
+
+msgid "System Settings"
+msgstr "Pengaturan Sistem"
+
+msgid "System settings have been updated"
+msgstr "Pengaturan sistem telah diperbarui"
+
+msgid "TLS encryption will be used in case of disabled"
+msgstr "Enkripsi TLS akan digunakan jika dinonaktifkan"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Taking backup might take some time and you can download backups via FTP"
+msgstr ""
+"Mengambil cadangan mungkin memerlukan waktu dan Anda dapat mengunduh "
+"cadangan melalui FTP"
+
+msgid "Target Audience"
+msgstr "Target Audience"
+
+msgid "Target Event"
+msgstr "Sasaran Acara"
+
+msgid "Target Group"
+msgstr "Target Grup"
+
+msgid "Target Page"
+msgstr "Target Halaman"
+
+msgid "Target URL"
+msgstr "Target URL"
+
+msgid "Terms"
+msgstr "Ketentuan"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Test Connection"
+msgstr "Tes Koneksi"
+
+msgid "Test Google Vision API"
+msgstr "Test Google Vision API"
+
+msgid "Test Message"
+msgstr "Test Pesan"
+
+msgid "Test Phone Number"
+msgstr "Test Nomor Telpon"
+
+msgid "Test Publishable Key"
+msgstr "Test Publishable Key"
+
+msgid "Test SMS could not be sent. Please check your settings"
+msgstr "SMS percobaan tidak dapat dikirim. Silakan periksa pengaturan Anda"
+
+msgid "Test SMS from"
+msgstr "Test SMS dari"
+
+msgid "Test SMS has been sent to"
+msgstr "tes SMS telah dikirim ke"
+
+msgid "Test SMTP Connection on"
+msgstr "Uji Koneksi SMTP aktif"
+
+msgid "Test Secret Key"
+msgstr "Test Secret Key"
+
+msgid "Test email could not be sent. Please check your settings"
+msgstr "Email percobaan tidak dapat dikirim. Silakan periksa pengaturan Anda"
+
+msgid "Test email has been sent to"
+msgstr "Email percobaan telah dikirim ke"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Text Color"
+msgstr "Warna Teks"
+
+msgid "Text Length Limit Reached"
+msgstr "Batas Panjang Teks Tercapai"
+
+msgid "Textarea"
+msgstr "Textarea"
+
+msgid "Textbox"
+msgstr "Textbox"
+
+msgid "Thanks"
+msgstr "Terimakasih"
+
+msgid "Thanks for subscribing!"
+msgstr "Thanks for subscribing!"
+
+msgid "The First and Last name minimum length"
+msgstr "Panjang minimum nama depan dan belakang"
+
+msgid "The Max even number of results per request"
+msgstr "Jumlah hasil maksimal genap per permintaan"
+
+msgid "The Max number of results per request"
+msgstr "Jumlah hasil maksimal per permintaan"
+
+msgid "The Maximum allowed comment characters length (0 for unlimited)"
+msgstr ""
+"Panjang karakter komentar maksimum yang diizinkan (0 untuk tidak terbatas)"
+
+msgid "The Maximum allowed post characters length (0 for unlimited)"
+msgstr ""
+"Panjang karakter posting maksimum yang diizinkan (0 untuk tidak terbatas)"
+
+msgid ""
+"The Maximum number of accounts allowed to register per IP (0 for unlimited)"
+msgstr ""
+"Jumlah maksimum akun yang diizinkan untuk mendaftar per IP (0 untuk tidak "
+"terbatas)"
+
+msgid ""
+"The Maximum number of comments that user can publish per hour (0 for "
+"unlimited)"
+msgstr ""
+"Jumlah maksimum komentar yang dapat dipublikasikan pengguna per jam (0 untuk "
+"tidak terbatas)"
+
+msgid "The Maximum number of friends allowed per User (0 for unlimited)"
+msgstr ""
+"Jumlah maksimum teman yang diizinkan per Pengguna (0 untuk tidak terbatas)"
+
+msgid ""
+"The Maximum number of posts that user can publish per hour (0 for unlimited)"
+msgstr ""
+"Jumlah maksimum posting yang dapat dipublikasikan pengguna per jam (0 untuk "
+"tidak terbatas)"
+
+msgid "The Maximum size of cover photo"
+msgstr "Ukuran maksimum foto sampul"
+
+msgid "The Maximum size of profile photo"
+msgstr "Ukuran maksimum foto profil"
+
+msgid "The Maximum size of uploaded audio in posts"
+msgstr "Ukuran maksimum audio yang diunggah dalam postingan"
+
+msgid "The Maximum size of uploaded file in posts"
+msgstr "Ukuran maksimum file yang diunggah dalam posting"
+
+msgid "The Maximum size of uploaded photo in posts"
+msgstr "Ukuran maksimum foto yang diunggah dalam postingan"
+
+msgid "The Maximum size of uploaded video in posts"
+msgstr "Ukuran maksimum video yang diunggah dalam postingan"
+
+msgid "The Min even number of results per request"
+msgstr "Jumlah hasil min genap per permintaan"
+
+msgid "The Min number of results per request"
+msgstr "Jumlah minimum hasil per permintaan"
+
+msgid ""
+"The URL to your uploads folder (Examples: 'https://domain.com/uploads' or "
+"'https://64.233.191.255/uploads')"
+msgstr ""
+"URL ke folder unggahan Anda (Contoh: 'https://buddyshare.net/uploads' atau "
+"'https://64.233.191.255/uploads'"
+
+msgid "The allowed file size is:"
+msgstr "Ukuran file yang diizinkan adalah:"
+
+msgid "The amount is larger than your current affiliates balance"
+msgstr "Jumlahnya lebih besar dari saldo afiliasi Anda saat ini"
+
+msgid "The amount is larger than your current funding balance"
+msgstr "Jumlahnya lebih besar dari saldo dana Anda saat ini"
+
+msgid "The amount is larger than your current points balance"
+msgstr "Jumlahnya lebih besar dari saldo poin Anda saat ini"
+
+msgid ""
+"The amount of time to be considered online since the last user's activity "
+"(in seconds)"
+msgstr ""
+"Jumlah waktu untuk dipertimbangkan online sejak aktivitas pengguna terakhir "
+"(dalam detik)"
+
+msgid "The analytics tracking code (Ex: Google Analytics)"
+msgstr "Kode pelacakan analitik (Mis: Google Analytics)"
+
+msgid ""
+"The campaign total spend reached the campaign budget already, increase the "
+"campaign budget to resume the campaign"
+msgstr ""
+"Total pembelanjaan kampanye sudah mencapai anggaran kampanye, naikkan "
+"anggaran kampanye untuk melanjutkan kampanye"
+
+msgid "The code will be added at the end of body tag"
+msgstr "Kode akan ditambahkan di akhir tag Body"
+
+msgid "The code will be added in head tag"
+msgstr "Kode akan ditambahkan di tag Header"
+
+msgid "The contact email that all messages send to"
+msgstr "Email kontak yang dikirimi semua pesan"
+
+msgid "The cost per click is larger than your campaign remaining spend"
+msgstr "Biaya per klik lebih besar dari sisa pembelanjaan kampanye Anda"
+
+msgid "The cost per view is larger than your campaign remaining spend"
+msgstr ""
+"Biaya per View/Tampilan lebih besar dari sisa pembelanjaan kampanye Anda"
+
+msgid "The description will show under the field"
+msgstr "Deskripsi akan ditampilkan di bawah bidang"
+
+msgid "The direction of this language 'Left To Right' or 'Right To Left'"
+msgstr "Arah bahasa ini 'Kiri Ke Kanan' atau 'Kanan Ke Ki"
+
+msgid "The email you entered does not belong to any account"
+msgstr "Email yang Anda masukkan bukan milik akun mana pun"
+
+msgid "The field minimum length is 1 and maximum 1000 characters"
+msgstr "Panjang minimum bidang adalah 1 dan maksimum 1000 karakter"
+
+msgid "The file size is so big"
+msgstr "Ukuran filenya gede banget"
+
+msgid "The file type is not valid image"
+msgstr "Jenis file bukan gambar yang valid"
+
+msgid "The file type is not valid or not supported"
+msgstr "Jenis file tidak valid atau tidak didukung"
+
+msgid "The image of your ads, supported formats (JPG, PNG, GIF)"
+msgstr "Gambar iklan Anda, format yang didukung (JPG, PNG, GIF)"
+
+msgid "The invitation code you entered is invalid or expired"
+msgstr "Kode undangan yang Anda masukkan tidak valid atau kedaluwarsa"
+
+msgid "The label of your custom field, also will be used as a placeholder"
+msgstr "Label bidang khusus Anda, juga akan digunakan sebagai pengganti"
+
+msgid "The maximim value is one day = 86400 seconds"
+msgstr "Nilai maksimum adalah satu hari = 86400 detik"
+
+msgid "The maximum number of generated users is 1000 per request"
+msgstr "Jumlah maksimum pengguna yang dihasilkan adalah 1000 per permintaan"
+
+msgid "The maximum number of points pro user can get per day"
+msgstr "Jumlah maksimum poin yang dapat diperoleh pengguna pro per hari"
+
+msgid "The maximum number of points regular user can get per day"
+msgstr "Jumlah maksimum poin yang bisa didapatkan pengguna reguler per hari"
+
+msgid "The maximum value for"
+msgstr "Nilai maksimum untuk"
+
+msgid "The message will sent to Website Email only"
+msgstr "Pesan akan dikirim ke Email Situs Web saja"
+
+msgid "The minimum age required to register (in years)"
+msgstr "Usia minimum yang diperlukan untuk mendaftar (dalam tahun)"
+
+msgid "The minimum amount of money so user can send a withdrawal request"
+msgstr ""
+"Jumlah minimum uang sehingga pengguna dapat mengirim permintaan penarikan"
+
+msgid "The minimum budget must be"
+msgstr "Anggaran minimal harus"
+
+msgid "The minimum withdrawal request amount is"
+msgstr "Jumlah permintaan penarikan minimum adalah"
+
+msgid "The native name of this language"
+msgstr "Nama asli bahasa ini"
+
+msgid "The opacity level of the watermark icon (value between 0 - 1)"
+msgstr "Tingkat opasitas ikon watermark (nilai antara 0 - 1)"
+
+msgid "The order of the page in the footer menu"
+msgstr "Urutan halaman di menu footer"
+
+msgid ""
+"The order of this field, custom fields will be displayed in ascending order"
+msgstr "Urutan bidang ini, bidang khusus akan ditampilkan dalam urutan menaik"
+
+msgid "The password you entered is incorrect"
+msgstr "Kata sandi yang Anda masukkan salah"
+
+msgid "The path of uploads local directory"
+msgstr "Jalur unggahan direktori lokal"
+
+msgid ""
+"The path to your uploads folder (Examples: './' or 'public_html/uploads')"
+msgstr ""
+"Jalur ke folder unggahan Anda (Contoh: './' atau 'public_html/uploads')"
+
+msgid ""
+"The percentage from package price for each new referred user registered and "
+"bought pro package"
+msgstr ""
+"Persentase dari harga paket untuk setiap pengguna referensi baru yang "
+"terdaftar dan membeli Buddy pro Packages"
+
+msgid "The perfect size for icon should be (wdith: 60px & height: 60px)"
+msgstr "Ukuran yang sempurna untuk ikon harus (lebar: 60px & tinggi: 60px)"
+
+msgid ""
+"The perfect size for your gift image should be (wdith: 250px & height: 250px)"
+msgstr ""
+"Ukuran yang sempurna untuk gambar hadiah Anda seharusnya (lebar: 250px & "
+"tinggi: 250px)"
+
+msgid ""
+"The perfect size for your og-image should be (wdith: 590px & height: 300px)"
+msgstr ""
+"Ukuran sempurna untuk OG-image Anda seharusnya (wdith: 590px & height: 300px)"
+
+msgid "The poll option you provided is too long. Please try again"
+msgstr "Opsi Pendapat yang Anda berikan terlalu panjang. Silakan coba lagi"
+
+msgid "The price for each new referred user"
+msgstr "Harga untuk setiap pengguna baru yang dirujuk"
+
+msgid "The recipient declined the call"
+msgstr "Penerima menolak panggilan"
+
+msgid "The remaining spend is larger than current wallet credit"
+msgstr "Pembelanjaan yang tersisa lebih besar dari Buddy Coin saat ini"
+
+msgid "The requested amount is less than the minimum withdrawal amount"
+msgstr "Jumlah yang diminta kurang dari jumlah penarikan minimum"
+
+msgid "The result will be"
+msgstr "Hasilnya akan"
+
+msgid "The security check is incorrect. Please try again"
+msgstr "Pemeriksaan keamanan salah. Silakan coba lagi"
+
+msgid "The source link of your embedded game"
+msgstr "Tautan sumber dari game tersemat Anda"
+
+msgid "The story duration in seconds"
+msgstr "Durasi cerita dalam hitungan detik"
+
+msgid "The system has been shutted down"
+msgstr "Sistem telah dimatikan"
+
+msgid "The text that is presented when the site is closed"
+msgstr "Teks yang disajikan saat situs ditutup"
+
+msgid "The theme color for this package"
+msgstr "Warna tema untuk paket ini"
+
+msgid "The type of your custom field"
+msgstr "Jenis Custom Field Anda"
+
+msgid "The update interval to check for new data (in seconds)"
+msgstr "Interval pembaruan untuk memeriksa data baru (dalam detik)"
+
+msgid "The update interval to check for new messages (in seconds)"
+msgstr "Interval pembaruan untuk memeriksa pesan baru (dalam detik)"
+
+msgid "The user will be redirect to Log in With page like this"
+msgstr "Pengguna akan diarahkan ke halaman Masuk Dengan seperti ini"
+
+msgid "The username you entered does not belong to any account"
+msgstr "Nama pengguna yang Anda masukkan bukan milik akun mana pun"
+
+msgid "Theme Switcher"
+msgstr "Theme Switcher"
+
+msgid "Theme info have been updated"
+msgstr "Info tema telah diperbarui"
+
+msgid "Theme name should not contain spaces or special characters"
+msgstr "Nama tema tidak boleh mengandung spasi atau karakter khusus"
+
+msgid "Themes"
+msgstr "Tema"
+
+msgid ""
+"Then place the share button after changing the URL you want to share to your "
+"page HTML"
+msgstr ""
+"Kemudian tempatkan tombol bagikan setelah mengubah URL yang ingin Anda "
+"bagikan ke HTML halaman Anda"
+
+msgid "There is no bucket with this name in your account"
+msgstr "Tidak ada Bucket dengan nama ini di akun Anda"
+
+msgid "There is no buckets in your account"
+msgstr "Tidak ada buckets di akun Anda"
+
+msgid "There is no enough credit in your wallet to buy this"
+msgstr "Tidak ada cukup Buddy Coin di dompet Anda untuk membeli ini"
+
+msgid "There is no more data to show"
+msgstr "Tidak ada lagi data untuk ditampilkan"
+
+msgid "There is no space with this name in your account"
+msgstr "Tidak ada ruang dengan nama ini di akun Anda"
+
+msgid "There is no spaces in your account"
+msgstr "Tidak ada spasi di akun Anda"
+
+msgid "There is some thing went wrong"
+msgstr "Ada yang tidak beres"
+
+msgid "There is something that went wrong!"
+msgstr "Ada sesuatu yang salah!"
+
+msgid ""
+"These are apps you've used to log into. They can receive information you "
+"chose to share with them."
+msgstr ""
+"Ini adalah aplikasi yang Anda gunakan untuk masuk. Mereka dapat menerima "
+"informasi yang Anda pilih untuk dibagikan kepada mereka."
+
+msgid "This"
+msgstr "Ini"
+
+msgid "This account is verified"
+msgstr "Akun ini diverifikasi"
+
+msgid "This account not exist"
+msgstr "Akun ini tidak ada"
+
+msgid "This album can't be deleted"
+msgstr "Album ini tidak dapat dihapus"
+
+msgid "This album is empty"
+msgstr "Album ini kosong"
+
+msgid "This content is no longer exist"
+msgstr "Konten ini sudah tidak ada"
+
+msgid ""
+"This documentation explain how to register, configure, and develop your app "
+"so you can successfully use our APIs"
+msgstr ""
+"Dokumentasi ini menjelaskan cara mendaftar, mengonfigurasi, dan "
+"mengembangkan aplikasi Anda sehingga Anda dapat berhasil menggunakan API kami"
+
+msgid ""
+"This event is private and you need to be invited to see its info, members "
+"and posts"
+msgstr ""
+"Acara ini bersifat pribadi dan Anda perlu diundang untuk melihat info, "
+"anggota, dan postingannya"
+
+msgid "This feature has been disabled"
+msgstr "Fitur ini telah dinonaktifkan"
+
+msgid "This feature has been disabled by the admin"
+msgstr "Fitur ini telah dinonaktifkan oleh administrator."
+
+msgid "This has been shared Successfully"
+msgstr "Ini telah berhasil dibagikan"
+
+msgid "This information will let us know more about you"
+msgstr "Informasi ini akan memberi tahu kami lebih banyak tentang Anda"
+
+msgid "This invitation code is expired"
+msgstr "Kode undangan ini kedaluwarsa"
+
+msgid ""
+"This is your only default theme you need to mark other theme as default "
+"before change/delete this one"
+msgstr ""
+"Ini adalah satu-satunya tema default Anda, Anda perlu menandai tema lain "
+"sebagai default sebelum mengubah/menghapus yang ini"
+
+msgid "This live no longer exists"
+msgstr "Live ini sudah tidak ada lagi"
+
+msgid "This month earnings"
+msgstr "Penghasilan bulan ini"
+
+msgid ""
+"This note will be displayed to the user while upload his bank transfer "
+"receipt"
+msgstr ""
+"Catatan ini akan ditampilkan kepada pengguna saat mengunggah tanda terima "
+"transfer banknya"
+
+msgid ""
+"This option is used to invite users by sending invitation code only by admin "
+"if the registration is turned off"
+msgstr ""
+"Opsi ini digunakan untuk mengundang pengguna dengan mengirimkan kode "
+"undangan hanya oleh admin jika pendaftaran dimatikan"
+
+msgid "This option was already added to the poll"
+msgstr "Opsi ini sudah ditambahkan ke pendapat"
+
+msgid "This page is verified"
+msgstr "Halaman ini diverifikasi"
+
+msgid ""
+"This password will be used for all generated accounts (Default is 123456789)"
+msgstr ""
+"Kata sandi ini akan digunakan untuk semua akun yang dibuat (Default adalah "
+"123456789)"
+
+msgid "This photo can't be deleted"
+msgstr "Foto ini tidak dapat dihapus"
+
+msgid "This post will no longer appear to you"
+msgstr "Postingan ini tidak akan muncul lagi untuk Anda"
+
+msgid "This system is used to invite users if the registration is turned off"
+msgstr ""
+"Sistem ini digunakan untuk mengundang pengguna jika pendaftaran dimatikan"
+
+msgid "This user has reached the maximum limit of Friends ("
+msgstr "Pengguna ini telah mencapai batas maksimum Teman ("
+
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website"
+msgstr ""
+"Situs web ini menggunakan cookie untuk memastikan Anda mendapatkan "
+"pengalaman terbaik di situs web kami"
+
+msgid "Thread"
+msgstr "Thread"
+
+msgid "Thread title must be at least 3 characters long. Please try another"
+msgstr "Judul Thread harus minimal 3 karakter. Silakan coba yang lain"
+
+msgid "Threads"
+msgstr "Tópic"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Till Now"
+msgstr "Sampai Sekarang"
+
+msgid "Time"
+msgstr "Waktu"
+
+msgid "Timeline"
+msgstr "Timeline"
+
+msgid "Timeline Photos"
+msgstr "Foto Timeline"
+
+msgid "Tired"
+msgstr "Capek"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Title of your website"
+msgstr "Judul situs website Anda"
+
+msgid "To"
+msgstr "Kepada"
+
+msgid ""
+"To get an access token, make an HTTP GET request to the following endpoint "
+"like this"
+msgstr ""
+"Untuk mendapatkan token akses, buat permintaan HTTP GET ke titik akhir "
+"berikut seperti ini"
+
+msgid "To see what"
+msgstr "Untuk melihat apa"
+
+msgid "To upload larger files, contact your hosting provider"
+msgstr "Untuk mengunggah file yang lebih besar, hubungi penyedia hosting Anda"
+
+msgid "To which email address you want to send this invitation code"
+msgstr "Ke alamat email mana Anda ingin mengirim kode undangan ini"
+
+msgid "Tools"
+msgstr "Buddy Tools"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Top Comments"
+msgstr "Top Komentar"
+
+msgid "Top Left"
+msgstr "Atas Kiri"
+
+msgid "Top Right"
+msgstr "Atas Kanan"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Earnings"
+msgstr "Total Pendapatan"
+
+msgid "Total Likes"
+msgstr "Total Suka"
+
+msgid "Total Reactions"
+msgstr "Total Reaksi"
+
+msgid "Total Sales"
+msgstr "Total Sales"
+
+msgid "Total earnings"
+msgstr "Total Pendapatan"
+
+msgid "Touch to unmute"
+msgstr "Sentuh untuk membunyikan"
+
+msgid "Tracking Code"
+msgstr "Kode lacak"
+
+msgid "Transaction complete successfully"
+msgstr "Transaksi berhasil diselesaikan"
+
+msgid "Transactions History"
+msgstr "Riwayat Transaksi"
+
+msgid "Transfer Money Enabled"
+msgstr "Transfer Buddy Coin Diaktifkan"
+
+msgid "Transfer Note"
+msgstr "Catatan Transfer"
+
+msgid "Transfer To"
+msgstr "Transfer Ke"
+
+msgid "Translate"
+msgstr "Translate"
+
+msgid "Translated"
+msgstr "Diterjemahkan"
+
+msgid "Traveling To"
+msgstr "Jalan-jalan ke"
+
+msgid "Trending"
+msgstr "Trending"
+
+msgid "Trending Hashtags"
+msgstr "Trending Hashtags"
+
+msgid "Trusted community marketplace wherein members can post and browse items"
+msgstr ""
+"Marketplace komunitas tepercaya tempat anggota dapat memposting dan "
+"menelusuri item"
+
+msgid "Turn Anonymous mode On and Off"
+msgstr "Nyalakan dan Matikan mode Anonim"
+
+msgid "Turn Off Chat"
+msgstr "Matikan Obrolan"
+
+msgid "Turn On Chat"
+msgstr "Aktifkan Obrolan"
+
+msgid "Turn infinite scroll on desktop screens On and Off"
+msgstr "Nyalakan dan matikan gulir tak terbatas di layar desktop"
+
+msgid "Turn infinite scroll on mobile screens On and Off"
+msgstr "Nyalakan dan matikan gulir tak terbatas di layar ponsel"
+
+msgid "Turn it on from"
+msgstr "Nyalakan dari"
+
+msgid "Turn off Commenting"
+msgstr "Nonaktifkan Komentar"
+
+msgid ""
+"Turn off the ad blocker or add this web page's URL as an exception so you "
+"use ads system without any problems"
+msgstr ""
+"Matikan pemblokir iklan atau tambahkan URL halaman web ini sebagai "
+"pengecualian sehingga Anda menggunakan sistem iklan tanpa masalah"
+
+msgid "Turn on Commenting"
+msgstr "Aktifkan Komentar"
+
+msgid ""
+"Turn online indicator on Posts On and Off (User must be online and enabled "
+"the chat)"
+msgstr ""
+"Mengaktifkan dan menonaktifkan indikator online pada Postingan (Pengguna "
+"harus online dan mengaktifkan obrolan)"
+
+msgid "Turn reCAPTCHA On and Off"
+msgstr "Turn reCAPTCHA On and Off"
+
+msgid "Turn registration/login via Facebook On and Off"
+msgstr "Aktifkan dan Nonaktifkan pendaftaran/login melalui Facebook"
+
+msgid "Turn registration/login via Google On and Off"
+msgstr "Aktifkan dan Nonaktifkan pendaftaran/login melalui Google"
+
+msgid "Turn registration/login via Linkedin On and Off"
+msgstr "Aktifkan dan Nonaktifkan pendaftaran/login melalui Linkedin"
+
+msgid "Turn registration/login via Twitter On and Off"
+msgstr "Aktifkan dan Nonaktifkan pendaftaran/login melalui Twitter"
+
+msgid "Turn registration/login via Vkontakte On and Off"
+msgstr "Aktifkan dan Nonaktifkan pendaftaran/login melalui Vkontakte"
+
+msgid ""
+"Turn registration/login via social media (Facebook, Twitter and etc) On and "
+"Off"
+msgstr ""
+"Aktifkan dan matikan pendaftaran/login melalui media sosial (Facebook, "
+"Twitter, dll)"
+
+msgid "Turn the About Me On/Off"
+msgstr "Aktifkan dan Nonaktifkan Tentang Saya Section"
+
+msgid "Turn the Adblock auto detector notification On and Off"
+msgstr "Aktifkan dan nonaktifkan notifikasi pendeteksi otomatis Adblock"
+
+msgid "Turn the DayTime Messages (Good Morning, Afternoon, Evening) On and Off"
+msgstr ""
+"Aktifkan Atau Nonaktifkan Pesan DayTime (Selamat Pagi, Siang, Sore) Di "
+"Beranda"
+
+msgid "Turn the Education info On/Off"
+msgstr "Aktifkan Atau Nonaktifkan Sekolah Section"
+
+msgid "Turn the Last Seen On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Terakhir Terlihat Module"
+
+msgid "Turn the Location info On/Off"
+msgstr "Aktifkan Atau Nonaktifkan Lokasi"
+
+msgid "Turn the OneSignal push notification On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Onesignal Push Notifikasi"
+
+msgid "Turn the Relationship Status On/Off"
+msgstr "Aktifkan Atau Nonaktifkan Status Berhubungan"
+
+msgid "Turn the Seen Status On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Dilihat Module"
+
+msgid "Turn the Social Links On/Off"
+msgstr "Aktifkan Atau Nonaktifkan Social Link"
+
+msgid "Turn the Typing Status On and Off"
+msgstr "Nyalakan dan Matikan Status Mengetik Module"
+
+msgid "Turn the Website On/Off"
+msgstr "Hidupkan dan Matikan Website"
+
+msgid "Turn the Work info On/Off"
+msgstr "Hidupkan dan Matikan Status Kerja Section"
+
+msgid "Turn the audio call system On and Off"
+msgstr "Nyalakan dan Matikan sistem panggilan audio"
+
+msgid "Turn the blogs On and Off"
+msgstr "Aktifkan dan Nonaktifkan blog"
+
+msgid "Turn the browser notifications On and Off"
+msgstr "Aktifkan Atau Nonaktifkan notifikasi browser"
+
+msgid "Turn the chat system On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Obrolan"
+
+msgid "Turn the colored posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Colored Postingan"
+
+msgid "Turn the contact us page On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Halaman Hubungi Kami"
+
+msgid "Turn the cookie consent notification On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Persetujuan Cookies"
+
+msgid "Turn the customization On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Kostumisasi Tema"
+
+msgid "Turn the developers apps On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Halaman Developer"
+
+msgid "Turn the discover posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Temukan Postingan"
+
+msgid "Turn the entire website On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Semua Kolom Website"
+
+msgid "Turn the events On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Acara Module"
+
+msgid "Turn the feelings and activity posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Perasaan dan Aktifitas"
+
+msgid "Turn the forums On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Forum Module"
+
+msgid "Turn the funding On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Pendanaan Module"
+
+msgid "Turn the games On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Game Module"
+
+msgid "Turn the gif posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan GIF"
+
+msgid "Turn the groups On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Grup Module"
+
+msgid "Turn the jobs On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Pekerjaan Module"
+
+msgid "Turn the live stream system On and Off"
+msgstr "Aktifkan dan Matikan sistem Live Streaming"
+
+msgid "Turn the marketplace On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Marketplace Module"
+
+msgid "Turn the memories On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Kenangan Module"
+
+msgid "Turn the movies On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Movie Module"
+
+msgid "Turn the noty notifications On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Notifikasi Noty"
+
+msgid "Turn the offers On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Penawaran Module"
+
+msgid "Turn the pages On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Halaman Module"
+
+msgid "Turn the poll posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Pendapat (POLLS)"
+
+msgid "Turn the popular posts On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Postingan Populer Module"
+
+msgid "Turn the post Geolocation On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Geolokasi"
+
+msgid "Turn the post translation On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Translator"
+
+msgid "Turn the profile visit notification On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Notifikasi Kunjungi Profil Module"
+
+msgid "Turn the save live stream videos On and Off"
+msgstr "Aktifkan dan Nonaktifkan simpan video streaming langsung"
+
+msgid "Turn the share plugin On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Bagikan Module"
+
+msgid "Turn the social media share for posts On and Off"
+msgstr "Nyalakan dan matikan berbagi media sosial untuk posting"
+
+msgid "Turn the stories On and Off"
+msgstr "Aktifkan Atau Nonaktifkan Cerita Modul Di Beranda dan Profil"
+
+msgid "Turn the transfer money between users On and Off"
+msgstr "Hidupkan dan matikan transfer Buddy Coin antar pengguna"
+
+msgid "Turn the trending hashtags feature On and Off"
+msgstr "Aktifkan dan Nonaktifkan fitur Trending Hastagh Module"
+
+msgid "Turn the verification requests from users & pages On and Off"
+msgstr "Aktifkan dan Nonaktifkan permintaan verifikasi dari pengguna & halaman"
+
+msgid "Turn the video call system On and Off"
+msgstr "Hidupkan dan Matikan sistem panggilan video Module"
+
+msgid "Turn the voice notes in chat On and Off"
+msgstr "Nyalakan dan Matikan Voice Note di obrolan"
+
+msgid "Turn the voice notes in comments On and Off"
+msgstr "Nyalakan dan Matikan Voice Note di Komentar"
+
+msgid "Turn the voice notes in posts On and Off"
+msgstr "Nyalakan dan Matikan Voice Note di Kiriman"
+
+msgid "Turn the wallet On and Off"
+msgstr "Hidupkan dan Matikan Buddy dompet"
+
+msgid "Twilio Account SID"
+msgstr "Twilio Account SID"
+
+msgid "Twilio Auth Token"
+msgstr "Twilio Auth Token"
+
+msgid "Twilio Phone Number"
+msgstr "Twilio Phone Number"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitter App ID"
+msgstr "Twitter App ID"
+
+msgid "Twitter App Secret"
+msgstr "Twitter App Secret"
+
+msgid "Twitter Profile URL"
+msgstr "Twitter URL"
+
+msgid "Two-Factor Authentication"
+msgstr "Two-Factor Authentication"
+
+msgid "Two-Factor Authentication Token"
+msgstr "Two-Factor Authentication Token"
+
+msgid "Two-Factor Authentication Via"
+msgstr "Two-Factor Authentication Via"
+
+msgid ""
+"Two-Factor Authentication can't be enabled till you enter your phone number"
+msgstr ""
+"Otentikasi Dua Faktor tidak dapat diaktifkan sampai Anda memverifikasi nomor "
+"telepon Anda"
+
+msgid ""
+"Two-Factor Authentication can't be enabled till you verify your email address"
+msgstr ""
+"Otentikasi Dua Faktor tidak dapat diaktifkan sampai Anda memverifikasi "
+"alamat email Anda"
+
+msgid ""
+"Two-Factor Authentication can't be enabled till you verify your phone number"
+msgstr ""
+"Otentikasi Dua Faktor tidak dapat diaktifkan sampai Anda memverifikasi nomor "
+"telepon Anda"
+
+msgid "Two-factor authentication SMS could not be sent"
+msgstr "SMS otentikasi dua faktor tidak dapat dikirim"
+
+msgid "Two-factor authentication email could not be sent"
+msgstr "Email otentikasi dua faktor tidak dapat dikirim"
+
+msgid "Two-factor authentication key"
+msgstr "Kunci otentikasi dua faktor"
+
+msgid "Two-factor authentication required"
+msgstr "Otentikasi dua faktor diperlukan"
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Typing"
+msgstr "Mengetik"
+
+msgid "Typing Status Enabled"
+msgstr "Status Mengetik Diaktifkan"
+
+msgid "UNSUBSCRIBE"
+msgstr "BERHENTI BERLANGGANAN"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to determine device type"
+msgstr "Tidak dapat menentukan jenis perangkat"
+
+msgid "Unblock"
+msgstr "Buka Blokiran"
+
+msgid "Unblock Notifications"
+msgstr "Buka Blokiran Notifikasi"
+
+msgid "Unblock User"
+msgstr "Daftar Blokir Pengguna"
+
+msgid "Unboost"
+msgstr "Batalkan Boosting"
+
+msgid "Unboost Post"
+msgstr "Batalkan Boosting Kiriman"
+
+msgid "Uncategorized"
+msgstr "Uncategorized"
+
+msgid "Undo"
+msgstr "Ulangi"
+
+msgid "Unfollow"
+msgstr "Batal mengikuti"
+
+msgid "Unlike"
+msgstr "Batal Suka"
+
+msgid "Unpin Post"
+msgstr "Batal Sematkan Postingan"
+
+msgid "Unsave Post"
+msgstr "Batal Simpan Postingan"
+
+msgid "Unusual Login Detection"
+msgstr "Unusual Login Detection"
+
+msgid "Update"
+msgstr "Perbaharui"
+
+msgid "Update Info"
+msgstr "Perbaharui Info"
+
+msgid "Update your info"
+msgstr "Perbaharui Info anda"
+
+msgid "Updated"
+msgstr "Sudah Diperbaharui"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Upgrade Now"
+msgstr "Upgrade Sekarang"
+
+msgid "Upgrade Package"
+msgstr "Upgrade Packages"
+
+msgid "Upgrade to Pro"
+msgstr "Upgrade ke pro"
+
+msgid "Upload Audio"
+msgstr "Unggah Audio"
+
+msgid "Upload Error"
+msgstr "Unggah Error"
+
+msgid "Upload File"
+msgstr "Unggah File"
+
+msgid "Upload Photos"
+msgstr "Unggah Foto"
+
+msgid "Upload Video"
+msgstr "Unggah Video"
+
+msgid "Upload your photo"
+msgstr "Unggah Foto Anda"
+
+msgid "Upload your watermark icon (PNG is recommended)"
+msgstr "Unggah ikon watermark Anda (disarankan PNG)"
+
+msgid "Uploaded"
+msgstr "Sedabg Mengunggah"
+
+msgid "Uploaded Successfully"
+msgstr "Berhasil di Unggah"
+
+msgid "Uploads"
+msgstr "Unggah"
+
+msgid "Uploads Directory"
+msgstr "Direktori Unggah"
+
+msgid "Uploads Prefix"
+msgstr "Uploads Prefix"
+
+msgid "Uploads Settings"
+msgstr "Unggah Pengaturan"
+
+msgid "Use the default"
+msgstr "Jadikan Default"
+
+msgid "Used"
+msgstr "Telah Digunakan"
+
+msgid "User"
+msgstr "User"
+
+msgid "User Earn Money When"
+msgstr "Pengguna dapat mendapatkan Buddy Coin Saat"
+
+msgid "User Email"
+msgstr "Email Pengguna"
+
+msgid "User First Name"
+msgstr "Nama Depan Pengguna"
+
+msgid "User Gender"
+msgstr "Jenis Kelamin Pengguna"
+
+msgid "User Group"
+msgstr "Grup Pengguna"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "User Last Name"
+msgstr "Nama Terakhir Pengguna"
+
+msgid "User Name"
+msgstr "Username"
+
+msgid "User Phone"
+msgstr "Telpon Pengguna"
+
+msgid "User Profile"
+msgstr "Profil Pengguna"
+
+msgid "User Status Enabled"
+msgstr "Status Pengguna diaktifkan"
+
+msgid "User info have been updated"
+msgstr "Info pengguna telah diperbarui"
+
+msgid "User must fill the field"
+msgstr "Pengguna harus mengisi kolom"
+
+msgid "User/Page"
+msgstr "Pengguna/Halaman"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Users"
+msgstr "User"
+
+msgid "Users Ads"
+msgstr "Iklan Pengguna"
+
+msgid "Users Can Buy Packages From Wallet Balance"
+msgstr "Pengguna Dapat Membeli Paket Dari Saldo Buddy Coin"
+
+msgid "Users Can Change Mode"
+msgstr "Pengguna Dapat Mengubah Mode"
+
+msgid "Users Can Transfer Earned Money To Wallet"
+msgstr "Pengguna Dapat Mentransfer Uang yang Diperoleh Ke Buddy Coin"
+
+msgid "Users Can Withdraw Earned Money"
+msgstr "Pengguna Dapat Menarik Buddy Coin yang Diperoleh"
+
+msgid "Users Can Withdraw Money From Wallet"
+msgstr "Pengguna Dapat Menarik Buddy Coin Dari Buddy Wallet"
+
+msgid "Users Directory"
+msgstr "Direktori Pengguna"
+
+msgid "Users can publish posts on their friends walls"
+msgstr "Pengguna dapat mempublikasikan posting di timeline teman mereka"
+
+msgid "Users can send withdrawal requests via any of these methods"
+msgstr ""
+"Pengguna dapat mengirim permintaan penarikan melalui salah satu metode ini"
+
+msgid "Users who activated their account"
+msgstr "Pengguna yang mengaktifkan akunnya"
+
+msgid "Users who did not activat their account"
+msgstr "Pengguna yang tidak mengaktifkan akunnya"
+
+msgid "Users who did not login from 1 month"
+msgstr "Pengguna yang tidak masuk dari 1 bulan"
+
+msgid "Users who did not login from 1 week"
+msgstr "Pengguna yang tidak masuk dari 1 minggu"
+
+msgid "Users who did not login from 1 year"
+msgstr "Pengguna yang tidak masuk dari 1 tahun"
+
+msgid "Users who did not login from 3 months"
+msgstr "Pengguna yang tidak masuk dari 1 bulan"
+
+msgid "Users who did not login from 6 months"
+msgstr "Pengguna yang tidak masuk dari 6 bulan"
+
+msgid "Users who did not login from 9 months"
+msgstr "Pengguna yang tidak masuk dari 9 bulan"
+
+msgid "Valid"
+msgstr "Valid"
+
+msgid "Valid web address must be a-z0-9_."
+msgstr "Alamat web yang valid harus a-z0-9_."
+
+msgid "Value Length"
+msgstr "Nilai Panjang"
+
+msgid "Verification"
+msgstr "Verifikasi"
+
+msgid "Verification Badge Enabled"
+msgstr "Badge Verifikasi Diaktifkan"
+
+msgid "Verification Code"
+msgstr "Kode Verifikasi"
+
+msgid "Verification Documents"
+msgstr "Verifikasi Dokumen"
+
+msgid "Verification Requests"
+msgstr "Permintaan Verifikasi"
+
+msgid "Verified"
+msgstr "Diverifikasi"
+
+msgid "Verified Page"
+msgstr "Verifikasi Halaman"
+
+msgid "Verified Pages"
+msgstr "Verifikasi Halaman"
+
+msgid "Verified User"
+msgstr "Verifikasi Pengguna"
+
+msgid "Verified Users"
+msgstr "Verifikasi Pengguna"
+
+msgid "Verified badge"
+msgstr "Badge terverifikasi"
+
+msgid "Verify"
+msgstr "Verifikasi"
+
+msgid "Vertical offset in pixels"
+msgstr "Offset vertikal dalam piksel"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Call Enabled"
+msgstr "Panggilan Video diaktifkan"
+
+msgid "Video Upload"
+msgstr "Unggah Video"
+
+msgid "Video extensions"
+msgstr "Ekstensi Video"
+
+msgid "Video uploaded successfully"
+msgstr "Video berhasil diunggah"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "View Candidates"
+msgstr "Lihat Kandidat"
+
+msgid "View Comment"
+msgstr "Lihat Komentar"
+
+msgid "View Event"
+msgstr "Lihat Acara"
+
+msgid "View Group"
+msgstr "Lihat Grup"
+
+msgid "View Page"
+msgstr "Lihat Halaman"
+
+msgid "View Post"
+msgstr "Lihat Kiriman"
+
+msgid "View Profile"
+msgstr "Lihat Profil"
+
+msgid "View Reply"
+msgstr "Lihat Balasan"
+
+msgid "View Thread"
+msgstr "Lihat Topik"
+
+msgid "View previous comments"
+msgstr "Lihat Komentar Sebelumnya"
+
+msgid "View previous replies"
+msgstr "Lihat Balasan Sebelumnya"
+
+msgid "Views"
+msgstr "Dilihat"
+
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+msgid "Vkontakte App ID"
+msgstr "Vkontakte App ID"
+
+msgid "Vkontakte App Secret"
+msgstr "Vkontakte App Secret"
+
+msgid "Vkontakte Profile URL"
+msgstr "Vkontakte URL"
+
+msgid "Voice Message"
+msgstr "Suara Pesan"
+
+msgid "Voice Notes"
+msgstr "Voice Note"
+
+msgid "Voice Notes in Comments"
+msgstr "Voice Note di komentar"
+
+msgid "Voice Notes in Posts"
+msgstr "Voice Note di kiriman"
+
+msgid "Voice note recorded successfully"
+msgstr "Voice Note berhasil direkam"
+
+msgid "Volunteer"
+msgstr "Sukarelawan"
+
+msgid "Wall Posts"
+msgstr "Timeline"
+
+msgid "Wallet"
+msgstr "Buddy Dompet"
+
+msgid "Wallet Balance"
+msgstr "Saldo Buddy Coin"
+
+msgid "Wallet Credit"
+msgstr "Kredit Buddy Dompet "
+
+msgid "Wallet Enabled"
+msgstr "Buddy Dompet Aktifkan"
+
+msgid "Wallet Payments"
+msgstr "Pembayaran Buddy Dompet"
+
+msgid "Wallet Settings"
+msgstr "Pengaturan Buddy Dompet"
+
+msgid "Wallet System"
+msgstr "Buddy Dompet Sistem"
+
+msgid "Wallet Transactions"
+msgstr "Transaksi Buddy Coin "
+
+msgid "Wallet Withdrawal"
+msgstr "Penarikan Buddy Dompet"
+
+msgid "Wants to have audio call with you"
+msgstr "Ingin menelpon kepada Anda"
+
+msgid "Wants to have video call with you"
+msgstr "Ingin menelpon video call kepada Anda"
+
+msgid "Warning"
+msgstr "Peringatan"
+
+msgid "Watch"
+msgstr "Tonton"
+
+msgid "Watching"
+msgstr "Sedang Menonton"
+
+msgid ""
+"Watching movies always fun, Watch with the people who share your interests"
+msgstr ""
+"Menonton film selalu menyenangkan, Tonton dengan orang-orang yang memiliki "
+"minat yang sama"
+
+msgid "We hope you are enjoying your evening"
+msgstr "Kami harap Anda menikmati malam Anda"
+
+msgid ""
+"We sent you an email with a six-digit confirmation code. Enter it below to "
+"continue to reset your password"
+msgstr ""
+"Kami mengirimi Anda email dengan kode konfirmasi enam digit. Masukkan di "
+"bawah ini untuk melanjutkan mengatur ulang kata sandi Anda"
+
+msgid "We sent your code to"
+msgstr "Kami mengirim kode Anda ke"
+
+msgid ""
+"We're sorry, but the application you're trying to use doesn't exist or has "
+"been disabled"
+msgstr ""
+"Maaf, tetapi aplikasi yang Anda coba gunakan tidak ada atau telah "
+"dinonaktifkan"
+
+msgid "Web Address"
+msgstr "Alamat Website"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Website Description"
+msgstr "Deskripsi Website"
+
+msgid "Website Keywords"
+msgstr "Keywords untuk Website Anda"
+
+msgid "Website Live"
+msgstr "Website Live"
+
+msgid "Website Logo"
+msgstr "Website Logo"
+
+msgid "Website Notifications"
+msgstr "Notifikasi Website"
+
+msgid "Website Public"
+msgstr "Website Public"
+
+msgid "Website Title"
+msgstr "Jurul Website"
+
+msgid "Website link must start with http:// or https://"
+msgstr "Tautan situs web harus dimulai dengan http:// atau https://"
+
+msgid "Week"
+msgstr "Minggu"
+
+msgid "Welcome"
+msgstr "Selamat Datang"
+
+msgid "Welcome to"
+msgstr "Selamat Datang di"
+
+msgid "What are you attending?"
+msgstr "Apa yang Anda hadiri?"
+
+msgid "What are you celebrating?"
+msgstr "Apa yang kamu rayakan?"
+
+msgid "What are you doing?"
+msgstr "Apa yang anda lakukan?"
+
+msgid "What are you drinking?"
+msgstr "Apa yang anda minum?"
+
+msgid "What are you eating?"
+msgstr "Apa yang anda makan?"
+
+msgid "What are you listening to?"
+msgstr "Apa yang anda dengarkan?"
+
+msgid "What are you looking for?"
+msgstr "Apa yang anda cari?"
+
+msgid "What are you playing?"
+msgstr "Apa yang anda Mainkan?"
+
+msgid "What are you reading?"
+msgstr "Apa yang anda baca?"
+
+msgid "What are you watching?"
+msgstr "Apa yang anda Tonton?"
+
+msgid "What is on your mind? #Hashtag.. @Mention.. Link.."
+msgstr "Apa yang Anda pikirkan? #Hashtag.. @Mention.. Link.."
+
+msgid "What you want to do"
+msgstr "Apa yang ingin Anda lakukan"
+
+msgid "What's Going On?"
+msgstr "Apa yang sedang terjadi?"
+
+msgid ""
+"When a user creates a new account, select which groups you want to auto join"
+msgstr ""
+"Saat pengguna membuat akun baru, pilih grup mana yang ingin Anda ikuti "
+"secara otomatis"
+
+msgid ""
+"When a user creates a new account, select which pages you want to auto like"
+msgstr ""
+"Saat pengguna membuat akun baru, pilih halaman mana yang ingin Anda ikuti "
+"secara otomatis"
+
+msgid ""
+"When a user creates a new account, select which users you want to auto follow"
+msgstr ""
+"Saat pengguna membuat akun baru, pilih nama admin yang ingin Anda ikuti "
+"secara otomatis"
+
+msgid ""
+"When a user creates a new account, select which users you want to auto "
+"friend (following included)"
+msgstr ""
+"Saat pengguna membuat akun baru, pilih pengguna mana yang ingin Anda jadikan "
+"teman otomatis (termasuk mengikuti )"
+
+msgid "Where are you going?"
+msgstr "Kemana anda ingin pergi?"
+
+msgid "Where are you?"
+msgstr "Dimana anda?"
+
+msgid "Where did you work?"
+msgstr "Dimana anda bekerja"
+
+msgid "Where you want to use this field for user profile, page, group or event"
+msgstr ""
+"Di mana Anda ingin menggunakan bidang ini untuk profil pengguna, halaman, "
+"grup, atau acara"
+
+msgid "Who Can Add Stories"
+msgstr "Siapa yang Dapat Menambahkan Cerita"
+
+msgid "Who Can Add Threads/Replies"
+msgstr "Siapa yang Dapat Menambahkan Thread/Balasan"
+
+msgid "Who Can Create Ads"
+msgstr "Siapa yang Dapat Membuat Iklan"
+
+msgid "Who Can Create Events"
+msgstr "Siapa yang Dapat Membuat Acara"
+
+msgid "Who Can Create Groups"
+msgstr "Siapa yang Dapat Membuat Grup"
+
+msgid "Who Can Create Pages"
+msgstr "Siapa yang Dapat Membuat Halaman"
+
+msgid "Who Can Go Live"
+msgstr "Siapa yang Dapat Streaming ? "
+
+msgid "Who Can Play Games"
+msgstr "Siapa yang Dapat bermain game? "
+
+msgid "Who Can Raise Funding"
+msgstr "Siapa yang Dapat Menggalang Dana"
+
+msgid "Who Can Sell Products"
+msgstr "Siapa yang Dapat Menjual Produk"
+
+msgid "Who Can Start Audio Call"
+msgstr "Siapa yang Dapat Memulai Panggilan Audio"
+
+msgid "Who Can Start Video Call"
+msgstr "Siapa yang Dapat Memulai Panggilan Video"
+
+msgid "Who Can Watch Movies"
+msgstr "Siapa yang Bisa Menonton Film"
+
+msgid "Who Can Write Articles"
+msgstr "Siapa yang Bisa Menulis Artikel"
+
+msgid "Who can poke you"
+msgstr "Siapa yang Dapat mencolek anda "
+
+msgid "Who can post on your wall"
+msgstr "Siapa yang Dapat mengirimkan kiriman ke timeline anda"
+
+msgid "Who can see your"
+msgstr "siapa yang bisa melihat"
+
+msgid "Who can send you gifts"
+msgstr "Siapa yang bisa mengirimi Anda hadiah?"
+
+msgid "Who's online"
+msgstr "Who's online"
+
+msgid "Widget info have been updated"
+msgstr "Info widget telah diperbarui"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Widowed"
+msgstr "Janda"
+
+msgid "Will receive your"
+msgstr "Akan menerima Anda"
+
+msgid "Withdraw Affiliates Credit"
+msgstr "Tarik Kredit Afiliasi"
+
+msgid "Withdraw Funding Credit"
+msgstr "Tarik Kredit Pendanaan"
+
+msgid "Withdraw Points Credit"
+msgstr "Tarik Kredit Buddy Poin"
+
+msgid "Withdrawal History"
+msgstr "Sejarah Penarikan"
+
+msgid "Withdrawal Request"
+msgstr "Permintaan Penarikan"
+
+msgid "Words to be censored, separated by a comma (,)"
+msgstr "Kata-kata yang akan disensor, dipisahkan dengan koma (,)"
+
+msgid "Work"
+msgstr "Kerja"
+
+msgid "Work Info"
+msgstr "Informasi Pekerjaan"
+
+msgid "Work Place"
+msgstr "Tempat Kerja"
+
+msgid "Work Title"
+msgstr "Jabatan"
+
+msgid "Work Website"
+msgstr "Situs Website Kerja"
+
+msgid "Worried"
+msgstr "Khawatir"
+
+msgid "Write Article"
+msgstr "Tulis Artikel"
+
+msgid "Write New Article"
+msgstr "Tulis Artikel Baru"
+
+msgid "Write New Thread"
+msgstr "Tulis Thread Baru"
+
+msgid "Write a Reply"
+msgstr "Tulis balasan"
+
+msgid "Write a comment"
+msgstr "Tuliskan Komentar"
+
+msgid "Write a message"
+msgstr "Tulis pesan"
+
+msgid "Write it on your heart that every day is the best day in the year"
+msgstr "Tulis di hatimu bahwa setiap hari adalah hari terbaik dalam setahun"
+
+msgid "Yandex Key"
+msgstr "Yandex Key"
+
+msgid "Year"
+msgstr "Tahun"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "You already applied for this job before"
+msgstr "Anda sudah melamar pekerjaan ini sebelumnya"
+
+msgid "You already invited this email before"
+msgstr "Anda sudah mengundang email ini sebelumnya"
+
+msgid "You already invited this phone number before"
+msgstr "Anda sudah mengundang nomor telepon ini sebelumnya"
+
+msgid "You already subscribed to this package, Please select different package"
+msgstr "Anda sudah berlangganan paket ini, Silahkan pilih paket lain"
+
+msgid "You are live now"
+msgstr "Anda Sedang Live Sekarang"
+
+msgid "You are not authorized to do this"
+msgstr "Anda tidak berwenang untuk melakukan ini"
+
+msgid "You are not authorized to view this"
+msgstr "Anda tidak diizinkan untuk melihat ini"
+
+msgid "You are offline now"
+msgstr "Anda sedang offline sekarang"
+
+msgid "You are ready to Go Live now"
+msgstr "Anda siap untuk Go Live sekarang"
+
+msgid "You are subscribed to notifications"
+msgstr "Anda berlangganan notifikasi"
+
+msgid "You aren't allowed to message"
+msgstr "Anda tidak diizinkan untuk mengirim pesan"
+
+msgid "You can access this as your account is system admin account!"
+msgstr "Anda dapat mengakses ini karena akun Anda adalah akun admin sistem!"
+
+msgid "You can add, edit or delete currencies from"
+msgstr "Anda dapat menambah, mengedit, atau menghapus mata uang dari"
+
+msgid "You can advertise for a URL or one of your pages, groups or events"
+msgstr ""
+"Anda dapat mengiklankan URL atau salah satu halaman, grup, atau acara Anda"
+
+msgid "You can change the"
+msgstr "Anda dapat mengubah"
+
+msgid ""
+"You can download all of it at once, or you can select only the types of "
+"information you want"
+msgstr ""
+"Anda dapat mengunduh semuanya sekaligus, atau Anda hanya dapat memilih jenis "
+"informasi yang Anda inginkan"
+
+msgid "You can find backups in"
+msgstr "Anda dapat menemukan cadangan di"
+
+msgid "You can not change the group of this user"
+msgstr "Anda tidak dapat mengubah grup pengguna ini"
+
+msgid "You can not connect to this user"
+msgstr "Anda tidak dapat terhubung ke pengguna ini"
+
+msgid "You can not delete admin/morderator accounts"
+msgstr "Anda tidak dapat menghapus akun admin/morderator"
+
+msgid ""
+"You can not disable wallet as long as Ads system enabled, Disable it first"
+msgstr ""
+"Anda tidak dapat menonaktifkan Buddy Dompet selama sistem Iklan diaktifkan, "
+"Nonaktifkan terlebih dahulu"
+
+msgid "You can not do this with anonymous post"
+msgstr "Anda tidak dapat melakukan ini dengan posting anonim"
+
+msgid "You can not remove group super admin"
+msgstr "Anda tidak dapat menghapus admin super grup"
+
+msgid "You can not remove page super admin"
+msgstr "Anda tidak dapat menghapus super admin digrup"
+
+msgid "You can not set the forum as a section to itself"
+msgstr "Anda tidak dapat mengatur forum sebagai bagian untuk dirinya sendiri"
+
+msgid "You can retrive user info like this"
+msgstr "Anda dapat mengambil info pengguna seperti ini"
+
+msgid "You can transfer your money to your"
+msgstr "Anda dapat mentransfer buddy coin Anda ke"
+
+msgid ""
+"You can visit your CoinPayments account to see the transactions in more "
+"details"
+msgstr ""
+"Anda dapat mengunjungi akun CoinPayments Anda untuk melihat transaksi lebih "
+"detail"
+
+msgid "You can withdraw your money"
+msgstr "Anda dapat menarik Buddy Coin Anda"
+
+msgid "You can't add a thread to a main section"
+msgstr "Anda tidak dapat menambahkan Thread ke bagian utama"
+
+msgid "You can't boost a post from a group or event"
+msgstr "Anda tidak dapat memboosting postingan dari grup atau acara"
+
+msgid "You can't poke this user"
+msgstr "Anda tidak dapat mencolek pengguna ini"
+
+msgid "You can't send a gift to this user"
+msgstr "Anda tidak dapat mengirim hadiah ke orang ini"
+
+msgid "You can't send money to this user!"
+msgstr "Anda tidak dapat mengirim Buddy Coin ke pengguna ini!"
+
+msgid "You can't send money to yourself!"
+msgstr "Anda tidak dapat mengirim Buddy Coin pada diri anda"
+
+msgid "You can't upload files larger than"
+msgstr "Anda tidak dapat mengunggah file yang lebih besar dari"
+
+msgid "You can't use"
+msgstr "Anda tidak dapat menggunakan"
+
+msgid "You do not have the permission to view this content"
+msgstr "Anda tidak memiliki izin untuk melihat konten ini"
+
+msgid "You don't have the permission to do this"
+msgstr "Anda tidak memiliki izin untuk melakukan ini"
+
+msgid "You don't have the right permission to access this"
+msgstr "Anda tidak memiliki izin untuk mengakses ini"
+
+msgid "You have"
+msgstr "Anda Dapat"
+
+msgid "You have already blocked this user before!"
+msgstr "Anda telah memblokir orang ini sebelumnya!"
+
+msgid "You have already poked this user before!"
+msgstr "Anda telah mencolek orang ini ini sebelumnya!"
+
+msgid "You have already reported this before!"
+msgstr "Anda telah melaporkan ini sebelumnya!"
+
+msgid "You have an active call already"
+msgstr "Anda sudah memiliki panggilan aktif"
+
+msgid "You have blocked notifications"
+msgstr "Anda telah memblokir notifikasi"
+
+msgid "You have pending verification request already!"
+msgstr "Anda sudah memiliki permintaan verifikasi yang tertunda!"
+
+msgid ""
+"You have reached the maximum limit of comments/hour, please try again later"
+msgstr ""
+"Anda telah mencapai batas maksimum komentar/jam, silakan coba lagi nanti"
+
+msgid ""
+"You have reached the maximum limit of posts/hour, please try again later"
+msgstr ""
+"Anda telah mencapai batas maksimum posting/jam, silakan coba lagi nanti"
+
+msgid "You have reached the maximum number of account for your IP"
+msgstr "Anda telah mencapai jumlah akun maksimum untuk IP Anda"
+
+msgid "You have reached the maximum number of invitations per day"
+msgstr "Anda telah mencapai jumlah maksimum undangan per hari"
+
+msgid "You have to enter a valid URL for your ads"
+msgstr "Anda harus memasukkan URL yang valid untuk iklan Anda"
+
+msgid "You have to enter the App description"
+msgstr "Anda harus memasukkan deskripsi Aplikasi"
+
+msgid "You have to enter the App domain"
+msgstr "Anda harus memasukkan Domain Aplikasi"
+
+msgid "You have to enter the App icon"
+msgstr "Anda harus memasukkan ikon untuk Aplikasi"
+
+msgid "You have to enter the App name"
+msgstr "Anda harus memasukkan nama untuk Aplikasi"
+
+msgid "You have to enter the App redirect URL"
+msgstr "Anda harus memasukkan URL pengalihan aplikasi"
+
+msgid "You have to enter the announcement HTML code"
+msgstr "Anda dapat memasukkan kode HTML pengumuman"
+
+msgid "You have to enter the announcement end date"
+msgstr "Anda harus memasukkan tanggal akhir pengumuman"
+
+msgid "You have to enter the announcement name"
+msgstr "Anda harus memasukkan nama pengumuman"
+
+msgid "You have to enter the announcement start date"
+msgstr "Anda harus memasukkan tanggal mulai pengumuman"
+
+msgid "You have to enter the app description"
+msgstr "Anda harus memasukkan deskripsi aplikasi"
+
+msgid "You have to enter the app domain"
+msgstr "Anda harus memasukkan Domain Aplikasi"
+
+msgid "You have to enter the app icon"
+msgstr "Anda harus memasukkan ikon untuk Aplikasi"
+
+msgid "You have to enter the app name"
+msgstr "Anda harus memasukkan nama untuk Aplikasi"
+
+msgid "You have to enter the app redirect URL"
+msgstr "Anda harus memasukkan URL pengalihan aplikasi"
+
+msgid "You have to enter the campaign end date"
+msgstr "Anda harus memasukkan tanggal akhir kampanye"
+
+msgid "You have to enter the campaign start date"
+msgstr "Anda harus memasukkan tanggal mulai kampanye"
+
+msgid "You have to enter the campaign title"
+msgstr "Anda harus memasukkan judul kampanye"
+
+msgid "You have to enter the event end date"
+msgstr "Anda harus memasukkan tanggal akhir acara"
+
+msgid "You have to enter the event start date"
+msgstr "Anda harus memasukkan tanggal mulai acara"
+
+msgid "You have to enter the field label"
+msgstr "Anda harus memasukkan pada field label "
+
+msgid "You have to enter the package name"
+msgstr "Anda harus memasukkan nama Packages"
+
+msgid "You have to enter the select options"
+msgstr "Anda harus memasukkan opsi pilih"
+
+msgid "You have to enter title for the movie"
+msgstr "Anda harus memasukkan judul untuk film"
+
+msgid "You have to enter valid amount"
+msgstr "Anda harus memasukkan jumlah yang valid"
+
+msgid "You have to enter valid boost pages number"
+msgstr "Anda harus memasukkan nomor halaman boost yang valid"
+
+msgid "You have to enter valid boost posts number"
+msgstr "Anda harus memasukkan nomor Kiriman boost yang valid"
+
+msgid "You have to enter valid field length"
+msgstr "Anda harus memasukkan panjang bidang yang valid"
+
+msgid "You have to enter valid field order"
+msgstr "Anda harus memasukkan pesanan bidang yang valid"
+
+msgid "You have to enter valid package price"
+msgstr "Anda harus memasukkan harga paket yang valid"
+
+msgid "You have to enter valid period number"
+msgstr "Anda harus memasukkan nomor periode yang valid"
+
+msgid "You have to enter your password to continue"
+msgstr "Anda harus memasukkan kata sandi Anda untuk melanjutkan"
+
+msgid "You have to select a gift to send"
+msgstr "Anda harus memilih hadiah untuk dikirim"
+
+msgid "You have to select a valid ads placement"
+msgstr "Anda harus memilih penempatan iklan yang valid"
+
+msgid "You have to select a valid ads type"
+msgstr "Anda harus memilih jenis iklan yang valid"
+
+msgid "You have to select a valid bidding"
+msgstr "Anda harus memilih penawaran yang valid"
+
+msgid "You have to select a valid field for value"
+msgstr "Anda harus memilih bidang yang valid untuk nilai"
+
+msgid "You have to select a valid gender"
+msgstr "Você precisa selecionar um gênero válidoav"
+
+msgid "You have to select a valid pattern type"
+msgstr "Anda harus memilih jenis pola yang valid"
+
+msgid "You have to select a valid place"
+msgstr "Anda harus memilih tempat yang valid"
+
+msgid "You have to select a valid relationship"
+msgstr "Anda harus memilih hubungan yang valid"
+
+msgid "You have to select a valid source for the movie"
+msgstr "Anda harus memilih sumber yang valid untuk film"
+
+msgid "You have to select a valid type"
+msgstr "Anda harus memilih jenis yang valid"
+
+msgid "You have to select genre for the movie"
+msgstr "Anda harus memilih genre untuk film"
+
+msgid "You have to select one for your events for your ads"
+msgstr "Anda harus memilih satu untuk acara Anda untuk iklan Anda"
+
+msgid "You have to select one for your groups for your ads"
+msgstr "Anda harus memilih satu untuk grup Anda untuk iklan Anda"
+
+msgid "You have to select one for your pages for your ads"
+msgstr "Anda harus memilih satu untuk halaman Anda untuk iklan Anda"
+
+msgid "You have to select the color 1"
+msgstr "Anda harus memilih warna 1"
+
+msgid "You have to select the color 2"
+msgstr "Anda harus memilih warna 2"
+
+msgid "You have to select the text color"
+msgstr "Anda harus memilih warna teks"
+
+msgid "You have to upload an image for your ads"
+msgstr "Anda harus mengunggah gambar untuk iklan Anda"
+
+msgid "You have to upload the background image"
+msgstr "Anda harus mengunggah gambar latar belakang"
+
+msgid "You haved poked"
+msgstr "Anda telah mencolek"
+
+msgid "You last backup"
+msgstr "Cadangan terakhir Anda"
+
+msgid ""
+"You must enable one method at least, either payments withdrawal requests or "
+"wallet transfer"
+msgstr ""
+"Anda harus mengaktifkan setidaknya satu metode, baik permintaan penarikan "
+"pembayaran atau transfer Buddy Coin"
+
+msgid "You must enter"
+msgstr "Anda harus memasukkan"
+
+msgid "You must enter a name for your event"
+msgstr "Anda harus memasukkan judul untuk acara Anda"
+
+msgid "You must enter a name for your group"
+msgstr "Anda harus memasukkan judul untuk grup Anda"
+
+msgid "You must enter a title for your article"
+msgstr "Anda harus memasukkan judul untuk arikel Anda"
+
+msgid "You must enter a title for your page"
+msgstr "Anda harus memasukkan judul untuk halaman Anda"
+
+msgid "You must enter a title for your thread"
+msgstr "Anda harus memasukkan judul untuk Thread Anda"
+
+msgid "You must enter a username for your page"
+msgstr "Anda harus memasukkan nama pengguna untuk halaman Anda"
+
+msgid "You must enter a web address for your group"
+msgstr "Anda harus memasukkan alamat web untuk grup Anda"
+
+msgid "You must enter first name"
+msgstr "Anda harus memasukkan nama depan"
+
+msgid "You must enter last name"
+msgstr "Anda harus memasukkan nama belakang"
+
+msgid "You must enter some text for your article"
+msgstr "Anda harus memasukkan beberapa teks untuk artikel Anda"
+
+msgid "You must enter some text for your reply"
+msgstr "Anda harus memasukkan beberapa teks untuk balasan Anda"
+
+msgid "You must enter some text for your thread"
+msgstr "Anda harus memasukkan beberapa teks untuk Thread Anda"
+
+msgid "You must enter the email subject"
+msgstr "Anda harus memasukkan subjek email"
+
+msgid "You must enter the message subject"
+msgstr "Anda harus memasukkan subjek pesan"
+
+msgid "You must enter the notification message"
+msgstr "Anda harus memasukkan pesan notifikasi"
+
+msgid "You must enter the notification url"
+msgstr "Anda harus memasukkan url notifikasi"
+
+msgid "You must enter valid amount of money"
+msgstr "Anda harus memasukkan jumlah buddy coin yang valid"
+
+msgid "You must enter valid amount of points"
+msgstr "Anda harus memasukkan jumlah poin yang valid"
+
+msgid "You must enter valid budget"
+msgstr "Anda harus memasukkan anggaran yang valid"
+
+msgid "You must enter valid number for how many users you want to generate"
+msgstr ""
+"Anda harus memasukkan nomor yang valid untuk berapa banyak pengguna yang "
+"ingin Anda hasilkan"
+
+msgid "You must fill in all of the fields"
+msgstr "Anda harus mengisi semua field"
+
+msgid "You must read and agree to our terms and privacy policy"
+msgstr "Anda harus membaca dan menyetujui syarat dan kebijakan privasi kami"
+
+msgid "You must search for a user to send money to"
+msgstr "Anda harus mencari pengguna untuk mengirim buddy coin ke"
+
+msgid "You must select"
+msgstr "Anda harus memilih"
+
+msgid "You must select a valid privacy for your event"
+msgstr "Anda harus memilih privasi yang valid untuk acara Anda"
+
+msgid "You must select a valid privacy for your group"
+msgstr "Anda harus memilih privasi yang valid untuk grup Anda"
+
+msgid "You must select one withdrawal payment method at least"
+msgstr "Anda harus memilih setidaknya satu metode pembayaran penarikan"
+
+msgid "You must select valid category for your App"
+msgstr "Anda harus memilih kategori yang valid untuk Aplikasi Anda"
+
+msgid "You must select valid category for your article"
+msgstr "Anda harus memilih kategori yang valid untuk Artikel Anda"
+
+msgid "You must select valid category for your event"
+msgstr "Anda harus memilih kategori yang valid untuk Acara Anda"
+
+msgid "You must select valid category for your group"
+msgstr "Anda harus memilih kategori yang valid untuk Grup Anda"
+
+msgid "You must select valid category for your page"
+msgstr "Anda harus memilih kategori yang valid untuk Halaman Anda"
+
+msgid "You must select valid country"
+msgstr "Anda harus memilih negara yang valid"
+
+msgid "You must sign in to see this page"
+msgstr "Anda harus masuk untuk melihat halaman ini."
+
+msgid "You must upload sticker image"
+msgstr "Anda harus mengunggah gambar stiker"
+
+msgid "You need to"
+msgstr "Anda Perlu"
+
+msgid "You need to download Google Authenticator app for"
+msgstr "Anda perlu mengunduh aplikasi Google Authenticator untuk"
+
+msgid "You need to enter Test Phone Number"
+msgstr "Anda harus memasukkan Nomor Telepon Tes"
+
+msgid "You need to enter your current password for security check"
+msgstr ""
+"Anda harus memasukkan kata sandi Anda saat ini untuk pemeriksaan keamanan"
+
+msgid ""
+"You reached the maximum number of boosted pages! Upgrade your package to get "
+"more"
+msgstr ""
+"Anda mencapai jumlah maksimum Boosting Halaman! Upgrade Packages Anda untuk "
+"mendapatkan lebih banyak"
+
+msgid ""
+"You reached the maximum number of boosted posts! Upgrade your package to get "
+"more"
+msgstr ""
+"Anda mencapai jumlah maksimum Boosting Kiriman! Upgrade Packages Anda untuk "
+"mendapatkan lebih banyak"
+
+msgid "You will be paid when"
+msgstr "Anda akan dibayar ketika"
+
+msgid "You will need to create a new App"
+msgstr "Anda harus membuat Aplikasi baru"
+
+msgid ""
+"You will need to make the payments from your Paypal, Skrill, Bank Account... "
+"etc"
+msgstr "Anda harus melakukan pembayaran dari Rekening Bank Anda... dll"
+
+msgid "You will not receive notifications again"
+msgstr "Anda tidak akan menerima notifikasi lagi"
+
+msgid "You won't see posts from"
+msgstr "Anda tidak akan melihat postingan dari"
+
+msgid ""
+"You've asked us to require a 6-digit login code when anyone tries to access "
+"your account from a new device or browser"
+msgstr ""
+"Anda telah meminta kami untuk meminta kode login 6 digit ketika ada yang "
+"mencoba mengakses akun Anda dari perangkat atau browser baru"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Profile URL"
+msgstr "URL Profil YouTube"
+
+msgid "Your"
+msgstr "Anda"
+
+msgid "Your Affiliate Balance"
+msgstr "Saldo Afiliasi Anda"
+
+msgid "Your Affiliates Credit"
+msgstr "Kredit Afiliasi Anda"
+
+msgid "Your Amazon S3 Access Key ID"
+msgstr "Amazon S3 Access Key ID Anda"
+
+msgid "Your Amazon S3 Access Key Secret"
+msgstr "Amazon S3 Access Key Secret Anda"
+
+msgid "Your Amazon S3 bucket name"
+msgstr "Amazon S3 bucket name Anda"
+
+msgid "Your Amazon S3 bucket region"
+msgstr "Amazon S3 bucket region Anda"
+
+msgid "Your App Name"
+msgstr "Nama Apps Anda"
+
+msgid "Your App Redirect URL (example: https://www.domain.com/test.php)"
+msgstr "URL Pengalihan Aplikasi Anda (contoh: https://buddyshare.net/test.php)"
+
+msgid "Your App description is more than 200 characters"
+msgstr "Deskripsi Aplikasi Anda lebih dari 200 karakter"
+
+msgid "Your App domain (example: www.domain.com)"
+msgstr "Domain Aplikasi Anda (contoh: www.domain.com)"
+
+msgid "Your Balance"
+msgstr "Saldo Anda"
+
+msgid "Your Bank Account Country"
+msgstr "Negara Bank Anda"
+
+msgid "Your Bank Account Name"
+msgstr "Nama Bank"
+
+msgid "Your Bank Account Number"
+msgstr "Nomor Rekening Anda"
+
+msgid "Your Bank Account Routing Code or SWIFT Code"
+msgstr "Kode Perutean Rekening Bank Anda atau Kode SWIFT"
+
+msgid "Your Bank Name"
+msgstr "Nama Bank Anda"
+
+msgid "Your Cloud Vision API Key"
+msgstr "Cloud Vision API Key Anda"
+
+msgid "Your CoinPayments transaction complete successfully"
+msgstr "Transaksi CoinPayments Anda berhasil diselesaikan"
+
+msgid "Your Credit"
+msgstr "Coin Anda"
+
+msgid "Your DigitalOcean Access Key ID"
+msgstr "DigitalOcean Access Key ID Anda"
+
+msgid "Your DigitalOcean Access Key Secret"
+msgstr "DigitalOcean Access Key Secret Anda"
+
+msgid "Your DigitalOcean space name"
+msgstr "DigitalOcean Space name Anda"
+
+msgid "Your DigitalOcean space region"
+msgstr "DigitalOcean space region Anda"
+
+msgid "Your Events"
+msgstr "Acara Anda"
+
+msgid "Your Experience"
+msgstr "Pengalamanmu"
+
+msgid "Your Followers"
+msgstr "Pengikut Anda"
+
+msgid "Your Followings"
+msgstr "Orang Yang Mengikuti Anda"
+
+msgid "Your Friends"
+msgstr "Teman Anda"
+
+msgid "Your Funding Balance"
+msgstr "Saldo Pendanaan Anda"
+
+msgid "Your Funding Credit"
+msgstr "Saldo Pendanaan Anda"
+
+msgid "Your Games"
+msgstr "Game Anda"
+
+msgid "Your Groups"
+msgstr "Grup Anda"
+
+msgid "Your IP has been blocked"
+msgstr "IP Anda telah diblokir"
+
+msgid "Your Information"
+msgstr "Informasi Anda"
+
+msgid "Your Likes"
+msgstr "Yang Anda Suka"
+
+msgid "Your Money Balance"
+msgstr "Saldo Buddy Coin Anda"
+
+msgid "Your New Password"
+msgstr "Kata Sandi Baru Anda"
+
+msgid "Your Notifications"
+msgstr "Notifikasi Anda"
+
+msgid "Your Pages"
+msgstr "Halaman Anda"
+
+msgid "Your Photo"
+msgstr "Foto anda"
+
+msgid "Your Points Balance"
+msgstr "Saldo Buddy Poin Anda"
+
+msgid "Your Points Credit"
+msgstr "Buddy Poin Anda"
+
+msgid "Your Sessions"
+msgstr "Sesi Login Anda"
+
+msgid "Your account already activated!"
+msgstr "Akun Anda sudah diaktifkan!"
+
+msgid "Your account currently locked out, Please try again later!"
+msgstr "Akun Anda saat ini terkunci, Silakan coba lagi nanti!"
+
+msgid "Your account has been blocked"
+msgstr "Akun Anda telah diblokir"
+
+msgid ""
+"Your account is already verified if you changed your name you will lose the "
+"verification badge"
+msgstr ""
+"Akun Anda sudah diverifikasi jika Anda mengubah nama Anda, Anda akan "
+"kehilangan lencana verifikasi"
+
+msgid ""
+"Your account is already verified if you changed your username you will lose "
+"the verification badge"
+msgstr ""
+"Akun Anda sudah diverifikasi jika Anda mengubah nama pengguna Anda, Anda "
+"akan kehilangan lencana verifikasi"
+
+msgid "Your account is connected to"
+msgstr "Pengaturan akun Anda telah diperbarui"
+
+msgid "Your account settings has been updated"
+msgstr "Pengaturan akun Anda telah diperbarui"
+
+msgid "Your affiliate link is"
+msgstr "Tautan afiliasi Anda adalah"
+
+msgid "Your application has been submitted successfully"
+msgstr "Aplikasi Anda telah berhasil dikirim"
+
+msgid "Your balance is less than the minimum withdrawal request amount"
+msgstr "Saldo Anda kurang dari jumlah permintaan penarikan minimum"
+
+msgid "Your balance is less than the requested amount"
+msgstr "Saldo Anda kurang dari jumlah yang diminta"
+
+msgid "Your browser does not support HTML5 audio"
+msgstr "Browser Anda tidak mendukung audio HTML5"
+
+msgid "Your current password is incorrect"
+msgstr "Kata sandi Anda saat ini salah"
+
+msgid "Your current server datetime is"
+msgstr "Tanggal waktu server Anda saat ini adalah"
+
+msgid "Your current wallet balance is"
+msgstr "Buddy Coin Anda saat ini adalah"
+
+msgid "Your current wallet credit is"
+msgstr "Buddy Coin Anda saat ini adalah"
+
+msgid "Your daily points limit is"
+msgstr "Batas poin harian Anda adalah"
+
+msgid ""
+"Your daily points limit will be reset after 24 hours from your last valid "
+"earned action (post, comment, reaction)"
+msgstr ""
+"Batas poin harian Anda akan diatur ulang setelah 24 jam dari tindakan valid "
+"terakhir yang Anda peroleh (posting, komentar, reaksi)"
+
+msgid "Your email could not be sent. Please try again later"
+msgstr "Email Anda tidak dapat dikirim. Silakan coba lagi nanti"
+
+msgid "Your email has been changed"
+msgstr "Email Anda telah diubah"
+
+msgid "Your events"
+msgstr "Acara Anda"
+
+msgid "Your file is ready to download"
+msgstr "File Anda siap diunduh"
+
+msgid "Your first name contains invalid characters"
+msgstr "Nama depan Anda mengandung karakter yang tidak valid"
+
+msgid "Your first name must be at least"
+msgstr "Nama depan Anda setidaknya harus"
+
+msgid "Your gift has been sent successfully"
+msgstr "Hadiah Anda telah berhasil dikirim"
+
+msgid "Your groups"
+msgstr "Grup Anda"
+
+msgid "Your have reached the maximum limit of Friends ("
+msgstr "Anda telah mencapai batas maksimum Teman ("
+
+msgid "Your info has been updated"
+msgstr "Info Anda telah diperbarui"
+
+msgid "Your invitation code is"
+msgstr "Kode undangan Anda adalah"
+
+msgid "Your invitation email has been sent"
+msgstr "Email undangan Anda telah terkirim"
+
+msgid "Your invitation has been sent"
+msgstr "Undangan Anda telah terkirim"
+
+msgid "Your last name contains invalid characters"
+msgstr "Nama belakang Anda mengandung karakter yang tidak valid"
+
+msgid "Your last name must be at least"
+msgstr "Nama belakang Anda setidaknya harus"
+
+msgid "Your message characters length is over the allowed limit"
+msgstr "Panjang karakter pesan Anda melebihi batas yang diizinkan"
+
+msgid "Your message has been sent! Thanks a lot and will be back to you soon"
+msgstr ""
+"Pesan Anda telah dikirim! Terima kasih banyak dan akan segera menghubungi "
+"Anda kembali"
+
+msgid "Your notifications settings have been updated"
+msgstr "Pengaturan notifikasi Anda telah diperbarui"
+
+msgid "Your password has been changed you can login now"
+msgstr "Kata sandi Anda telah diubah, Anda dapat masuk sekarang"
+
+msgid "Your password has been updated"
+msgstr "Kata sandi Anda telah diperbarui"
+
+msgid "Your password must be at least 6 characters long. Please try another"
+msgstr ""
+"Kata sandi Anda setidaknya harus terdiri dari 6 karakter. Silakan coba yang "
+"lain"
+
+msgid "Your passwords do not match"
+msgstr "Kata Sandi anda tidak sama"
+
+msgid "Your passwords do not match. Please try another"
+msgstr "Kata Sandi anda tidak sama. Silakan coba yang lain"
+
+msgid "Your payment is pending"
+msgstr "Pembayaran Anda tertunda"
+
+msgid "Your phone already verified"
+msgstr "Ponsel Anda sudah diverifikasi"
+
+msgid "Your phone has been changed"
+msgstr "Ponsel Anda telah diubah"
+
+msgid "Your phone number i.e +1234567890"
+msgstr "Nomor telepon Anda yaitu +1234567890"
+
+msgid "Your phone number to test the SMS service i.e +12344567890"
+msgstr "Nomor telepon Anda untuk menguji layanan SMS yaitu +12344567890"
+
+msgid "Your posts"
+msgstr "Postingan Anda"
+
+msgid "Your privacy settings have been updated"
+msgstr "Pengaturan privasi Anda telah diperbarui"
+
+msgid "Your profile info has been updated"
+msgstr "Info profil Anda telah diperbarui"
+
+msgid "Your profile info has have been updated"
+msgstr "Info profil Anda telah diperbarui"
+
+msgid "Your report has been submitted"
+msgstr "Laporan Anda telah dikirim"
+
+msgid ""
+"Your request has been sent successfully and will be processed in the "
+"background"
+msgstr ""
+"Permintaan Anda telah berhasil dikirim dan akan diproses di latar belakang"
+
+msgid ""
+"Your request has been successfully sent, we will notify you once it's "
+"approved"
+msgstr ""
+"Permintaan Anda telah berhasil dikirim, kami akan memberi tahu Anda setelah "
+"disetujui"
+
+msgid "Your server max upload size"
+msgstr "Ukuran unggahan maksimum server Anda"
+
+msgid "Your session hash has been broken, Please contact Sngine's support!"
+msgstr ""
+"Hash sesi Anda telah rusak, Silakan hubungi dukungan Buddyshare Engine!"
+
+msgid "Your two-factor authentication settings have been updated"
+msgstr "Pengaturan otentikasi dua faktor Anda telah diperbarui"
+
+msgid "Your verification request has been declined by the admin"
+msgstr "Permintaan verifikasi Anda telah ditolak oleh admin"
+
+msgid "Your verification request is still awaiting admin approval"
+msgstr "Permintaan verifikasi Anda masih menunggu persetujuan admin"
+
+msgid "Your withdrawal request has been sent"
+msgstr "Permintaan penarikan Anda telah dikirim"
+
+msgid "Zip Code"
+msgstr "Kode Pos"
+
+msgid "accepted your friend request"
+msgstr "menerima permintaan pertemanan Anda"
+
+msgid "accepted your request to join"
+msgstr "menerima permintaan Anda untuk bergabung"
+
+msgid "added a file"
+msgstr "menambahkan file"
+
+msgid "added a photo"
+msgstr "menambahkan foto"
+
+msgid "added a poll"
+msgstr "menambahkan polling"
+
+msgid "added a video"
+msgstr "menambahkan sebuah video"
+
+msgid "added an audio"
+msgstr "menambahkan audio"
+
+msgid "added new article"
+msgstr "menambahkan artikel baru"
+
+msgid "added new job"
+msgstr "menambahkan pekerjaan baru"
+
+msgid "added new offer"
+msgstr "menambahkan penawaran baru"
+
+msgid "added new product for sale"
+msgstr "menambahkan produk baru untuk dijual"
+
+msgid "added you as admin to"
+msgstr "menambahkan kamu sebagai admin ke"
+
+msgid "added you to"
+msgstr "menambahkan kamu ke"
+
+msgid "and allowed extensions are"
+msgstr "dan ekstensi yang diizinkan adalah"
+
+msgid "applied to your job"
+msgstr "melamar pekerjaan Anda"
+
+msgid "as username"
+msgstr "sebagai nama pengguna"
+
+msgid "as web address"
+msgstr "sebagai alamat website"
+
+msgid "as well as a password"
+msgstr "serta kata sandi"
+
+msgid "asked to join your group"
+msgstr "diminta untuk bergabung dengan grup Anda"
+
+msgid "at"
+msgstr "di"
+
+msgid "basic info"
+msgstr "Info dasar"
+
+msgid "belongs to an existing account"
+msgstr "milik akun yang sudah ada"
+
+msgid "belongs to an existing group"
+msgstr "milik grup yang sudah ada"
+
+msgid "belongs to an existing page"
+msgstr "milik halaman yang sudah ada"
+
+msgid "belongs to an existing static page"
+msgstr "milik halaman statis yang sudah ada"
+
+msgid "birthdate"
+msgstr "tanggal lahir"
+
+msgid "commented on your photo"
+msgstr "mengomentari foto anda"
+
+msgid "commented on your post"
+msgstr "mengomentari postingan anda"
+
+msgid "doesn't belong to any account"
+msgstr "bukan milik akun manapun"
+
+msgid "doesn't have admins"
+msgstr "tidak memiliki admin"
+
+msgid "doesn't have albums"
+msgstr "tidak memiliki album"
+
+msgid "doesn't have followers"
+msgstr "tidak memiliki pengikut"
+
+msgid "doesn't have followings"
+msgstr "tidak memiliki orang yang diikuti"
+
+msgid "doesn't have friends"
+msgstr "tidak mempunyai teman"
+
+msgid "doesn't have members"
+msgstr "tidak memiliki anggota"
+
+msgid "doesn't have photos"
+msgstr "tidak memiliki foto"
+
+msgid "education info"
+msgstr "Info Pendidikan"
+
+msgid "email"
+msgstr "e-mail"
+
+msgid "explore"
+msgstr "eksplorasi"
+
+msgid "fake users accounts generated successfully"
+msgstr "akun pengguna palsu berhasil dibuat"
+
+msgid "favorites"
+msgstr "Favorit"
+
+msgid "feeling_action"
+msgstr "feeling_action"
+
+msgid "feeling_value"
+msgstr "feeling_value"
+
+msgid "followers"
+msgstr "pengikut"
+
+msgid ""
+"for the Emojis, You must replace underscores with hyphens, For example: :"
+"hatching_chick: for pattern and hatching-chickas for class"
+msgstr ""
+"untuk Emoji, Anda harus mengganti garis bawah dengan tanda hubung, Misalnya: "
+":hatching_chick: for pattern dan hatching-chickas for class"
+
+msgid "friends"
+msgstr "teman"
+
+msgid "from your affiliates credit"
+msgstr "dari kredit afiliasi Anda"
+
+msgid "from your points credit"
+msgstr "dari buddy point Anda"
+
+msgid "group"
+msgstr "grup"
+
+msgid "in News Feed anymore"
+msgstr "di beranda anda lagi"
+
+msgid "in kilobytes (1 M = 1024 KB)"
+msgstr "dalam kilobyte (1 M = 1024 KB)"
+
+msgid "in kilobytes (1M = 1024KB)"
+msgstr "dalam kilobyte (1 M = 1024 KB)"
+
+msgid "increase the campaign budget to resume the campaign"
+msgstr "tingkatkan anggaran kampanye untuk melanjutkan kampanye"
+
+msgid "invite you to join an event"
+msgstr "mengundang Anda untuk bergabung dalam sebuah acara"
+
+msgid "invite you to like a page"
+msgstr "mengundang Anda untuk menyukai halaman"
+
+msgid "is"
+msgstr "adalah"
+
+msgid "joined events"
+msgstr "mengikuti acara"
+
+msgid "joined groups"
+msgstr "bergabung dengan grup"
+
+msgid "liked pages"
+msgstr "halaman yang disukai"
+
+msgid "link"
+msgstr "link"
+
+msgid "location info"
+msgstr "Informasi Lokasi"
+
+msgid "login with"
+msgstr "masuk dengan"
+
+msgid "members"
+msgstr "member"
+
+msgid "mentioned you in a comment"
+msgstr "memanggil anda dalam komentar"
+
+msgid "mentioned you in a post"
+msgstr "memanggil anda dalam kirimannya"
+
+msgid "mentioned you in a reply"
+msgstr "memanggil anda dalam balasan"
+
+msgid "minutes"
+msgstr "Menit"
+
+msgid "more"
+msgstr "lagi"
+
+msgid "mutual friends"
+msgstr "teman yang sama"
+
+msgid "new user registered"
+msgstr "pengguna baru terdaftar"
+
+msgid "new user registered & bought a package"
+msgstr "pengguna baru terdaftar & membeli paket"
+
+msgid "now following you"
+msgstr "telah mengikuti anda"
+
+msgid "of"
+msgstr "dari"
+
+msgid "or"
+msgstr "atau"
+
+msgid "other info"
+msgstr "Info Lainnya"
+
+msgid "page"
+msgstr "halaman"
+
+msgid "pending"
+msgstr "tertunda"
+
+msgid "pending needs your approval"
+msgstr "tertunda membutuhkan persetujuan Anda"
+
+msgid "people"
+msgstr "orang"
+
+msgid "people like this"
+msgstr "orang-orang suka ini"
+
+msgid "per"
+msgstr "per"
+
+msgid "person"
+msgstr "orang"
+
+msgid "persons"
+msgstr "orang-orang"
+
+msgid "phone"
+msgstr "telpon"
+
+msgid "photo"
+msgstr "foto"
+
+msgid "photos"
+msgstr "Foto"
+
+msgid "photos to the album"
+msgstr "foto ke album"
+
+msgid "points"
+msgstr "Buddy Points"
+
+msgid "points equal"
+msgstr "poin sama"
+
+msgid "poked you"
+msgstr "mencolek anda"
+
+msgid "poll"
+msgstr "pendapat"
+
+msgid "post"
+msgstr "posting"
+
+msgid "posted on your wall"
+msgstr "mengirimkan sesuatu di timeline Anda"
+
+msgid "posts are loaded, between the posts"
+msgstr "postingan dimuat, di antara posting"
+
+msgid "preview"
+msgstr "pratinjau"
+
+msgid "raised new funding request"
+msgstr "mengajukan permintaan pendanaan baru"
+
+msgid "reCAPTCHA Enabled"
+msgstr "reCAPTCHA Enabled"
+
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key"
+
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+msgid "reacted to your comment"
+msgstr "bereaksi terhadap komentar Anda"
+
+msgid "reacted to your photo"
+msgstr "bereaksi terhadap foto Anda"
+
+msgid "reacted to your post"
+msgstr "bereaksi terhadap postingan Anda"
+
+msgid "reacted to your reply"
+msgstr "bereaksi terhadap balasan anda Anda"
+
+msgid "register with"
+msgstr "mendaftar dengan"
+
+msgid "relationship"
+msgstr "Berhubungan"
+
+msgid "remaining points"
+msgstr "poin yang tersisa"
+
+msgid "replied to your comment"
+msgstr "membalas komentar anda"
+
+msgid "replied to your thread"
+msgstr "membalas thread anda"
+
+msgid "reported new content"
+msgstr "melaporkan konten baru"
+
+msgid "results were found for the search for"
+msgstr "hasil ditemukan untuk pencarian "
+
+msgid "rows from the database"
+msgstr "baris dari database"
+
+msgid "sad"
+msgstr "sedih"
+
+msgid "seconds ago"
+msgstr "detik yang lalu"
+
+msgid "select valid category for your job"
+msgstr "pilih kategori yang valid untuk pekerjaan Anda"
+
+msgid "select valid category for your offer"
+msgstr "pilih kategori yang valid untuk penawaran Anda"
+
+msgid "send a friend request"
+msgstr "kirim permintaan pertemanan"
+
+msgid "sent new verification request"
+msgstr "mengirim permintaan verifikasi baru"
+
+msgid "sent you"
+msgstr "mengirim kepada anda"
+
+msgid "sent you a friend request"
+msgstr "mengirimi Anda permintaan pertemanan"
+
+msgid "sent you a gift"
+msgstr "mengirimkan anda Hadiah"
+
+msgid "shared"
+msgstr "dibagikan"
+
+msgid "shared a link"
+msgstr "membagikan tautan"
+
+msgid "shared your post"
+msgstr "membagikan kiriman Anda"
+
+msgid "shares with friends"
+msgstr "berbagi dengan teman"
+
+msgid "song"
+msgstr "Lagu"
+
+msgid "to"
+msgstr "kepada"
+
+msgid "to complete phone verification process"
+msgstr "untuk menyelesaikan proses verifikasi telepon"
+
+msgid "to complete the activation process"
+msgstr "untuk menyelesaikan proses aktivasi"
+
+msgid "to complete the verification process"
+msgstr "untuk menyelesaikan proses Verifikasi"
+
+msgid "tomorrow"
+msgstr "besok"
+
+msgid "transfer transaction successfuly sent"
+msgstr "transaksi transfer berhasil terkirim"
+
+msgid "updated cover photo"
+msgstr "Update Foto Sampul"
+
+msgid "updated event cover"
+msgstr "Perbaharui Foto Sampul Acara"
+
+msgid "updated group cover"
+msgstr "Perbaharui Foto Sampul Grup"
+
+msgid "updated group picture"
+msgstr "Perbaharui Foto Grup"
+
+msgid "updated page picture"
+msgstr "Perbaharui Foto Halaman"
+
+msgid "updated the cover photo"
+msgstr "Perbaharui Foto Sampul"
+
+msgid "updated the profile picture"
+msgstr "Perbaharui Foto Profil"
+
+msgid "user"
+msgstr "User"
+
+msgid ""
+"valid only for one time usage, so once you used it you will not be able to "
+"use it again and generate new code you will need to redirect the user to the "
+"log in with link again"
+msgstr ""
+"hanya berlaku untuk satu kali penggunaan, jadi setelah Anda menggunakannya, "
+"Anda tidak akan dapat menggunakannya lagi dan menghasilkan kode baru, Anda "
+"perlu mengarahkan pengguna ke login dengan tautan lagi"
+
+msgid ""
+"valid only for only one 1 hour, so once it got invalid you will need to "
+"genarte new one by redirect the user to the log in with link again"
+msgstr ""
+"hanya berlaku untuk satu 1 jam, jadi setelah tidak valid, Anda perlu membuat "
+"yang baru dengan mengarahkan pengguna ke login dengan tautan lagi"
+
+msgid "visited your profile"
+msgstr "mengunjungi Profil anda"
+
+msgid "voted on your poll"
+msgstr "memberikan suara pada pendapat Anda"
+
+msgid "wallet"
+msgstr "Buddy Dompet"
+
+msgid "wants to join this group"
+msgstr "ingin bergabung di grup ini"
+
+msgid "was live"
+msgstr "sedang live"
+
+msgid ""
+"which means that now you are ready to retrive data from our APIs and to "
+"start this process you will need to authorize your app and get the"
+msgstr ""
+"yang berarti bahwa sekarang Anda siap untuk mengambil data dari API kami dan "
+"untuk memulai proses ini Anda perlu mengotorisasi aplikasi Anda dan "
+"mendapatkan"
+
+msgid "work info"
+msgstr "Informasi Pekerjaan"
+
+msgid "years old to register"
+msgstr "tahun untuk mendaftar"
+
+msgid "yesterday"
+msgstr "kemarin"
+
+msgid "Account activation enabled from your system settings by E-mail"
+msgstr "Aktivasi akun diaktifkan dari pengaturan sistem Anda melalui E-mail"
+
+msgid "If demo mode enabled this user will not be able to do anything"
+msgstr ""
+"Jika mode demo diaktifkan, pengguna ini tidak akan dapat melakukan apa pun"
+
+msgid "Account Activated"
+msgstr "Akun Diaktifkan"
+
+msgctxt "Hapus Postingan"
+msgid "Delete Posts"
+msgstr "Hapus Postingan"
+
+msgctxt "Hapus Pengguna ini"
+msgid "Delete User"
+msgstr "Hapus Pengguna ini"
+
+msgid "If enabled users will be able to withdraw money from their wallets"
+msgstr ""
+"Jika diaktifkan, pengguna akan dapat menarik uang dari Buddy dompet mereka"
+
+msgid "Custom Method Name"
+msgstr "Nama Metode Kustom"
+
+msgid "Male"
+msgstr "Laki-laki"
+
+msgid "Female"
+msgstr "Wanita"
+
+msgid "Allow users to select between day and night mode"
+msgstr "Izinkan pengguna untuk memilih antara mode siang dan malam"
+
+msgctxt "Kelola Kiriman"
+msgid "Manage Posts"
+msgstr "Kelola Kiriman"
+
+msgid "We will Back Soon"
+msgstr "Kami akan Segera Kembali"
+
+msgid "Discover posts are public posts ordered from most recent to old"
+msgstr ""
+"Temukan posting adalah posting publik yang diurutkan dari yang terbaru ke "
+"yang lama"
+
+msgid "Memories are posts from the same day on last year"
+msgstr "Kenangan adalah postingan dari hari yang sama di tahun lalu"
+
+msgid "Max Posts/Hour"
+msgstr "Maks Postingan/Jam"
+
+msgid "Max Comments/Hour"
+msgstr "Maks Kiriman/Jam"
+
+msgid "Default Posts Privacy"
+msgstr "Privasi Postingan secara default"
+
+msgid "Anyone one can see the post"
+msgstr "Siapapun bisa melihat postingannya"
+
+msgid "Show what user is followings (Friends, Followings, Pages... etc"
+msgstr ""
+"Tampilkan apa yang dapat diikuti oleh pengguna (Teman, Mengikuti, Halaman ..."
+" dll"
+
+msgid "All Posts"
+msgstr "Semua Kiriman"
+
+msgid "All posts will be shown"
+msgstr "Semua postingan akan ditampilkan"
+
+msgid "Any user in the system can"
+msgstr "Setiap pengguna dalam sistem dapat melakukannya"
+
+msgid "Only Admins and Moderators"
+msgstr "Hanya admin dan moderator saja"
+
+msgid "Only Admins, Moderators, Pro and Verified Users"
+msgstr "Hanya Admin, Moderator, Buddy Pro Dan Verified Pengguna"
+
+msgid "Only Admins, Moderators and Pro Users"
+msgstr "Hanya Admin, Moderator, dan Buddy Pro"
+
+msgid "Who Can Generate Invitation Codes"
+msgstr "Siapa yang Dapat Membuat Kode Undangan"
+
+msgid "Invitations/User"
+msgstr "Undangan/Pengguna"
+
+msgid "Send Method"
+msgstr "Metode Pengiriman"
+
+msgid "Activation Type"
+msgstr "Tipe Aktivasi"
+
+msgid "Name Minimum Length"
+msgstr "Nama Panjang Minimum"
+
+msgid "If disabled full names will be displayed instead"
+msgstr "Jika dinonaktifkan, nama lengkap akan ditampilkan sebagai gantinya"
+
+msgid ""
+"If disabled find new people and people may know will be selected randomly"
+msgstr ""
+"Jika dinonaktifkan temukan orang baru dan orang yang mungkin tahu akan "
+"dipilih secara acak"
+
+msgid "Allow users to download their account information from settings page"
+msgstr ""
+"Izinkan pengguna mengunduh informasi akun mereka dari halaman pengaturan"
+
+msgid "Download User Information (GDPR)"
+msgstr "Unduh Informasi Pengguna (GDPR)"
+
+msgid "Download User Information"
+msgstr "Unduh Informasi Pengguna"
+
+msgid "Disable Friend Request After Decline"
+msgstr "Nonaktifkan Permintaan Pertemanan Setelah Ditolak"
+
+msgid ""
+"If enabled user A will be able to send friendship request to user B again"
+msgstr ""
+"Jika diaktifkan, pengguna A akan dapat mengirim permintaan pertemanan ke "
+"pengguna B lagi"
+
+msgid "Max Friends/User"
+msgstr "Maksimal Teman /pengguna"
+
+msgid "Allow users to upload background image to their profiles"
+msgstr "Izinkan pengguna mengunggah gambar latar belakang ke profil mereka"
+
+msgid "Medium quality photos with medium compression"
+msgstr "Foto berkualitas sedang dengan kompresi sedang"
+
+msgid "High quality photos with low compression"
+msgstr "Foto berkualitas tinggi dengan kompresi rendah"
+
+msgid "Low quality photos with high compression"
+msgstr "Foto berkualitas rendah dengan kompresi tinggi"
+
+msgid ""
+"Enable it to add watermark icon to all uploaded photos (except: profile "
+"pictures and cover images)"
+msgstr ""
+"Aktifkan untuk menambahkan ikon watermark ke semua foto yang diunggah "
+"(kecuali: gambar profil dan gambar sampul)"
+
+msgid ""
+"Enable it to detect the adult images and system will blur or delete them"
+msgstr ""
+"Aktifkan untuk mendeteksi gambar dewasa dan sistem akan mengaburkan atau "
+"menghapusnya"
+
+msgid "Bank Name"
+msgstr "Nama Bank (Contoh: BCA)"
+
+msgid "Bank Account Number"
+msgstr "Nomor Rekening"
+
+msgid "Bank Account Name"
+msgstr "Nama Lengkap Anda"
+
+msgid "Bank Account Routing Code"
+msgstr "Nama Lengkap Bank (Contoh: Bank Central Asia)"
+
+msgid "Bank Account Country"
+msgstr "Negara Bank (Contoh: Indonesia)"
+
+msgid ""
+"In order to confirm the bank transfer, you will need to upload a receipt or "
+"take a screenshot of your transfer within 1 day from your payment date. If a "
+"bank transfer is made but no receipt is uploaded within this period, your "
+"order will be cancelled. We will verify and confirm your receipt within 3 "
+"working days from the date you upload it."
+msgstr ""
+"Untuk mengonfirmasi transfer bank, Anda harus mengunggah tanda terima atau "
+"mengambil tangkapan layar transfer Anda dalam waktu 1 hari sejak tanggal "
+"pembayaran. Jika transfer bank dilakukan tetapi tidak ada tanda terima yang "
+"diunggah dalam periode ini, pesanan Anda akan dibatalkan. Kami akan "
+"memverifikasi dan mengonfirmasi tanda terima Anda dalam waktu 3 hari kerja "
+"sejak tanggal Anda mengunggahnya."
+
+msgid "Lockout Time"
+msgstr "Waktu Penguncian Akun"
+
+msgid "Bad Login Limit"
+msgstr "Batas Bad Login"
+
+msgid "Disable it to use your custom uploaded image"
+msgstr "Nonaktifkan untuk menggunakan gambar unggahan khusus Anda"
+
+msgid "(Disable it to use your custom uploaded image)"
+msgstr "(Nonaktifkan untuk menggunakan gambar unggahan khusus Anda)"
+
+msgid "Show Google Play Store badge on the landing page"
+msgstr "Tampilkan Google Play Store Badge di Landing Page"
+
+msgid "Show Huawei AppGallery badge on the landing page"
+msgstr "Tampilkan Huawei AppGallery badge di Landing Page"
+
+msgid "Show Apple App Store badge on the landing page"
+msgstr "Tampilkan Apple App Store badge badge di Landing Page"
+
+msgid "Currencies"
+msgstr "Mata Uang"
+
+msgid "+ Add New Currency"
+msgstr "+ Tambahkan Mata Uang"
+
+msgid "Add New Currency"
+msgstr "Tambahkan Mata Uang"
+
+msgid "Genders"
+msgstr "Jenis Kelamin"
+
+msgid "Search by Post ID or Text"
+msgstr "Cari berdasarkan Post ID atau Teks"
+
+msgid "Search by Page Web Address or Title"
+msgstr "Cari berdasarkan Alamat Web Halaman atau Judul"
+
+msgid "Bank transfers is disabled"
+msgstr "Transfer via bank dinonaktifkan"
+
+msgid "Bank Receipts"
+msgstr "Tanda Terima Transfer via Bank"
+
+msgid ""
+"Add a prefix to the uploaded files (No spaces or special characters only "
+"like 'mysite' or 'my_site')"
+msgstr ""
+"Tambahkan nama awalan ke file yang diunggah (Tidak ada spasi atau karakter "
+"khusus hanya seperti 'buddyshare' atau 'Buddy_share')"
+
+msgid "Enable photo upload in comments"
+msgstr "Aktifkan unggah foto di komentar"
+
+msgid "Enable photo upload in chat"
+msgstr "Aktifkan unggah foto dalam obrolan"
+
+msgid "Enable photo upload in articles and forums threads"
+msgstr "Aktifkan unggahan foto di artikel dan forum"
+
+msgid "Enable it to add watermark icon to all uploaded photos"
+msgstr "Aktifkan untuk menambahkan ikon watermark ke semua foto yang diunggah"
+
+msgid "except: profile pictures and cover images"
+msgstr "kecuali: gambar profil dan gambar sampul"
+
+msgid "Contact us and we’ll get back to you as soon as possible"
+msgstr "Hubungi kami dan kami akan menghubungi Anda sesegera mungkin"
+
+msgid "Find the best offers that you can buy"
+msgstr "Temukan penawaran terbaik yang dapat Anda beli"
+
+msgid ""
+"Fundraisers make it easy to support friends, family and the causes that are "
+"important to you"
+msgstr ""
+"Penggalangan dana memudahkan untuk mendukung teman, keluarga, dan tujuan "
+"yang penting bagi Anda"
+
+msgid "ON THIS DAY"
+msgstr "PADA HARI INI"
+
+msgctxt "Kenangan"
+msgid "Memories"
+msgstr "Kenangan"
+
+msgid "Enjoy looking back on your memories"
+msgstr "Nikmati melihat kembali kenangan Anda"
+
+msgid "My Funding Requests"
+msgstr "Permintaan Pendanaan Saya"
+
+msgid "Add Funding Request"
+msgstr "Buat Pendanaan"
+
+msgid "Discover Posts"
+msgstr "Temukan Kiriman"
+
+msgid "Discover new products"
+msgstr "Temukan produk baru"
+
+msgid "Latest"
+msgstr "Terbaru"
+
+msgid "Delete Your Story"
+msgstr "Hapus Cerita Anda"
+
+msgid "Search for jobs"
+msgstr "Cari pekerjaan"
+
+msgid " invitations every"
+msgstr "undangan setiap"
+
+msgid " invitations"
+msgstr "undangan"
+
+msgid "every"
+msgstr "setiap"
+
+msgid "Description of your Directory"
+msgstr "Deskripsi modul Direktori Anda"
+
+msgid "Description of your blogs module"
+msgstr "Deskripsi modul Artikel Anda"
+
+msgid "Description of your marketplace module"
+msgstr "Deskripsi modul MarketplaceAnda"
+
+msgid "Description of your funding module"
+msgstr "Deskripsi modul Funding Anda"
+
+msgid "Description of your offer module"
+msgstr "Deskripsi modul Penawaran Anda"
+
+msgid "Description of your jobs module"
+msgstr "Deskripsi modul Pekerjaan Anda"
+
+msgid "Description of your forums module"
+msgstr "Deskripsi modul Forum Anda"
+
+msgid "Description of your movies module"
+msgstr "Deskripsi modul Film Anda"
+
+msgid "Directory Description"
+msgstr "Deksripsi Direktori System"
+
+msgid "Blogs Description"
+msgstr "Deksripsi Artikel System"
+
+msgid "Marketplace Description"
+msgstr "Deksripsi Marketplace system"
+
+msgid "Funding Description"
+msgstr "Deksripsi Funding System"
+
+msgid "Offers Description"
+msgstr "Deksripsi Penawaran System"
+
+msgid "Jobs Description"
+msgstr "Deksripsi Pekerjaan System"
+
+msgid "Forums Description"
+msgstr "Deksripsi Forum System"
+
+msgid "Movies Description"
+msgstr "Deksripsi Movie System"
+
+msgctxt "Memungkinkan pengguna untuk saling Mencolek"
+msgid "Enable users to poke each others"
+msgstr "Memungkinkan pengguna untuk saling Mencolek"
+
+msgid ""
+"Enable brute force attack detection, System will block the user account if "
+"hacker try to login with invalid password too many times to guess the "
+"correct account password"
+msgstr ""
+"Aktifkan deteksi serangan brute force, Sistem akan memblokir akun pengguna "
+"jika peretas mencoba masuk dengan kata sandi yang tidak valid terlalu sering "
+"untuk menebak kata sandi akun yang benar"
+
+msgid ""
+"Enable unusual login detection, System will not allow user to login with "
+"same session from different device or location"
+msgstr ""
+"Aktifkan deteksi login yang tidak biasa, Sistem tidak akan mengizinkan "
+"pengguna untuk login dengan sesi yang sama dari perangkat atau lokasi yang "
+"berbeda"
+
+msgid "USD"
+msgstr "IDR"
+
+msgid "Enable users to buy packages from their wallet balance"
+msgstr ""
+"Memungkinkan pengguna untuk membeli paket dari saldo Buddy dompet mereka"
+
+msgid "Make sure you have enabled"
+msgstr "Pastikan Anda telah mengaktifkan"
+
+msgid "No data available in table"
+msgstr "Tidak ada data di dalam tabel"
+
+msgid "Leave it 0 if you don't want to get any commissions"
+msgstr "Biarkan 0 jika Anda tidak ingin mendapatkan komisi apa pun"
+
+msgid "Search by Funding Title or Description"
+msgstr "Cari berdasarkan Judul atau Deskripsi Pendanaan"
+
+msgid ""
+"Developers apps will allow other developers to use your system APIs like "
+"login with and get user info"
+msgstr ""
+"Aplikasi pengembang akan memungkinkan pengembang lain menggunakan API sistem "
+"Anda seperti masuk dengan dan mendapatkan info pengguna"
+
+msgid ""
+"Once you reset your website all data will be deleted and it will be like "
+"having a fresh installation"
+msgstr ""
+"Setelah Anda mengatur ulang situs web Anda, semua data akan dihapus dan itu "
+"akan seperti memiliki instalasi baru"
+
+msgid "Note: All system settings will be saved"
+msgstr "Catatan: Semua pengaturan sistem akan disimpan"
+
+msgid "Reset Everything"
+msgstr "Setel ulang semuanya"
+
+msgid "Gifts"
+msgstr "Hadiah"
+
+msgid "Add New Gift"
+msgstr "Tambahkan Hadiah Baru"
+
+msgid ""
+"If chat disabled you will appear offline and will no see who is online too"
+msgstr ""
+"Jika obrolan dinonaktifkan, Anda akan terlihat offline dan tidak akan "
+"melihat siapa yang online juga"
+
+msgid "From time to time we send newsletter email to all of our members"
+msgstr ""
+"Dari waktu ke waktu kami mengirim email newsletter ke semua pengguna kami"
+
+msgid "Can only contain alphanumeric characters (A–Z, 0–9) and periods ('.')"
+msgstr "Hanya boleh berisi karakter alfanumerik (A–Z, 0–9) dan titik ('.')"
+
+msgid "ACTIVATE YOUR AUTHENTICATOR"
+msgstr "AKTIFKAN AUTHENTICATOR ANDA"
+
+msgid ""
+"A sound will be played each time you receive a new message on an inactive "
+"chat window"
+msgstr ""
+"Suara akan diputar setiap kali Anda menerima pesan baru di jendela obrolan "
+"yang tidak aktif"
+
+msgid ""
+"A sound will be played each time you receive a new activity notification"
+msgstr "Suara akan diputar setiap kali Anda menerima notifikasi aktivitas baru"
+
+msgid "Chat Message Sound"
+msgstr "Suara Pesan"
+
+msgid "Notifications Sound"
+msgstr "Suara Notifikasi"
+
+msgid "For each user you will refer."
+msgstr "Untuk setiap pengguna, Anda akan merujuk."
+
+msgid ""
+"Your daily points limit will be reset after 24 hours from your last valid "
+"earned action"
+msgstr ""
+"Batas poin harian Anda akan diatur ulang setelah 24 jam dari tindakan "
+"terakhir yang Anda peroleh yang valid"
+
+msgid "Download Your Information"
+msgstr "Download Informasi Anda"
